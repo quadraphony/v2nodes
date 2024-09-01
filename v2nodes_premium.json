@@ -1,19 +1,5 @@
 [
     {
-        "date": "2024-09-01T13:05:02+00:00",
-        "text": "**New V2Ray VLESS Server**\n\n**Server Info**\n**IP Address** : 104.28.153.227\n**Response** : 137ms\n**Location** : \ud83c\uddfa\ud83c\uddf8 United States, Virginia, Reston\n**Coordinates** : 38.9609,-77.3429\n**Timezone** : America/New_York\n**ORG** : Cloudflare WARP\n**ISP** : Cloudflare, Inc.\n\n```vless://d342d11e-d424-4583-b36e-524ab1f0afa4@75.2.32.4:443?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#\ud83c\uddfa\ud83c\uddf8[openproxylist.com] vless-US```",
-        "parsed_text": {
-            "IP Address": "104.28.153.227",
-            "Response Time": "137ms",
-            "Location": "\ud83c\uddfa\ud83c\uddf8 United States, Virginia, Reston",
-            "Coordinates": "38.9609,-77.3429",
-            "Timezone": "America/New_York",
-            "ORG": "Cloudflare WARP",
-            "ISP": "Cloudflare, Inc.",
-            "VLess Profile": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@75.2.32.4:443?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#\ud83c\uddfa\ud83c\uddf8[openproxylist.com] vless-US"
-        }
-    },
-    {
         "date": "2024-09-01T13:13:51+00:00",
         "text": "**New V2Ray VLESS Server**\n\n**Server Info**\n**IP Address** : 154.205.130.99\n**Response** : 124ms\n**Location** : \ud83c\uddec\ud83c\udde7 United Kingdom, England, London\n**Coordinates** : 51.5072,-0.127586\n**Timezone** : Europe/London\n**ORG** : Lightnode Limited\n**ISP** : Kaopu Cloud HK Limited\n\n```vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V30.ThEpHp.Ir.#\ud83c\uddec\ud83c\udde7[openproxylist.com] vless-GB```",
         "parsed_text": {
@@ -1397,6 +1383,20 @@
             "ORG": "AWS EC2 (eu-west-2)",
             "ISP": "Amazon Technologies Inc.",
             "VLess Profile": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.197.205:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#\ud83c\uddec\ud83c\udde7[openproxylist.com] vless-GB"
+        }
+    },
+    {
+        "date": "2024-09-01T23:01:05+00:00",
+        "text": "**New OpenVPN Server**\n\n**Server Info**\n**IP Address** : 176.214.72.117\n**Response** : 6ms\n**Location** : \ud83c\uddf7\ud83c\uddfa Russia, Yaroslavl Oblast, Yaroslavl\n**Coordinates** : 57.4977,39.7458\n**Timezone** : Europe/Moscow\n**ORG** : JSC \"ER-Telecom Holding\" Yaroslavl' Branch\n**ISP** : CJSC \"ER-Telecom Holding\" Yaroslavl' branch\n\n```https://openproxylist.com/openvpn/country/RU/```",
+        "parsed_text": {
+            "IP Address": "176.214.72.117",
+            "Response Time": "6ms",
+            "Location": "\ud83c\uddf7\ud83c\uddfa Russia, Yaroslavl Oblast, Yaroslavl",
+            "Coordinates": "57.4977,39.7458",
+            "Timezone": "Europe/Moscow",
+            "ORG": "JSC \"ER-Telecom Holding\" Yaroslavl' Branch",
+            "ISP": "CJSC \"ER-Telecom Holding\" Yaroslavl' branch",
+            "HTTPS Profile": "https://openproxylist.com/openvpn/country/RU/"
         }
     }
 ]
