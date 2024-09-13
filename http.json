@@ -9,21 +9,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "311ms",
+        "response_time": "301ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.172:10919",
-        "response_time": "251ms",
+        "response_time": "449ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "240ms",
+        "response_time": "245ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -44,7 +44,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "441ms",
+        "response_time": "337ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -56,9 +56,16 @@
         "isp": "Panay Broadband / Buenavista Cable TV., Inc."
     },
     {
+        "flag": "🇪🇨",
+        "ip_port": "45.171.108.253:999",
+        "response_time": "435ms",
+        "country_code": "EC",
+        "isp": "Lagonet-tv Cia. Ltda."
+    },
+    {
         "flag": "🇹🇭",
         "ip_port": "1.0.171.213:8080",
-        "response_time": "413ms",
+        "response_time": "285ms",
         "country_code": "TH",
         "isp": "TOT Public Company Limited"
     },
@@ -112,13 +119,6 @@
         "isp": "AT&T Services, Inc."
     },
     {
-        "flag": "🇹🇼",
-        "ip_port": "210.61.216.63:60808",
-        "response_time": "450ms",
-        "country_code": "TW",
-        "isp": "Chunghwa Telecom Co., Ltd."
-    },
-    {
         "flag": "🇵🇭",
         "ip_port": "58.69.125.145:8081",
         "response_time": "431ms",
@@ -126,11 +126,11 @@
         "isp": "Philippine Long Distance Telephone Co."
     },
     {
-        "flag": "🇧🇷",
-        "ip_port": "138.204.20.160:8080",
-        "response_time": "389ms",
-        "country_code": "BR",
-        "isp": "FONTNET ME"
+        "flag": "🇨🇦",
+        "ip_port": "67.43.228.252:10693",
+        "response_time": "296ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
     },
     {
         "flag": "🇧🇩",
@@ -142,16 +142,9 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "455ms",
+        "response_time": "413ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇧🇷",
-        "ip_port": "191.243.46.154:43241",
-        "response_time": "378ms",
-        "country_code": "BR",
-        "isp": "Microturbo Telecomunicacoes Ltda-me"
     },
     {
         "flag": "🇮🇩",
@@ -166,6 +159,13 @@
         "response_time": "385ms",
         "country_code": "ID",
         "isp": "MEGARAP"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.166.227.82:8080",
+        "response_time": "302ms",
+        "country_code": "ID",
+        "isp": "PT Arta Flash Sintesa Nusantara"
     },
     {
         "flag": "🇮🇩",
@@ -189,6 +189,13 @@
         "isp": "PT Fahasa Tri Data"
     },
     {
+        "flag": "🇯🇵",
+        "ip_port": "20.44.188.17:3129",
+        "response_time": "335ms",
+        "country_code": "JP",
+        "isp": "Microsoft Corporation"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
         "response_time": "431ms",
@@ -198,14 +205,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "374ms",
+        "response_time": "370ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.83:8080",
-        "response_time": "350ms",
+        "response_time": "36ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
@@ -219,7 +226,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "178ms",
+        "response_time": "422ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -232,24 +239,17 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "103.105.76.49:8080",
+        "response_time": "433ms",
+        "country_code": "ID",
+        "isp": "GARUDA"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.133.27.143:8080",
         "response_time": "230ms",
         "country_code": "ID",
         "isp": "PT PHATRIA INTI PERSADA"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "144.86.187.40:3128",
-        "response_time": "286ms",
-        "country_code": "US",
-        "isp": "Charles River Operation"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "144.86.187.35:3128",
-        "response_time": "362ms",
-        "country_code": "US",
-        "isp": "Charles River Operation"
     },
     {
         "flag": "🇺🇸",
@@ -280,9 +280,16 @@
         "isp": "Lexxa Data"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.154.230.107:5678",
+        "response_time": "411ms",
+        "country_code": "ID",
+        "isp": "DIGITNET"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "192.9.237.224:3128",
-        "response_time": "114ms",
+        "response_time": "144ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
@@ -313,13 +320,6 @@
         "response_time": "483ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "202.154.18.10:8080",
-        "response_time": "235ms",
-        "country_code": "ID",
-        "isp": "DIGITNET"
     },
     {
         "flag": "🇮🇩",
@@ -379,13 +379,6 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "103.155.196.27:8181",
-        "response_time": "319ms",
-        "country_code": "ID",
-        "isp": "JEMBATANDATA"
-    },
-    {
-        "flag": "🇮🇩",
         "ip_port": "124.158.153.218:8180",
         "response_time": "436ms",
         "country_code": "ID",
@@ -420,18 +413,32 @@
         "isp": "Iqtera Communication Pvt Ltd"
     },
     {
+        "flag": "🇸🇬",
+        "ip_port": "128.199.204.169:1337",
+        "response_time": "123ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "101.255.165.217:8080",
-        "response_time": "175ms",
+        "response_time": "454ms",
         "country_code": "ID",
         "isp": "PT Remala Abadi"
     },
     {
-        "flag": "🇮🇳",
-        "ip_port": "117.207.147.21:3127",
-        "response_time": "332ms",
-        "country_code": "IN",
-        "isp": "BSNL Internet"
+        "flag": "🇮🇩",
+        "ip_port": "103.125.38.50:8080",
+        "response_time": "180ms",
+        "country_code": "ID",
+        "isp": "PT. Eka Mas Republik"
+    },
+    {
+        "flag": "🇧🇷",
+        "ip_port": "179.43.8.16:8088",
+        "response_time": "422ms",
+        "country_code": "BR",
+        "isp": "Voex Telecom Ltda"
     },
     {
         "flag": "🇲🇽",
@@ -462,13 +469,6 @@
         "isp": "Mrkr Communications Private Limited"
     },
     {
-        "flag": "🇮🇳",
-        "ip_port": "103.80.116.61:8080",
-        "response_time": "324ms",
-        "country_code": "IN",
-        "isp": "Multicraft Digital Technologies Private Limited"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "103.164.112.123:10001",
         "response_time": "248ms",
@@ -497,13 +497,6 @@
         "isp": "VNPT"
     },
     {
-        "flag": "🇧🇷",
-        "ip_port": "177.73.68.150:8080",
-        "response_time": "218ms",
-        "country_code": "BR",
-        "isp": "OPENTEL Comércio e Serviços Ltda"
-    },
-    {
         "flag": "🇹🇷",
         "ip_port": "188.132.222.6:8080",
         "response_time": "373ms",
@@ -527,7 +520,7 @@
     {
         "flag": "🇫🇷",
         "ip_port": "51.158.169.52:29976",
-        "response_time": "449ms",
+        "response_time": "121ms",
         "country_code": "FR",
         "isp": "SCALEWAY"
     },
@@ -535,13 +528,6 @@
         "flag": "🇹🇷",
         "ip_port": "188.132.222.41:8080",
         "response_time": "467ms",
-        "country_code": "TR",
-        "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "188.132.222.49:8080",
-        "response_time": "313ms",
         "country_code": "TR",
         "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
     },
@@ -575,13 +561,6 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "103.152.232.124:3125",
-        "response_time": "43ms",
-        "country_code": "ID",
-        "isp": "PT Kingpolah Network Solutions"
-    },
-    {
-        "flag": "🇮🇩",
         "ip_port": "58.147.186.214:3125",
         "response_time": "468ms",
         "country_code": "ID",
@@ -590,7 +569,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "98ms",
+        "response_time": "83ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -600,20 +579,6 @@
         "response_time": "228ms",
         "country_code": "IN",
         "isp": "Finecom Internet services Pvt Ltd"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "139.255.41.118:8080",
-        "response_time": "350ms",
-        "country_code": "ID",
-        "isp": "PT. LINKNET"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "103.248.120.5:8080",
-        "response_time": "461ms",
-        "country_code": "IN",
-        "isp": "Shivansh Infotech pvt Ltd"
     },
     {
         "flag": "🇺🇸",
@@ -632,7 +597,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "152.26.229.74:9443",
-        "response_time": "124ms",
+        "response_time": "127ms",
         "country_code": "US",
         "isp": "MCNC"
     },
@@ -646,7 +611,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "152.26.231.86:9443",
-        "response_time": "169ms",
+        "response_time": "163ms",
         "country_code": "US",
         "isp": "MCNC"
     },
@@ -728,13 +693,6 @@
         "isp": "PT CYB Media Group"
     },
     {
-        "flag": "🇯🇵",
-        "ip_port": "164.70.117.141:3128",
-        "response_time": "369ms",
-        "country_code": "JP",
-        "isp": "NTT PC Communications, Inc."
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "36.91.166.98:8080",
         "response_time": "346ms",
@@ -743,31 +701,24 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "202.51.106.229:8080",
-        "response_time": "431ms",
+        "ip_port": "36.92.140.113:8080",
+        "response_time": "366ms",
         "country_code": "ID",
-        "isp": "PT Solusi Infostruktur Nusantara"
+        "isp": "PT. Telekomunikasi Indonesia"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "152.26.231.22:9443",
-        "response_time": "169ms",
+        "response_time": "160ms",
         "country_code": "US",
         "isp": "MCNC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "152.26.231.77:9443",
-        "response_time": "172ms",
+        "response_time": "181ms",
         "country_code": "US",
         "isp": "MCNC"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "166.159.90.56:53281",
-        "response_time": "396ms",
-        "country_code": "US",
-        "isp": "Cellco Partnership DBA Verizon Wireless"
     },
     {
         "flag": "🇹🇭",
@@ -784,6 +735,13 @@
         "isp": "PT Aplikanusa Lintasarta"
     },
     {
+        "flag": "🇺🇦",
+        "ip_port": "91.202.72.105:8080",
+        "response_time": "441ms",
+        "country_code": "UA",
+        "isp": "Main Gigatrans Infrastructure"
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "202.180.20.10:55443",
         "response_time": "175ms",
@@ -793,7 +751,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "211.104.20.205:8080",
-        "response_time": "378ms",
+        "response_time": "295ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -847,13 +805,6 @@
         "isp": "City Online Services Ltd"
     },
     {
-        "flag": "🇻🇳",
-        "ip_port": "27.72.63.61:8080",
-        "response_time": "397ms",
-        "country_code": "VN",
-        "isp": "Newass2011xDSLHN"
-    },
-    {
         "flag": "🇨🇴",
         "ip_port": "190.7.138.78:80",
         "response_time": "466ms",
@@ -904,13 +855,6 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "36.91.148.36:8080",
-        "response_time": "411ms",
-        "country_code": "ID",
-        "isp": "PT. Telekomunikasi Indonesia"
-    },
-    {
-        "flag": "🇮🇩",
         "ip_port": "182.253.140.250:8080",
         "response_time": "176ms",
         "country_code": "ID",
@@ -938,16 +882,9 @@
         "isp": "PT. Telekomunikasi Indonesia"
     },
     {
-        "flag": "🇦🇷",
-        "ip_port": "181.209.82.154:23500",
-        "response_time": "696ms",
-        "country_code": "AR",
-        "isp": "ARSAT - Empresa Argentina de Soluciones Satelitales S.A"
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "260ms",
+        "response_time": "273ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     },
