@@ -7,13 +7,6 @@
         "isp": "Hetzner Online GmbH"
     },
     {
-        "flag": "🇧🇩",
-        "ip_port": "103.234.27.221:1080",
-        "response_time": "218ms",
-        "country_code": "BD",
-        "isp": "BTS Communications (BD) Ltd"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.138:1080",
         "response_time": "234ms",
@@ -36,10 +29,17 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "103.174.178.133:1020",
-        "response_time": "782ms",
+        "ip_port": "103.174.178.139:1020",
+        "response_time": "643ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "167.172.159.43:35290",
+        "response_time": "510ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇷🇺",
@@ -58,21 +58,21 @@
     {
         "flag": "🇺🇸",
         "ip_port": "184.170.245.148:4145",
-        "response_time": "309ms",
+        "response_time": "731ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "199.229.254.129:4145",
-        "response_time": "576ms",
+        "response_time": "446ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇫🇮",
         "ip_port": "95.216.78.251:59166",
-        "response_time": "255ms",
+        "response_time": "133ms",
         "country_code": "FI",
         "isp": "Hetzner Online GmbH"
     },
@@ -86,9 +86,16 @@
     {
         "flag": "🇺🇸",
         "ip_port": "74.119.144.60:4145",
-        "response_time": "341ms",
+        "response_time": "378ms",
         "country_code": "US",
         "isp": "Total Server Solutions L.L.C."
+    },
+    {
+        "flag": "🇵🇸",
+        "ip_port": "93.184.4.254:1080",
+        "response_time": "792ms",
+        "country_code": "PS",
+        "isp": "BCI Telecommunication & Advanced Technology Company"
     },
     {
         "flag": "🇷🇺",
@@ -100,7 +107,7 @@
     {
         "flag": "🇻🇳",
         "ip_port": "202.92.5.136:17434",
-        "response_time": "137ms",
+        "response_time": "420ms",
         "country_code": "VN",
         "isp": "INET"
     },
@@ -114,56 +121,56 @@
     {
         "flag": "🇺🇸",
         "ip_port": "192.252.220.92:17328",
-        "response_time": "353ms",
+        "response_time": "341ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇻🇳",
         "ip_port": "202.92.6.70:54580",
-        "response_time": "347ms",
+        "response_time": "496ms",
         "country_code": "VN",
         "isp": "INET"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.181.217.201:4145",
-        "response_time": "378ms",
+        "response_time": "475ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.181.217.206:4145",
-        "response_time": "342ms",
+        "response_time": "451ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.252.208.70:14282",
-        "response_time": "306ms",
+        "response_time": "334ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.178.172.23:4145",
-        "response_time": "329ms",
+        "response_time": "358ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "619ms",
+        "response_time": "769ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇸🇪",
         "ip_port": "130.255.160.60:18946",
-        "response_time": "571ms",
+        "response_time": "505ms",
         "country_code": "SE",
         "isp": "Internet Vikings"
     },
@@ -198,28 +205,21 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.23.233.210:23899",
-        "response_time": "448ms",
+        "response_time": "369ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "38.91.107.220:14827",
-        "response_time": "464ms",
+        "response_time": "512ms",
         "country_code": "US",
         "isp": "GTHost"
     },
     {
-        "flag": "🇦🇺",
-        "ip_port": "185.139.155.155:1976",
-        "response_time": "495ms",
-        "country_code": "AU",
-        "isp": "Internet Vikings International AB"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.241:14954",
-        "response_time": "400ms",
+        "response_time": "237ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -247,7 +247,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.242:49385",
-        "response_time": "499ms",
+        "response_time": "680ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -275,7 +275,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.245:23251",
-        "response_time": "354ms",
+        "response_time": "272ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -289,7 +289,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "98.178.72.21:10919",
-        "response_time": "405ms",
+        "response_time": "471ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
@@ -303,7 +303,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "192.111.139.163:19404",
-        "response_time": "503ms",
+        "response_time": "694ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
@@ -338,119 +338,119 @@
     {
         "flag": "🇺🇸",
         "ip_port": "98.188.47.150:4145",
-        "response_time": "313ms",
+        "response_time": "324ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.178.172.13:15311",
-        "response_time": "785ms",
+        "response_time": "780ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.178.172.28:15294",
-        "response_time": "392ms",
+        "response_time": "412ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.178.172.14:4145",
-        "response_time": "426ms",
+        "response_time": "417ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.252.211.197:14921",
-        "response_time": "377ms",
+        "response_time": "618ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "198.8.94.170:39074",
-        "response_time": "305ms",
+        "response_time": "358ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.178.172.5:15303",
-        "response_time": "318ms",
+        "response_time": "305ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.181.217.210:4145",
-        "response_time": "321ms",
+        "response_time": "295ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "98.170.57.231:4145",
-        "response_time": "349ms",
+        "response_time": "370ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.111.139.162:4145",
-        "response_time": "499ms",
+        "response_time": "312ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.252.209.155:14455",
-        "response_time": "341ms",
+        "response_time": "397ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "184.178.172.25:15291",
-        "response_time": "354ms",
+        "response_time": "322ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.111.137.35:4145",
-        "response_time": "373ms",
+        "response_time": "366ms",
         "country_code": "US",
         "isp": "Total Server Solutions L.L.C."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.111.139.165:4145",
-        "response_time": "356ms",
+        "response_time": "328ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.111.138.29:4145",
-        "response_time": "469ms",
+        "response_time": "406ms",
         "country_code": "US",
         "isp": "Total Server Solutions L.L.C."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.252.215.5:16137",
-        "response_time": "378ms",
+        "response_time": "437ms",
         "country_code": "US",
         "isp": "Performive LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "192.111.129.145:16894",
-        "response_time": "338ms",
+        "response_time": "708ms",
         "country_code": "US",
         "isp": "Performive LLC"
     }
