@@ -1,5 +1,12 @@
 [
     {
+        "flag": "🇺🇸",
+        "ip_port": "67.213.210.175:43205",
+        "response_time": "341ms",
+        "country_code": "US",
+        "isp": "Hosting Services, Inc."
+    },
+    {
         "flag": "🇩🇪",
         "ip_port": "138.201.21.232:24252",
         "response_time": "531ms",
@@ -30,7 +37,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "724ms",
+        "response_time": "485ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -42,16 +49,9 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇸🇬",
-        "ip_port": "128.199.183.41:41266",
-        "response_time": "336ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇫🇷",
         "ip_port": "37.59.56.111:59166",
-        "response_time": "352ms",
+        "response_time": "590ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -72,7 +72,7 @@
     {
         "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
-        "response_time": "712ms",
+        "response_time": "476ms",
         "country_code": "RU",
         "isp": "Webmaster Agency Ltd"
     },
@@ -98,27 +98,6 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "209.159.153.21:31286",
-        "response_time": "348ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "66.29.129.54:14181",
-        "response_time": "331ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "209.159.153.19:53322",
-        "response_time": "295ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
-    },
-    {
         "flag": "🇫🇷",
         "ip_port": "212.83.137.165:53565",
         "response_time": "300ms",
@@ -128,9 +107,23 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.244:47900",
-        "response_time": "315ms",
+        "response_time": "275ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "162.0.220.161:34826",
+        "response_time": "234ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "66.23.233.210:23899",
+        "response_time": "324ms",
+        "country_code": "US",
+        "isp": "Interserver, Inc"
     },
     {
         "flag": "🇫🇷",
@@ -138,6 +131,13 @@
         "response_time": "399ms",
         "country_code": "FR",
         "isp": "Online S.A.S."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "66.29.128.241:14954",
+        "response_time": "400ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
@@ -163,7 +163,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "50.63.13.3:42099",
-        "response_time": "357ms",
+        "response_time": "365ms",
         "country_code": "US",
         "isp": "GoDaddy.com, LLC"
     },
