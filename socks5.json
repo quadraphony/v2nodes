@@ -7,6 +7,13 @@
         "isp": "Hetzner Online GmbH"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "162.210.197.91:17732",
+        "response_time": "334ms",
+        "country_code": "US",
+        "isp": "Leaseweb USA, Inc."
+    },
+    {
         "flag": "🇧🇩",
         "ip_port": "103.234.27.78:1080",
         "response_time": "411ms",
@@ -23,7 +30,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.133:1020",
-        "response_time": "383ms",
+        "response_time": "372ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
@@ -37,7 +44,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "388ms",
+        "response_time": "449ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -57,24 +64,10 @@
     },
     {
         "flag": "🇫🇷",
-        "ip_port": "37.59.56.111:59166",
-        "response_time": "373ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇫🇷",
         "ip_port": "212.83.142.158:47036",
         "response_time": "301ms",
         "country_code": "FR",
         "isp": "Online S.A.S."
-    },
-    {
-        "flag": "🇻🇳",
-        "ip_port": "202.92.5.136:17434",
-        "response_time": "431ms",
-        "country_code": "VN",
-        "isp": "INET"
     },
     {
         "flag": "🇻🇳",
@@ -92,6 +85,13 @@
     },
     {
         "flag": "🇫🇷",
+        "ip_port": "212.83.137.142:41918",
+        "response_time": "290ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
+    },
+    {
+        "flag": "🇫🇷",
         "ip_port": "141.94.238.246:60315",
         "response_time": "799ms",
         "country_code": "FR",
@@ -100,14 +100,14 @@
     {
         "flag": "🇫🇷",
         "ip_port": "212.83.137.94:15860",
-        "response_time": "260ms",
+        "response_time": "302ms",
         "country_code": "FR",
         "isp": "Online S.A.S."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.129.54:14181",
-        "response_time": "391ms",
+        "response_time": "392ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -128,14 +128,14 @@
     {
         "flag": "🇺🇸",
         "ip_port": "38.91.106.252:61625",
-        "response_time": "271ms",
+        "response_time": "382ms",
         "country_code": "US",
         "isp": "GTHost"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "174.138.176.78:35730",
-        "response_time": "271ms",
+        "response_time": "250ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
     },
@@ -143,13 +143,6 @@
         "flag": "🇺🇸",
         "ip_port": "162.0.220.220:46911",
         "response_time": "286ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "162.0.220.215:23313",
-        "response_time": "230ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -163,7 +156,7 @@
     {
         "flag": "🇫🇷",
         "ip_port": "212.83.143.147:43681",
-        "response_time": "372ms",
+        "response_time": "319ms",
         "country_code": "FR",
         "isp": "Online S.A.S."
     },
@@ -197,10 +190,17 @@
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "66.29.128.242:49385",
-        "response_time": "372ms",
+        "ip_port": "174.138.176.75:58822",
+        "response_time": "396ms",
         "country_code": "US",
-        "isp": "Namecheap, Inc."
+        "isp": "Interserver, Inc"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "212.83.143.151:22748",
+        "response_time": "440ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
     },
     {
         "flag": "🇫🇷",
@@ -215,12 +215,5 @@
         "response_time": "249ms",
         "country_code": "VN",
         "isp": "VNPT"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "79.137.34.146:42884",
-        "response_time": "559ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
     }
 ]
