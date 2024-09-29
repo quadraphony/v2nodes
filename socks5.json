@@ -23,7 +23,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.133:1020",
-        "response_time": "782ms",
+        "response_time": "383ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
@@ -37,7 +37,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "438ms",
+        "response_time": "388ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -49,6 +49,13 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇷🇺",
+        "ip_port": "185.112.224.151:1080",
+        "response_time": "398ms",
+        "country_code": "RU",
+        "isp": "Orion Telecom LLC"
+    },
+    {
         "flag": "🇫🇷",
         "ip_port": "37.59.56.111:59166",
         "response_time": "373ms",
@@ -56,11 +63,11 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "67.205.177.122:56826",
-        "response_time": "475ms",
-        "country_code": "US",
-        "isp": "DigitalOcean, LLC"
+        "flag": "🇫🇷",
+        "ip_port": "212.83.142.158:47036",
+        "response_time": "301ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
     },
     {
         "flag": "🇻🇳",
@@ -85,6 +92,13 @@
     },
     {
         "flag": "🇫🇷",
+        "ip_port": "141.94.238.246:60315",
+        "response_time": "799ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇫🇷",
         "ip_port": "212.83.137.94:15860",
         "response_time": "260ms",
         "country_code": "FR",
@@ -100,7 +114,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "209.159.153.19:53322",
-        "response_time": "378ms",
+        "response_time": "406ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
     },
@@ -117,13 +131,6 @@
         "response_time": "271ms",
         "country_code": "US",
         "isp": "GTHost"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "209.159.153.22:24452",
-        "response_time": "580ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
     },
     {
         "flag": "🇺🇸",
@@ -196,20 +203,6 @@
         "isp": "Namecheap, Inc."
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "209.159.153.20:26688",
-        "response_time": "643ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "212.83.143.159:23198",
-        "response_time": "466ms",
-        "country_code": "FR",
-        "isp": "Online S.A.S."
-    },
-    {
         "flag": "🇫🇷",
         "ip_port": "212.83.143.211:63905",
         "response_time": "407ms",
@@ -224,24 +217,10 @@
         "isp": "VNPT"
     },
     {
-        "flag": "🇹🇷",
-        "ip_port": "185.87.121.35:8975",
-        "response_time": "469ms",
-        "country_code": "TR",
-        "isp": "Ideal Hosting Teknoloji"
-    },
-    {
         "flag": "🇫🇷",
         "ip_port": "79.137.34.146:42884",
         "response_time": "559ms",
         "country_code": "FR",
         "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "185.86.5.162:8975",
-        "response_time": "693ms",
-        "country_code": "TR",
-        "isp": "Ideal Hosting Teknoloji"
     }
 ]
