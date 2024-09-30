@@ -2,14 +2,14 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.213.210.175:43205",
-        "response_time": "331ms",
+        "response_time": "318ms",
         "country_code": "US",
         "isp": "Hosting Services, Inc."
     },
     {
         "flag": "🇩🇪",
         "ip_port": "138.201.21.218:16014",
-        "response_time": "311ms",
+        "response_time": "301ms",
         "country_code": "DE",
         "isp": "Hetzner Online GmbH"
     },
@@ -17,6 +17,13 @@
         "flag": "🇩🇪",
         "ip_port": "138.201.21.228:28706",
         "response_time": "326ms",
+        "country_code": "DE",
+        "isp": "Hetzner Online GmbH"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "138.201.21.232:24252",
+        "response_time": "337ms",
         "country_code": "DE",
         "isp": "Hetzner Online GmbH"
     },
@@ -30,7 +37,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.213.212.39:52740",
-        "response_time": "380ms",
+        "response_time": "382ms",
         "country_code": "US",
         "isp": "Hosting Services, Inc."
     },
@@ -72,28 +79,35 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "764ms",
+        "response_time": "719ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "167.172.159.43:35290",
-        "response_time": "295ms",
+        "response_time": "259ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇷🇺",
         "ip_port": "185.112.224.151:1080",
-        "response_time": "470ms",
+        "response_time": "421ms",
         "country_code": "RU",
         "isp": "Orion Telecom LLC"
     },
     {
+        "flag": "🇷🇺",
+        "ip_port": "95.156.83.139:1080",
+        "response_time": "374ms",
+        "country_code": "RU",
+        "isp": "PJSC Rostelecom"
+    },
+    {
         "flag": "🇫🇷",
         "ip_port": "37.59.56.111:59166",
-        "response_time": "346ms",
+        "response_time": "331ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -135,7 +149,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "209.159.153.21:31286",
-        "response_time": "333ms",
+        "response_time": "326ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
     },
@@ -169,6 +183,13 @@
     },
     {
         "flag": "🇺🇸",
+        "ip_port": "66.29.129.54:14181",
+        "response_time": "300ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "209.159.153.19:53322",
         "response_time": "420ms",
         "country_code": "US",
@@ -184,7 +205,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.244:47900",
-        "response_time": "355ms",
+        "response_time": "369ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -194,6 +215,27 @@
         "response_time": "362ms",
         "country_code": "US",
         "isp": "GTHost"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "174.138.176.78:35730",
+        "response_time": "337ms",
+        "country_code": "US",
+        "isp": "Interserver, Inc"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "162.0.220.161:34826",
+        "response_time": "325ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "162.0.220.220:46911",
+        "response_time": "347ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
@@ -218,13 +260,6 @@
     },
     {
         "flag": "🇫🇷",
-        "ip_port": "195.154.43.198:25774",
-        "response_time": "321ms",
-        "country_code": "FR",
-        "isp": "Online S.A.S."
-    },
-    {
-        "flag": "🇫🇷",
         "ip_port": "212.83.143.147:43681",
         "response_time": "262ms",
         "country_code": "FR",
@@ -233,9 +268,23 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.241:14954",
-        "response_time": "368ms",
+        "response_time": "340ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "212.83.142.149:45413",
+        "response_time": "334ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "173.212.206.86:59710",
+        "response_time": "714ms",
+        "country_code": "DE",
+        "isp": "Contabo GmbH"
     },
     {
         "flag": "🇺🇸",
@@ -254,23 +303,16 @@
     {
         "flag": "🇺🇸",
         "ip_port": "174.138.176.75:58822",
-        "response_time": "338ms",
+        "response_time": "336ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "174.138.176.76:34147",
-        "response_time": "717ms",
+        "response_time": "413ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "66.29.128.245:23251",
-        "response_time": "432ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
@@ -282,21 +324,28 @@
     {
         "flag": "🇫🇷",
         "ip_port": "212.83.143.211:63905",
-        "response_time": "385ms",
+        "response_time": "353ms",
         "country_code": "FR",
         "isp": "Online S.A.S."
     },
     {
         "flag": "🇫🇷",
         "ip_port": "212.83.143.191:61245",
-        "response_time": "261ms",
+        "response_time": "159ms",
         "country_code": "FR",
         "isp": "Online S.A.S."
     },
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "34ms",
+        "response_time": "59ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "167.71.220.29:7497",
+        "response_time": "29ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
