@@ -1,6 +1,13 @@
 [
     {
         "flag": "🇺🇸",
+        "ip_port": "67.213.210.175:43205",
+        "response_time": "484ms",
+        "country_code": "US",
+        "isp": "Hosting Services, Inc."
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "67.213.212.39:52740",
         "response_time": "466ms",
         "country_code": "US",
@@ -9,7 +16,7 @@
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "325ms",
+        "response_time": "554ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
     },
@@ -23,7 +30,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "167.172.159.43:35290",
-        "response_time": "475ms",
+        "response_time": "313ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -49,16 +56,16 @@
         "isp": "BCI Telecommunication & Advanced Technology Company"
     },
     {
-        "flag": "🇿🇦",
-        "ip_port": "102.36.127.53:1080",
-        "response_time": "797ms",
-        "country_code": "ZA",
-        "isp": "Clear Access (Pty) Ltd"
+        "flag": "🇷🇺",
+        "ip_port": "194.190.169.197:3701",
+        "response_time": "358ms",
+        "country_code": "RU",
+        "isp": "Webmaster Agency Ltd"
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "465ms",
+        "response_time": "770ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -93,30 +100,44 @@
     {
         "flag": "🇺🇸",
         "ip_port": "38.91.107.229:28184",
-        "response_time": "394ms",
+        "response_time": "402ms",
         "country_code": "US",
         "isp": "GTHost"
     },
     {
-        "flag": "🇦🇺",
-        "ip_port": "185.139.155.155:1976",
-        "response_time": "617ms",
-        "country_code": "AU",
-        "isp": "Internet Vikings International AB"
+        "flag": "🇺🇸",
+        "ip_port": "174.138.176.78:35730",
+        "response_time": "399ms",
+        "country_code": "US",
+        "isp": "Interserver, Inc"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "162.0.220.220:46911",
+        "response_time": "327ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇩🇪",
         "ip_port": "173.212.206.86:59710",
-        "response_time": "362ms",
+        "response_time": "563ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "162.0.220.216:24891",
-        "response_time": "370ms",
+        "response_time": "388ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "174.138.176.75:58822",
+        "response_time": "387ms",
+        "country_code": "US",
+        "isp": "Interserver, Inc"
     },
     {
         "flag": "🇺🇸",
@@ -126,11 +147,11 @@
         "isp": "Interserver, Inc"
     },
     {
-        "flag": "🇫🇷",
-        "ip_port": "212.83.143.151:22748",
-        "response_time": "262ms",
-        "country_code": "FR",
-        "isp": "Online S.A.S."
+        "flag": "🇺🇸",
+        "ip_port": "66.29.128.245:23251",
+        "response_time": "334ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
@@ -156,7 +177,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "458ms",
+        "response_time": "743ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -173,12 +194,5 @@
         "response_time": "633ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "147.135.112.67:3081",
-        "response_time": "296ms",
-        "country_code": "US",
-        "isp": "OVH US LLC"
     }
 ]
