@@ -9,16 +9,9 @@
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "761ms",
+        "response_time": "452ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.174.178.131:1020",
-        "response_time": "800ms",
-        "country_code": "ID",
-        "isp": "PT Gasatek Bintang Nusantara"
     },
     {
         "flag": "🇬🇧",
@@ -44,21 +37,28 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "501ms",
+        "response_time": "768ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
+        "flag": "🇫🇷",
+        "ip_port": "212.83.143.97:17347",
+        "response_time": "398ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "66.29.129.54:14181",
-        "response_time": "258ms",
+        "response_time": "278ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.244:47900",
-        "response_time": "309ms",
+        "response_time": "466ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -72,7 +72,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "174.138.176.78:35730",
-        "response_time": "409ms",
+        "response_time": "270ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
     },
@@ -100,7 +100,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.241:14954",
-        "response_time": "305ms",
+        "response_time": "284ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -114,7 +114,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.245:23251",
-        "response_time": "345ms",
+        "response_time": "298ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -128,7 +128,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "30ms",
+        "response_time": "61ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -147,13 +147,6 @@
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
     {
-        "flag": "🇩🇪",
-        "ip_port": "167.71.39.152:38343",
-        "response_time": "743ms",
-        "country_code": "DE",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇷🇺",
         "ip_port": "212.103.125.48:1080",
         "response_time": "342ms",
@@ -166,6 +159,13 @@
         "response_time": "646ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.86.5.162:8975",
+        "response_time": "717ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
     },
     {
         "flag": "🇮🇩",
