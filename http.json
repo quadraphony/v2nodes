@@ -16,7 +16,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.172:10919",
-        "response_time": "302ms",
+        "response_time": "487ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -30,7 +30,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "360ms",
+        "response_time": "371ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -50,15 +50,22 @@
     },
     {
         "flag": "🇨🇦",
+        "ip_port": "67.43.228.252:10693",
+        "response_time": "499ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "401ms",
+        "response_time": "301ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "15.204.161.192:18080",
-        "response_time": "298ms",
+        "response_time": "204ms",
         "country_code": "US",
         "isp": "OVH SAS"
     },
@@ -70,9 +77,16 @@
         "isp": "NOC SIMAYA"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "203.174.15.138:8080",
+        "response_time": "51ms",
+        "country_code": "ID",
+        "isp": "PT Orion Cyber Internet"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "330ms",
+        "response_time": "494ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -93,7 +107,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "374ms",
+        "response_time": "479ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -114,14 +128,21 @@
     {
         "flag": "🇺🇸",
         "ip_port": "192.9.237.224:3128",
-        "response_time": "289ms",
+        "response_time": "217ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
     {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "253ms",
+        "response_time": "418ms",
+        "country_code": "DE",
+        "isp": "Contabo GmbH"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "5.189.146.57:80",
+        "response_time": "425ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
@@ -142,7 +163,7 @@
     {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "418ms",
+        "response_time": "181ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
@@ -156,7 +177,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "103.174.81.10:80",
-        "response_time": "349ms",
+        "response_time": "475ms",
         "country_code": "IN",
         "isp": "CtrlS"
     },
@@ -184,23 +205,30 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.172.70.28:9191",
-        "response_time": "255ms",
+        "response_time": "201ms",
         "country_code": "ID",
         "isp": "AZNET"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "339ms",
+        "response_time": "365ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
     {
-        "flag": "🇩🇪",
-        "ip_port": "62.171.161.88:2018",
-        "response_time": "107ms",
-        "country_code": "DE",
-        "isp": "Contabo GmbH"
+        "flag": "🇮🇩",
+        "ip_port": "203.190.44.81:8090",
+        "response_time": "283ms",
+        "country_code": "ID",
+        "isp": "PT Jaring Lintas Utara"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "182.23.35.242:8080",
+        "response_time": "346ms",
+        "country_code": "ID",
+        "isp": "PT Aplikanusa Lintasarta"
     },
     {
         "flag": "🇮🇳",
@@ -208,6 +236,13 @@
         "response_time": "277ms",
         "country_code": "IN",
         "isp": "Country Online Services PVT LTD"
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "161.49.176.173:1337",
+        "response_time": "305ms",
+        "country_code": "PH",
+        "isp": "Converge ICT Solution Inc"
     },
     {
         "flag": "🇮🇩",
@@ -222,6 +257,13 @@
         "response_time": "496ms",
         "country_code": "ID",
         "isp": "TERABIT"
+    },
+    {
+        "flag": "🇨🇴",
+        "ip_port": "190.14.224.244:999",
+        "response_time": "296ms",
+        "country_code": "CO",
+        "isp": "Media Commerce Partners S.A"
     },
     {
         "flag": "🇮🇩",
@@ -252,11 +294,25 @@
         "isp": "Alibaba Cloud (Singapore) Private Limited"
     },
     {
+        "flag": "🇧🇷",
+        "ip_port": "179.96.28.58:80",
+        "response_time": "228ms",
+        "country_code": "BR",
+        "isp": "G8 NETWORKS LTDA"
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "36.94.47.59:4480",
         "response_time": "459ms",
         "country_code": "ID",
         "isp": "PT. Telekomunikasi Indonesia"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "157.230.233.189:8080",
+        "response_time": "244ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇦🇷",
@@ -301,13 +357,6 @@
         "isp": "SOLNET"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "182.253.140.250:8080",
-        "response_time": "63ms",
-        "country_code": "ID",
-        "isp": "Biznet Networks"
-    },
-    {
         "flag": "🇹🇭",
         "ip_port": "183.88.219.206:41564",
         "response_time": "79ms",
@@ -317,7 +366,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "36.89.229.97:59707",
-        "response_time": "52ms",
+        "response_time": "359ms",
         "country_code": "ID",
         "isp": "PT. Telekomunikasi Indonesia"
     },
