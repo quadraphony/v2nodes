@@ -37,7 +37,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "167.172.159.43:35290",
-        "response_time": "590ms",
+        "response_time": "417ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -51,7 +51,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "496ms",
+        "response_time": "509ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -85,13 +85,6 @@
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "38.91.107.229:28184",
-        "response_time": "760ms",
-        "country_code": "US",
-        "isp": "GTHost"
-    },
-    {
-        "flag": "🇺🇸",
         "ip_port": "209.159.153.22:24452",
         "response_time": "249ms",
         "country_code": "US",
@@ -99,8 +92,29 @@
     },
     {
         "flag": "🇺🇸",
+        "ip_port": "38.91.107.220:14827",
+        "response_time": "565ms",
+        "country_code": "US",
+        "isp": "GTHost"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "162.0.220.214:33155",
+        "response_time": "468ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "162.0.220.219:60521",
         "response_time": "222ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "162.0.220.216:24891",
+        "response_time": "361ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -142,14 +156,21 @@
     {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "579ms",
+        "response_time": "248ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
     {
+        "flag": "🇩🇪",
+        "ip_port": "167.71.39.152:38343",
+        "response_time": "384ms",
+        "country_code": "DE",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "471ms",
+        "response_time": "646ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -161,10 +182,10 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇫🇷",
-        "ip_port": "51.83.190.248:19050",
-        "response_time": "761ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
+        "flag": "🇬🇧",
+        "ip_port": "18.130.192.203:1080",
+        "response_time": "158ms",
+        "country_code": "GB",
+        "isp": "Amazon Technologies Inc."
     }
 ]
