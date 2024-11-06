@@ -16,7 +16,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "526ms",
+        "response_time": "434ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -37,16 +37,23 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "471ms",
+        "response_time": "769ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
-        "flag": "🇨🇦",
-        "ip_port": "184.95.235.194:1080",
-        "response_time": "634ms",
-        "country_code": "CA",
-        "isp": "Fibrenoire Inc"
+        "flag": "🇺🇸",
+        "ip_port": "38.91.107.229:28184",
+        "response_time": "760ms",
+        "country_code": "US",
+        "isp": "GTHost"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "209.159.153.22:24452",
+        "response_time": "468ms",
+        "country_code": "US",
+        "isp": "Interserver, Inc"
     },
     {
         "flag": "🇸🇬",
@@ -58,7 +65,7 @@
     {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "570ms",
+        "response_time": "579ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
@@ -82,5 +89,12 @@
         "response_time": "418ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "51.83.190.248:19050",
+        "response_time": "761ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
     }
 ]
