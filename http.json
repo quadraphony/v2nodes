@@ -21,18 +21,18 @@
         "isp": "GloboTech Communications"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "97.76.251.138:8080",
+        "response_time": "464ms",
+        "country_code": "US",
+        "isp": "Spectrum"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
         "response_time": "396ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇵🇭",
-        "ip_port": "180.191.23.149:8082",
-        "response_time": "287ms",
-        "country_code": "PH",
-        "isp": "Globe Telecom"
     },
     {
         "flag": "🇰🇭",
@@ -44,7 +44,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "293ms",
+        "response_time": "341ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -54,6 +54,13 @@
         "response_time": "403ms",
         "country_code": "ID",
         "isp": "PT. Mega Mentari Mandiri"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "23.122.184.9:8888",
+        "response_time": "300ms",
+        "country_code": "US",
+        "isp": "AT&T Services, Inc."
     },
     {
         "flag": "🇵🇭",
@@ -79,7 +86,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "15.204.161.192:18080",
-        "response_time": "168ms",
+        "response_time": "287ms",
         "country_code": "US",
         "isp": "OVH SAS"
     },
@@ -89,6 +96,13 @@
         "response_time": "490ms",
         "country_code": "SG",
         "isp": "Microsoft Corporation"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "139.255.33.242:8080",
+        "response_time": "370ms",
+        "country_code": "ID",
+        "isp": "PT. LINKNET"
     },
     {
         "flag": "🇮🇩",
@@ -128,7 +142,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "454ms",
+        "response_time": "350ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -145,13 +159,6 @@
         "response_time": "219ms",
         "country_code": "ID",
         "isp": "PT iForte Global Internet"
-    },
-    {
-        "flag": "🇵🇱",
-        "ip_port": "57.128.201.50:3128",
-        "response_time": "272ms",
-        "country_code": "PL",
-        "isp": "OVH SAS"
     },
     {
         "flag": "🇮🇩",
@@ -177,7 +184,7 @@
     {
         "flag": "🇷🇺",
         "ip_port": "158.160.14.101:8090",
-        "response_time": "145ms",
+        "response_time": "164ms",
         "country_code": "RU",
         "isp": "Yandex.Cloud LLC"
     },
@@ -189,32 +196,25 @@
         "isp": "PT Mitra Lintas Multimedia"
     },
     {
-        "flag": "🇪🇨",
-        "ip_port": "45.70.236.195:999",
-        "response_time": "391ms",
-        "country_code": "EC",
-        "isp": "Nedetel S.A."
+        "flag": "🇨🇦",
+        "ip_port": "51.79.71.106:8080",
+        "response_time": "253ms",
+        "country_code": "CA",
+        "isp": "OVH SAS"
     },
     {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "284ms",
+        "response_time": "162ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
     {
         "flag": "🇮🇳",
         "ip_port": "103.174.81.10:80",
-        "response_time": "378ms",
+        "response_time": "346ms",
         "country_code": "IN",
         "isp": "CtrlS"
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "194.124.36.106:8080",
-        "response_time": "488ms",
-        "country_code": "TR",
-        "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
     },
     {
         "flag": "🇮🇳",
@@ -222,6 +222,13 @@
         "response_time": "482ms",
         "country_code": "IN",
         "isp": "Reis Network Solutions"
+    },
+    {
+        "flag": "🇮🇳",
+        "ip_port": "134.209.144.177:80",
+        "response_time": "372ms",
+        "country_code": "IN",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇮🇩",
@@ -239,6 +246,13 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "103.81.64.75:8080",
+        "response_time": "301ms",
+        "country_code": "ID",
+        "isp": "QIUNET"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.76.151.90:8080",
         "response_time": "377ms",
         "country_code": "ID",
@@ -252,18 +266,11 @@
         "isp": "AZNET"
     },
     {
-        "flag": "🇧🇷",
-        "ip_port": "186.215.87.194:10312",
-        "response_time": "424ms",
-        "country_code": "BR",
-        "isp": "TELEFÔNICA BRASIL S.A"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.169.186.151:3125",
-        "response_time": "271ms",
-        "country_code": "ID",
-        "isp": "PT. PRATAMA HASTA UTAMA SOLUSINDO"
+        "flag": "🇸🇬",
+        "ip_port": "138.2.64.185:8118",
+        "response_time": "372ms",
+        "country_code": "SG",
+        "isp": "Oracle Corporation"
     },
     {
         "flag": "🇮🇩",
@@ -282,7 +289,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "315ms",
+        "response_time": "456ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -301,16 +308,9 @@
         "isp": "PT Kingpolah Network Solutions"
     },
     {
-        "flag": "🇻🇳",
-        "ip_port": "113.160.247.27:19132",
-        "response_time": "472ms",
-        "country_code": "VN",
-        "isp": "VietNam Post and Telecom Corporation"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "134.122.26.11:80",
-        "response_time": "388ms",
+        "response_time": "363ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -338,16 +338,30 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.156.75.41:8080",
-        "response_time": "212ms",
+        "response_time": "335ms",
         "country_code": "ID",
         "isp": "PT Trika Global Media"
     },
     {
         "flag": "🇻🇪",
         "ip_port": "190.205.40.94:3128",
-        "response_time": "464ms",
+        "response_time": "387ms",
         "country_code": "VE",
         "isp": "CANTV Servicios, Venezuela"
+    },
+    {
+        "flag": "🇧🇷",
+        "ip_port": "201.20.110.35:666",
+        "response_time": "365ms",
+        "country_code": "BR",
+        "isp": "Mob Servicos de Telecomunicacoes Ltda"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "173.249.37.45:5005",
+        "response_time": "500ms",
+        "country_code": "DE",
+        "isp": "Contabo GmbH"
     },
     {
         "flag": "🇮🇩",
@@ -364,13 +378,6 @@
         "isp": "G8 NETWORKS LTDA"
     },
     {
-        "flag": "🇭🇰",
-        "ip_port": "124.156.100.83:8118",
-        "response_time": "481ms",
-        "country_code": "HK",
-        "isp": "Tencent Cloud Computing (Beijing) Co"
-    },
-    {
         "flag": "🇪🇬",
         "ip_port": "41.65.160.173:1981",
         "response_time": "304ms",
@@ -383,13 +390,6 @@
         "response_time": "485ms",
         "country_code": "ID",
         "isp": "PT. Telekomunikasi Indonesia"
-    },
-    {
-        "flag": "🇧🇩",
-        "ip_port": "45.125.222.97:36110",
-        "response_time": "398ms",
-        "country_code": "BD",
-        "isp": "SSD-TECH"
     },
     {
         "flag": "🇲🇽",
@@ -413,6 +413,13 @@
         "isp": "Bangladesh Telecommunications Company Ltd."
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.123.64.234:3128",
+        "response_time": "186ms",
+        "country_code": "ID",
+        "isp": "CEPATNET"
+    },
+    {
         "flag": "🇨🇴",
         "ip_port": "181.129.183.19:53281",
         "response_time": "439ms",
@@ -429,14 +436,14 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "268ms",
+        "response_time": "275ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     },
     {
         "flag": "🇷🇴",
         "ip_port": "37.120.192.154:8080",
-        "response_time": "383ms",
+        "response_time": "322ms",
         "country_code": "RO",
         "isp": "Secure Data Systems SRL"
     }
