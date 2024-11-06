@@ -2,14 +2,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "231ms",
+        "response_time": "435ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "416ms",
+        "response_time": "364ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "72.10.160.172:10919",
+        "response_time": "287ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -30,7 +37,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "416ms",
+        "response_time": "324ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -57,15 +64,22 @@
     },
     {
         "flag": "🇨🇦",
+        "ip_port": "67.43.228.252:10693",
+        "response_time": "374ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "442ms",
+        "response_time": "474ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "15.204.161.192:18080",
-        "response_time": "229ms",
+        "response_time": "300ms",
         "country_code": "US",
         "isp": "OVH SAS"
     },
@@ -75,13 +89,6 @@
         "response_time": "151ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.83.198.169:3128",
-        "response_time": "325ms",
-        "country_code": "ID",
-        "isp": "Dinas Komunikasi, Informatika, Statistik dan Persandian Provinsi Banten"
     },
     {
         "flag": "🇨🇦",
@@ -100,7 +107,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "430ms",
+        "response_time": "318ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -156,9 +163,16 @@
     {
         "flag": "🇷🇺",
         "ip_port": "158.160.14.101:8090",
-        "response_time": "254ms",
+        "response_time": "338ms",
         "country_code": "RU",
         "isp": "Yandex.Cloud LLC"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.111.136.110:3125",
+        "response_time": "357ms",
+        "country_code": "ID",
+        "isp": "PT Mitra Lintas Multimedia"
     },
     {
         "flag": "🇨🇭",
@@ -190,6 +204,13 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "38.9.141.79:8080",
+        "response_time": "49ms",
+        "country_code": "ID",
+        "isp": "Cogent Communications"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.175.237.34:3127",
         "response_time": "488ms",
         "country_code": "ID",
@@ -197,10 +218,10 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "101.255.167.174:8080",
-        "response_time": "192ms",
+        "ip_port": "36.67.114.94:8000",
+        "response_time": "284ms",
         "country_code": "ID",
-        "isp": "PT Remala Abadi"
+        "isp": "PT. Telekomunikasi Indonesia"
     },
     {
         "flag": "🇹🇷",
@@ -217,18 +238,18 @@
         "isp": "PT Awinet Global Mandiri"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.152.232.53:8080",
-        "response_time": "168ms",
-        "country_code": "ID",
-        "isp": "PT Kingpolah Network Solutions"
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "122ms",
+        "response_time": "240ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
+    },
+    {
+        "flag": "🇯🇵",
+        "ip_port": "160.16.109.252:80",
+        "response_time": "322ms",
+        "country_code": "JP",
+        "isp": "SAKURA"
     },
     {
         "flag": "🇮🇩",
@@ -236,13 +257,6 @@
         "response_time": "484ms",
         "country_code": "ID",
         "isp": "PT. PRATAMA HASTA UTAMA SOLUSINDO"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.152.232.100:1080",
-        "response_time": "56ms",
-        "country_code": "ID",
-        "isp": "PT Kingpolah Network Solutions"
     },
     {
         "flag": "🇹🇭",
@@ -296,7 +310,7 @@
     {
         "flag": "🇹🇭",
         "ip_port": "171.5.162.217:8080",
-        "response_time": "185ms",
+        "response_time": "85ms",
         "country_code": "TH",
         "isp": "Triple T Broadband Public Company Limited"
     },
@@ -308,9 +322,16 @@
         "isp": "Packet Host, Inc."
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "64.227.6.0:4003",
+        "response_time": "481ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇧🇷",
         "ip_port": "179.96.28.58:80",
-        "response_time": "361ms",
+        "response_time": "240ms",
         "country_code": "BR",
         "isp": "G8 NETWORKS LTDA"
     },
@@ -343,13 +364,6 @@
         "isp": "Proxad / Free SAS"
     },
     {
-        "flag": "🇨🇿",
-        "ip_port": "78.108.108.9:8080",
-        "response_time": "376ms",
-        "country_code": "CZ",
-        "isp": "Neutral Free eXchange members - FreeTel alternate"
-    },
-    {
         "flag": "🇵🇱",
         "ip_port": "94.75.76.10:8080",
         "response_time": "494ms",
@@ -380,7 +394,7 @@
     {
         "flag": "🇳🇬",
         "ip_port": "197.211.45.4:10000",
-        "response_time": "440ms",
+        "response_time": "383ms",
         "country_code": "NG",
         "isp": "Globacom Limited"
     },
