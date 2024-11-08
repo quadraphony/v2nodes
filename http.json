@@ -7,18 +7,32 @@
         "isp": "GloboTech Communications"
     },
     {
+        "flag": "🇧🇩",
+        "ip_port": "114.130.175.18:8080",
+        "response_time": "378ms",
+        "country_code": "BD",
+        "isp": "Bangladesh Telegraph & Telephone Board"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "256ms",
+        "response_time": "399ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "215ms",
+        "response_time": "247ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "222.127.50.56:8082",
+        "response_time": "438ms",
+        "country_code": "PH",
+        "isp": "INNOVE"
     },
     {
         "flag": "🇨🇦",
@@ -44,7 +58,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "328ms",
+        "response_time": "383ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -65,7 +79,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "139.178.67.134:443",
-        "response_time": "149ms",
+        "response_time": "183ms",
         "country_code": "US",
         "isp": "PACKET-HOST"
     },
@@ -119,6 +133,13 @@
         "isp": "PT. Telekomunikasi Indonesia"
     },
     {
+        "flag": "🇹🇷",
+        "ip_port": "194.124.36.106:8080",
+        "response_time": "489ms",
+        "country_code": "TR",
+        "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "103.176.96.178:8080",
         "response_time": "366ms",
@@ -131,13 +152,6 @@
         "response_time": "207ms",
         "country_code": "ID",
         "isp": "PT Arthatama Adhiprima Persada"
-    },
-    {
-        "flag": "🇱🇹",
-        "ip_port": "88.119.139.237:53281",
-        "response_time": "338ms",
-        "country_code": "LT",
-        "isp": "Telia Lietuva"
     },
     {
         "flag": "🇮🇩",
@@ -156,14 +170,21 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "197ms",
+        "response_time": "300ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.172.70.29:9191",
+        "response_time": "105ms",
+        "country_code": "ID",
+        "isp": "AZNET"
+    },
+    {
         "flag": "🇯🇵",
         "ip_port": "160.16.109.252:80",
-        "response_time": "405ms",
+        "response_time": "447ms",
         "country_code": "JP",
         "isp": "SAKURA"
     },
@@ -177,7 +198,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "182.253.109.26:8080",
-        "response_time": "59ms",
+        "response_time": "69ms",
         "country_code": "ID",
         "isp": "Biznet Metronet"
     },
@@ -226,23 +247,16 @@
     {
         "flag": "🇧🇷",
         "ip_port": "201.20.110.35:666",
-        "response_time": "654ms",
+        "response_time": "362ms",
         "country_code": "BR",
         "isp": "Mob Servicos de Telecomunicacoes Ltda"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "145.40.73.102:9443",
-        "response_time": "3ms",
+        "response_time": "4ms",
         "country_code": "SG",
         "isp": "Packet Host, Inc."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.125.50.223:8080",
-        "response_time": "65ms",
-        "country_code": "ID",
-        "isp": "PT. Eka Mas Republik"
     },
     {
         "flag": "🇺🇸",
@@ -254,9 +268,16 @@
     {
         "flag": "🇪🇬",
         "ip_port": "41.65.160.173:1981",
-        "response_time": "187ms",
+        "response_time": "318ms",
         "country_code": "EG",
         "isp": "Etisalat Misr Mobile BB"
+    },
+    {
+        "flag": "🇷🇺",
+        "ip_port": "88.84.209.24:3128",
+        "response_time": "271ms",
+        "country_code": "RU",
+        "isp": "Flex Ltd."
     },
     {
         "flag": "🇹🇭",
@@ -294,37 +315,9 @@
         "isp": "Neutral Free eXchange members - FreeTel alternate"
     },
     {
-        "flag": "🇧🇩",
-        "ip_port": "203.112.223.126:8080",
-        "response_time": "99ms",
-        "country_code": "BD",
-        "isp": "Bangladesh Telecommunications Company Ltd."
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "213.14.32.77:9090",
-        "response_time": "375ms",
-        "country_code": "TR",
-        "isp": "Tellcom Main Network Statement"
-    },
-    {
-        "flag": "🇧🇬",
-        "ip_port": "77.238.79.111:8080",
-        "response_time": "566ms",
-        "country_code": "BG",
-        "isp": "FIBER1"
-    },
-    {
-        "flag": "🇦🇷",
-        "ip_port": "181.209.82.154:23500",
-        "response_time": "474ms",
-        "country_code": "AR",
-        "isp": "ARSAT - Empresa Argentina de Soluciones Satelitales S.A"
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "263ms",
+        "response_time": "132ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     },
