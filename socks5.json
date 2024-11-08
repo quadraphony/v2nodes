@@ -7,13 +7,6 @@
         "isp": "Viettel Corporation"
     },
     {
-        "flag": "🇵🇱",
-        "ip_port": "178.255.44.60:58968",
-        "response_time": "481ms",
-        "country_code": "PL",
-        "isp": "Artnet Sp. z o.o."
-    },
-    {
         "flag": "🇨🇳",
         "ip_port": "210.75.240.151:4781",
         "response_time": "564ms",
@@ -36,6 +29,13 @@
     },
     {
         "flag": "🇷🇺",
+        "ip_port": "79.104.34.214:1080",
+        "response_time": "715ms",
+        "country_code": "RU",
+        "isp": "EDN SOVINTEL"
+    },
+    {
+        "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
         "response_time": "729ms",
         "country_code": "RU",
@@ -44,9 +44,16 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "652ms",
+        "response_time": "496ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
+    },
+    {
+        "flag": "🇸🇪",
+        "ip_port": "130.255.160.60:18946",
+        "response_time": "715ms",
+        "country_code": "SE",
+        "isp": "Internet Vikings"
     },
     {
         "flag": "🇫🇷",
@@ -54,13 +61,6 @@
         "response_time": "580ms",
         "country_code": "FR",
         "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "212.83.142.100:12441",
-        "response_time": "333ms",
-        "country_code": "FR",
-        "isp": "Online S.A.S."
     },
     {
         "flag": "🇫🇷",
@@ -93,7 +93,7 @@
     {
         "flag": "🇦🇺",
         "ip_port": "185.139.155.155:1976",
-        "response_time": "615ms",
+        "response_time": "561ms",
         "country_code": "AU",
         "isp": "Internet Vikings International AB"
     },
@@ -107,7 +107,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "357ms",
+        "response_time": "100ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -121,16 +121,9 @@
     {
         "flag": "🇷🇺",
         "ip_port": "31.43.203.100:1080",
-        "response_time": "392ms",
+        "response_time": "785ms",
         "country_code": "RU",
         "isp": "Sotrudnik LTD"
-    },
-    {
-        "flag": "🇩🇪",
-        "ip_port": "167.71.39.152:38343",
-        "response_time": "666ms",
-        "country_code": "DE",
-        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
