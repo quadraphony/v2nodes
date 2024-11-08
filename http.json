@@ -23,30 +23,16 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "259ms",
-        "country_code": "CA",
-        "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "67.43.228.254:5555",
-        "response_time": "499ms",
+        "response_time": "351ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "383ms",
+        "response_time": "320ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.39.49.156:3128",
-        "response_time": "186ms",
-        "country_code": "ID",
-        "isp": "PT. Mega Mentari Mandiri"
     },
     {
         "flag": "🇮🇩",
@@ -58,7 +44,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "295ms",
+        "response_time": "332ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -72,7 +58,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "468ms",
+        "response_time": "441ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -93,7 +79,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "213ms",
+        "response_time": "462ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -154,13 +140,6 @@
         "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
     },
     {
-        "flag": "🇨🇦",
-        "ip_port": "51.79.71.106:8080",
-        "response_time": "216ms",
-        "country_code": "CA",
-        "isp": "OVH SAS"
-    },
-    {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
         "response_time": "324ms",
@@ -173,6 +152,13 @@
         "response_time": "466ms",
         "country_code": "ID",
         "isp": "PT Arthatama Adhiprima Persada"
+    },
+    {
+        "flag": "🇱🇹",
+        "ip_port": "88.119.139.237:53281",
+        "response_time": "338ms",
+        "country_code": "LT",
+        "isp": "Telia Lietuva"
     },
     {
         "flag": "🇮🇩",
@@ -191,7 +177,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "172ms",
+        "response_time": "123ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -212,21 +198,14 @@
     {
         "flag": "🇮🇩",
         "ip_port": "182.253.109.26:8080",
-        "response_time": "69ms",
+        "response_time": "47ms",
         "country_code": "ID",
         "isp": "Biznet Metronet"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "119.110.71.161:63123",
-        "response_time": "465ms",
-        "country_code": "ID",
-        "isp": "Maxindo"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "216ms",
+        "response_time": "249ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -259,9 +238,23 @@
         "isp": "Media Commerce Partners S.A"
     },
     {
+        "flag": "🇧🇷",
+        "ip_port": "201.20.110.35:666",
+        "response_time": "654ms",
+        "country_code": "BR",
+        "isp": "Mob Servicos de Telecomunicacoes Ltda"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "145.40.73.102:9443",
+        "response_time": "3ms",
+        "country_code": "SG",
+        "isp": "Packet Host, Inc."
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "103.125.50.223:8080",
-        "response_time": "311ms",
+        "response_time": "65ms",
         "country_code": "ID",
         "isp": "PT. Eka Mas Republik"
     },
@@ -294,18 +287,18 @@
         "isp": "INTERAIR"
     },
     {
-        "flag": "🇰🇭",
-        "ip_port": "103.17.213.98:8080",
-        "response_time": "304ms",
-        "country_code": "KH",
-        "isp": "WiCAM Corporation Ltd"
-    },
-    {
         "flag": "🇧🇩",
         "ip_port": "203.112.223.126:8080",
-        "response_time": "205ms",
+        "response_time": "99ms",
         "country_code": "BD",
         "isp": "Bangladesh Telecommunications Company Ltd."
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "213.14.32.77:9090",
+        "response_time": "375ms",
+        "country_code": "TR",
+        "isp": "Tellcom Main Network Statement"
     },
     {
         "flag": "🇲🇽",
@@ -324,7 +317,7 @@
     {
         "flag": "🇧🇬",
         "ip_port": "77.238.79.111:8080",
-        "response_time": "379ms",
+        "response_time": "566ms",
         "country_code": "BG",
         "isp": "FIBER1"
     },
@@ -338,7 +331,7 @@
     {
         "flag": "🇦🇷",
         "ip_port": "181.209.82.154:23500",
-        "response_time": "470ms",
+        "response_time": "474ms",
         "country_code": "AR",
         "isp": "ARSAT - Empresa Argentina de Soluciones Satelitales S.A"
     },
