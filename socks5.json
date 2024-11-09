@@ -1,8 +1,15 @@
 [
     {
+        "flag": "🇵🇱",
+        "ip_port": "178.255.44.60:58968",
+        "response_time": "488ms",
+        "country_code": "PL",
+        "isp": "Artnet Sp. z o.o."
+    },
+    {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "753ms",
+        "response_time": "325ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -23,7 +30,7 @@
     {
         "flag": "🇵🇸",
         "ip_port": "93.184.4.254:1080",
-        "response_time": "370ms",
+        "response_time": "486ms",
         "country_code": "PS",
         "isp": "BCI Telecommunication & Advanced Technology Company"
     },
@@ -37,9 +44,16 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "470ms",
+        "response_time": "469ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "212.83.138.186:52793",
+        "response_time": "351ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
     },
     {
         "flag": "🇺🇸",
@@ -57,6 +71,13 @@
     },
     {
         "flag": "🇺🇸",
+        "ip_port": "174.138.176.78:35730",
+        "response_time": "336ms",
+        "country_code": "US",
+        "isp": "Interserver, Inc"
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "162.0.220.220:46911",
         "response_time": "394ms",
         "country_code": "US",
@@ -68,6 +89,13 @@
         "response_time": "239ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "195.154.43.86:45124",
+        "response_time": "329ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
     },
     {
         "flag": "🇺🇸",
@@ -101,13 +129,6 @@
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
         "response_time": "52ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇸🇬",
-        "ip_port": "188.166.230.38:64768",
-        "response_time": "363ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     }
