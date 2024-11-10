@@ -14,11 +14,25 @@
         "isp": "PT Gasatek Bintang Nusantara"
     },
     {
+        "flag": "🇱🇺",
+        "ip_port": "104.244.75.78:31534",
+        "response_time": "447ms",
+        "country_code": "LU",
+        "isp": "FranTech Solutions"
+    },
+    {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "561ms",
+        "response_time": "762ms",
         "country_code": "GB",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "167.172.159.43:35290",
+        "response_time": "479ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇫🇷",
@@ -37,9 +51,16 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "517ms",
+        "response_time": "768ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "141.94.238.246:60315",
+        "response_time": "737ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
     },
     {
         "flag": "🇺🇸",
@@ -78,13 +99,6 @@
     },
     {
         "flag": "🇸🇬",
-        "ip_port": "167.71.220.29:7497",
-        "response_time": "47ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
         "response_time": "231ms",
         "country_code": "SG",
@@ -93,7 +107,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "773ms",
+        "response_time": "613ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
