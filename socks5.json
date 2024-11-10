@@ -16,7 +16,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "773ms",
+        "response_time": "561ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -30,7 +30,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "733ms",
+        "response_time": "718ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -57,34 +57,6 @@
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "38.91.106.252:61625",
-        "response_time": "314ms",
-        "country_code": "US",
-        "isp": "GTHost"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "38.91.107.229:28184",
-        "response_time": "228ms",
-        "country_code": "US",
-        "isp": "GTHost"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "174.138.176.78:35730",
-        "response_time": "331ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "66.23.233.210:23899",
-        "response_time": "303ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
-    },
-    {
-        "flag": "🇺🇸",
         "ip_port": "38.91.107.220:14827",
         "response_time": "396ms",
         "country_code": "US",
@@ -99,29 +71,8 @@
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "66.29.128.242:49385",
-        "response_time": "224ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
-    },
-    {
-        "flag": "🇺🇸",
         "ip_port": "66.29.129.52:35630",
         "response_time": "221ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "174.138.176.76:34147",
-        "response_time": "411ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "66.29.128.245:23251",
-        "response_time": "230ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -142,8 +93,29 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "583ms",
+        "response_time": "773ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.87.121.35:8975",
+        "response_time": "490ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.87.121.5:8975",
+        "response_time": "550ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji A.S."
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.86.5.162:8975",
+        "response_time": "546ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
     }
 ]
