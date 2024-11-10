@@ -16,9 +16,23 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.172:10919",
-        "response_time": "280ms",
+        "response_time": "307ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇪🇬",
+        "ip_port": "154.236.177.101:1981",
+        "response_time": "366ms",
+        "country_code": "EG",
+        "isp": "Enterprise"
+    },
+    {
+        "flag": "🇪🇸",
+        "ip_port": "213.97.158.42:3128",
+        "response_time": "397ms",
+        "country_code": "ES",
+        "isp": "Telefonica de Espana SAU"
     },
     {
         "flag": "🇨🇦",
@@ -37,7 +51,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "288ms",
+        "response_time": "407ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -58,7 +72,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "309ms",
+        "response_time": "417ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -77,6 +91,13 @@
         "isp": "PT Callysta Total Solusindo"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.106.77.46:3333",
+        "response_time": "395ms",
+        "country_code": "ID",
+        "isp": "PT Quantum Tera Multimedia"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
         "response_time": "333ms",
@@ -86,7 +107,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "388ms",
+        "response_time": "359ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -105,6 +126,13 @@
         "isp": "GloboTech Communications"
     },
     {
+        "flag": "🇮🇳",
+        "ip_port": "103.149.194.61:32650",
+        "response_time": "377ms",
+        "country_code": "IN",
+        "isp": "Kavya Internet Services Pvt Ltd"
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "103.147.247.171:8080",
         "response_time": "58ms",
@@ -112,18 +140,25 @@
         "isp": "PLBNET"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.144.146.40:34343",
-        "response_time": "342ms",
-        "country_code": "ID",
-        "isp": "Lexxa Data"
+        "flag": "🇷🇺",
+        "ip_port": "158.160.14.101:8090",
+        "response_time": "466ms",
+        "country_code": "RU",
+        "isp": "Yandex.Cloud LLC"
     },
     {
-        "flag": "🇮🇳",
-        "ip_port": "59.98.151.201:8080",
-        "response_time": "399ms",
-        "country_code": "IN",
-        "isp": "BSNL Internet"
+        "flag": "🇮🇩",
+        "ip_port": "103.247.216.70:8080",
+        "response_time": "475ms",
+        "country_code": "ID",
+        "isp": "PT. Parsaoran Global Datatrans"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "188.132.221.170:8080",
+        "response_time": "458ms",
+        "country_code": "TR",
+        "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
     },
     {
         "flag": "🇨🇭",
@@ -145,6 +180,13 @@
         "response_time": "229ms",
         "country_code": "MX",
         "isp": "Uninet S.A. de C.V."
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.229.185.154:8080",
+        "response_time": "294ms",
+        "country_code": "ID",
+        "isp": "PT INDONESIA COMNETS PLUS"
     },
     {
         "flag": "🇯🇵",
@@ -191,7 +233,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "444ms",
+        "response_time": "473ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -210,18 +252,25 @@
         "isp": "INTI"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.152.232.100:1080",
-        "response_time": "360ms",
-        "country_code": "ID",
-        "isp": "PT Kingpolah Network Solutions"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
         "response_time": "400ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "161.49.91.13:1337",
+        "response_time": "328ms",
+        "country_code": "PH",
+        "isp": "Converge ICT Solution Inc"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "75.119.130.35:3128",
+        "response_time": "141ms",
+        "country_code": "DE",
+        "isp": "Contabo GmbH"
     },
     {
         "flag": "🇲🇽",
@@ -266,11 +315,25 @@
         "isp": "Neutral Free eXchange members - FreeTel alternate"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "122.50.6.186:8080",
+        "response_time": "417ms",
+        "country_code": "ID",
+        "isp": "PT Mora Telematika Indonesia"
+    },
+    {
         "flag": "🇧🇬",
         "ip_port": "77.238.79.111:8080",
         "response_time": "414ms",
         "country_code": "BG",
         "isp": "FIBER1"
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "120.29.124.131:8080",
+        "response_time": "454ms",
+        "country_code": "PH",
+        "isp": "ComClark Network & Technology Corp"
     },
     {
         "flag": "🇮🇩",
