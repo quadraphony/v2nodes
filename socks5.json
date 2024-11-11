@@ -23,7 +23,7 @@
     {
         "flag": "🇻🇳",
         "ip_port": "116.97.240.147:4996",
-        "response_time": "360ms",
+        "response_time": "271ms",
         "country_code": "VN",
         "isp": "Viettel Corporation"
     },
@@ -44,7 +44,7 @@
     {
         "flag": "🇵🇸",
         "ip_port": "93.184.4.254:1080",
-        "response_time": "308ms",
+        "response_time": "345ms",
         "country_code": "PS",
         "isp": "BCI Telecommunication & Advanced Technology Company"
     },
@@ -75,6 +75,13 @@
         "response_time": "465ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "212.83.137.94:15860",
+        "response_time": "411ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
     },
     {
         "flag": "🇫🇷",
@@ -190,9 +197,23 @@
     },
     {
         "flag": "🇺🇸",
+        "ip_port": "198.199.64.196:61877",
+        "response_time": "576ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "280ms",
+        "response_time": "272ms",
         "country_code": "US",
         "isp": "OVH US LLC"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "51.83.190.248:19050",
+        "response_time": "653ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
     }
 ]
