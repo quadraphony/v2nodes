@@ -23,7 +23,7 @@
     {
         "flag": "🇪🇬",
         "ip_port": "154.236.177.101:1981",
-        "response_time": "308ms",
+        "response_time": "196ms",
         "country_code": "EG",
         "isp": "Enterprise"
     },
@@ -44,7 +44,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "270ms",
+        "response_time": "336ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -58,7 +58,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.252:10693",
-        "response_time": "301ms",
+        "response_time": "432ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -100,7 +100,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "317ms",
+        "response_time": "309ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -114,21 +114,14 @@
     {
         "flag": "🇺🇸",
         "ip_port": "192.9.237.224:3128",
-        "response_time": "172ms",
+        "response_time": "327ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "36.64.132.91:8080",
-        "response_time": "282ms",
-        "country_code": "ID",
-        "isp": "PT. Telekomunikasi Indonesia"
-    },
-    {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "365ms",
+        "response_time": "396ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
@@ -161,18 +154,18 @@
         "isp": "PT Trika Global Media"
     },
     {
+        "flag": "🇮🇳",
+        "ip_port": "103.149.194.11:32650",
+        "response_time": "419ms",
+        "country_code": "IN",
+        "isp": "Kavya Internet Services Pvt Ltd"
+    },
+    {
         "flag": "🇹🇷",
         "ip_port": "194.124.36.106:8080",
         "response_time": "438ms",
         "country_code": "TR",
         "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
-    },
-    {
-        "flag": "🇧🇷",
-        "ip_port": "189.85.82.38:3128",
-        "response_time": "462ms",
-        "country_code": "BR",
-        "isp": "Networld Provedor e Servicos de Internet Ltda"
     },
     {
         "flag": "🇮🇩",
@@ -182,9 +175,23 @@
         "isp": "Cogent Communications"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "209.141.54.136:5555",
+        "response_time": "303ms",
+        "country_code": "US",
+        "isp": "FranTech Solutions"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.36.10.223:8080",
+        "response_time": "126ms",
+        "country_code": "ID",
+        "isp": "PT Awinet Global Mandiri"
+    },
+    {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "231ms",
+        "response_time": "205ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -205,7 +212,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "119.110.71.161:63123",
-        "response_time": "203ms",
+        "response_time": "209ms",
         "country_code": "ID",
         "isp": "Maxindo"
     },
@@ -219,16 +226,9 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "333ms",
+        "response_time": "383ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
-        "flag": "🇧🇷",
-        "ip_port": "45.161.161.216:5566",
-        "response_time": "473ms",
-        "country_code": "BR",
-        "isp": "Maykon Leonel Silvano-ME"
     },
     {
         "flag": "🇹🇷",
@@ -238,39 +238,18 @@
         "isp": "Vodafone Internal"
     },
     {
-        "flag": "🇪🇸",
-        "ip_port": "77.225.198.220:9812",
-        "response_time": "603ms",
-        "country_code": "ES",
-        "isp": "Comunitel Global"
+        "flag": "🇧🇷",
+        "ip_port": "191.241.184.61:40033",
+        "response_time": "403ms",
+        "country_code": "BR",
+        "isp": "NetGloria Telecom"
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "103.155.166.92:8181",
-        "response_time": "450ms",
+        "ip_port": "112.78.134.132:7777",
+        "response_time": "331ms",
         "country_code": "ID",
-        "isp": "PT Network Lintas Fiberindo"
-    },
-    {
-        "flag": "🇻🇳",
-        "ip_port": "115.74.246.138:8080",
-        "response_time": "352ms",
-        "country_code": "VN",
-        "isp": "VIETELxdsl"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.125.50.223:8080",
-        "response_time": "370ms",
-        "country_code": "ID",
-        "isp": "PT. Eka Mas Republik"
-    },
-    {
-        "flag": "🇨🇴",
-        "ip_port": "177.93.45.226:6969",
-        "response_time": "377ms",
-        "country_code": "CO",
-        "isp": "TV AZTECA SUCURSAL COLOMBIA"
+        "isp": "Biznet Networks"
     },
     {
         "flag": "🇹🇭",
@@ -282,7 +261,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "24.172.82.94:53281",
-        "response_time": "284ms",
+        "response_time": "180ms",
         "country_code": "US",
         "isp": "Spectrum"
     },
@@ -294,16 +273,9 @@
         "isp": "Total Play Telecomunicaciones SA De CV"
     },
     {
-        "flag": "🇨🇴",
-        "ip_port": "181.129.183.19:53281",
-        "response_time": "451ms",
-        "country_code": "CO",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P."
-    },
-    {
         "flag": "🇧🇬",
         "ip_port": "77.238.79.111:8080",
-        "response_time": "579ms",
+        "response_time": "281ms",
         "country_code": "BG",
         "isp": "FIBER1"
     },
@@ -320,6 +292,20 @@
         "response_time": "383ms",
         "country_code": "TH",
         "isp": "Triple T Internet Company Limited"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "36.89.229.97:59707",
+        "response_time": "48ms",
+        "country_code": "ID",
+        "isp": "PT. Telekomunikasi Indonesia"
+    },
+    {
+        "flag": "🇦🇷",
+        "ip_port": "181.209.82.154:23500",
+        "response_time": "794ms",
+        "country_code": "AR",
+        "isp": "ARSAT - Empresa Argentina de Soluciones Satelitales S.A"
     },
     {
         "flag": "🇮🇳",
