@@ -2,14 +2,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "459ms",
+        "response_time": "406ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "480ms",
+        "response_time": "342ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -26,6 +26,13 @@
         "response_time": "228ms",
         "country_code": "EG",
         "isp": "Enterprise"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.217.224.82:8080",
+        "response_time": "55ms",
+        "country_code": "ID",
+        "isp": "PT Nesta Indo Media"
     },
     {
         "flag": "🇨🇦",
@@ -51,7 +58,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "325ms",
+        "response_time": "375ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -65,7 +72,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.252:10693",
-        "response_time": "404ms",
+        "response_time": "280ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -93,7 +100,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "483ms",
+        "response_time": "467ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -114,7 +121,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "309ms",
+        "response_time": "264ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -128,9 +135,16 @@
     {
         "flag": "🇺🇸",
         "ip_port": "139.178.67.134:443",
-        "response_time": "185ms",
+        "response_time": "477ms",
         "country_code": "US",
         "isp": "PACKET-HOST"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "202.137.8.150:8080",
+        "response_time": "108ms",
+        "country_code": "ID",
+        "isp": "LINKNET"
     },
     {
         "flag": "🇮🇩",
@@ -149,9 +163,16 @@
     {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "263ms",
+        "response_time": "369ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "202.154.18.10:8080",
+        "response_time": "483ms",
+        "country_code": "ID",
+        "isp": "DIGITNET"
     },
     {
         "flag": "🇮🇩",
@@ -219,7 +240,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "475ms",
+        "response_time": "126ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -247,21 +268,14 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "286ms",
+        "response_time": "443ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
     {
         "flag": "🇧🇷",
-        "ip_port": "186.237.131.122:8080",
-        "response_time": "475ms",
-        "country_code": "BR",
-        "isp": "IFTNET Telecomunicacoes Ltda"
-    },
-    {
-        "flag": "🇧🇷",
         "ip_port": "201.20.110.35:666",
-        "response_time": "437ms",
+        "response_time": "349ms",
         "country_code": "BR",
         "isp": "Mob Servicos de Telecomunicacoes Ltda"
     },
@@ -271,13 +285,6 @@
         "response_time": "2ms",
         "country_code": "SG",
         "isp": "Packet Host, Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "64.227.6.0:4003",
-        "response_time": "368ms",
-        "country_code": "US",
-        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇭🇰",
@@ -299,13 +306,6 @@
         "response_time": "463ms",
         "country_code": "US",
         "isp": "FirstLight Fiber"
-    },
-    {
-        "flag": "🇨🇱",
-        "ip_port": "170.233.193.129:999",
-        "response_time": "434ms",
-        "country_code": "CL",
-        "isp": "MI INTERNET SPA"
     },
     {
         "flag": "🇮🇩",
@@ -341,13 +341,6 @@
         "response_time": "316ms",
         "country_code": "ID",
         "isp": "BIZNET"
-    },
-    {
-        "flag": "🇵🇰",
-        "ip_port": "182.176.164.41:8080",
-        "response_time": "490ms",
-        "country_code": "PK",
-        "isp": "Pakistan Telecommuication company limited"
     },
     {
         "flag": "🇦🇷",
