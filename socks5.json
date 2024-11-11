@@ -37,7 +37,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "766ms",
+        "response_time": "468ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -134,16 +134,16 @@
     },
     {
         "flag": "🇺🇸",
+        "ip_port": "199.204.248.155:33922",
+        "response_time": "577ms",
+        "country_code": "US",
+        "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
         "response_time": "317ms",
         "country_code": "US",
         "isp": "OVH US LLC"
-    },
-    {
-        "flag": "🇻🇳",
-        "ip_port": "113.160.188.21:1080",
-        "response_time": "415ms",
-        "country_code": "VN",
-        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
