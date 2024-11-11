@@ -1,5 +1,12 @@
 [
     {
+        "flag": "🇺🇸",
+        "ip_port": "162.210.197.91:17732",
+        "response_time": "295ms",
+        "country_code": "US",
+        "isp": "Leaseweb USA, Inc."
+    },
+    {
         "flag": "🇧🇩",
         "ip_port": "103.180.203.133:8085",
         "response_time": "408ms",
@@ -9,9 +16,16 @@
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "572ms",
+        "response_time": "405ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
+    },
+    {
+        "flag": "🇬🇧",
+        "ip_port": "178.79.165.164:40324",
+        "response_time": "494ms",
+        "country_code": "GB",
+        "isp": "Linode"
     },
     {
         "flag": "🇮🇩",
@@ -23,7 +37,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "423ms",
+        "response_time": "793ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -50,17 +64,17 @@
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "38.91.107.229:28184",
-        "response_time": "268ms",
-        "country_code": "US",
-        "isp": "GTHost"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "162.0.220.161:34826",
-        "response_time": "319ms",
+        "ip_port": "66.29.128.244:47900",
+        "response_time": "284ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "184.95.235.194:1080",
+        "response_time": "337ms",
+        "country_code": "CA",
+        "isp": "Fibrenoire Inc"
     },
     {
         "flag": "🇺🇸",
@@ -124,6 +138,13 @@
         "response_time": "480ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "212.83.143.191:61245",
+        "response_time": "286ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
     },
     {
         "flag": "🇸🇬",
