@@ -42,13 +42,6 @@
         "isp": "PT. Mega Mentari Mandiri"
     },
     {
-        "flag": "🇱🇾",
-        "ip_port": "154.73.29.65:8080",
-        "response_time": "435ms",
-        "country_code": "LY",
-        "isp": "Rawafed"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "23.122.184.9:8888",
         "response_time": "195ms",
@@ -65,7 +58,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "266ms",
+        "response_time": "365ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -79,14 +72,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "442ms",
+        "response_time": "204ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "365ms",
+        "response_time": "461ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -112,16 +105,9 @@
         "isp": "PT Ring Media Nusantara"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "192.9.237.224:3128",
-        "response_time": "289ms",
-        "country_code": "US",
-        "isp": "Oracle Corporation"
-    },
-    {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "202ms",
+        "response_time": "350ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
@@ -135,7 +121,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "256ms",
+        "response_time": "491ms",
         "country_code": "ID",
         "isp": "BIZNET"
     },
@@ -170,7 +156,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "496ms",
+        "response_time": "211ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -205,9 +191,16 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "482ms",
+        "response_time": "220ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+        "flag": "🇪🇸",
+        "ip_port": "77.225.198.220:9812",
+        "response_time": "368ms",
+        "country_code": "ES",
+        "isp": "Comunitel Global"
     },
     {
         "flag": "🇨🇴",
@@ -252,9 +245,16 @@
         "isp": "TOT Public Company Limited"
     },
     {
+        "flag": "🇲🇽",
+        "ip_port": "187.188.169.169:8080",
+        "response_time": "585ms",
+        "country_code": "MX",
+        "isp": "Total Play Telecomunicaciones SA De CV"
+    },
+    {
         "flag": "🇧🇬",
         "ip_port": "77.238.79.111:8080",
-        "response_time": "416ms",
+        "response_time": "305ms",
         "country_code": "BG",
         "isp": "FIBER1"
     },
@@ -278,5 +278,12 @@
         "response_time": "290ms",
         "country_code": "US",
         "isp": "Oracle Public Cloud"
+    },
+    {
+        "flag": "🇷🇴",
+        "ip_port": "37.120.192.154:8080",
+        "response_time": "402ms",
+        "country_code": "RO",
+        "isp": "Secure Data Systems SRL"
     }
 ]
