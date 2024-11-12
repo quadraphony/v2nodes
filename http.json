@@ -9,7 +9,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "297ms",
+        "response_time": "223ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -23,7 +23,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "326ms",
+        "response_time": "305ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -44,42 +44,35 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "238ms",
+        "response_time": "335ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.39.49.156:3128",
-        "response_time": "216ms",
-        "country_code": "ID",
-        "isp": "PT. Mega Mentari Mandiri"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "23.122.184.9:8888",
-        "response_time": "312ms",
+        "response_time": "346ms",
         "country_code": "US",
         "isp": "AT&T Services, Inc."
     },
     {
         "flag": "🇨🇦",
-        "ip_port": "67.43.228.252:10693",
-        "response_time": "494ms",
+        "ip_port": "72.10.160.90:19101",
+        "response_time": "383ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇨🇦",
-        "ip_port": "72.10.160.90:19101",
-        "response_time": "339ms",
-        "country_code": "CA",
-        "isp": "GloboTech Communications"
+        "flag": "🇸🇬",
+        "ip_port": "137.116.142.82:80",
+        "response_time": "470ms",
+        "country_code": "SG",
+        "isp": "Microsoft Corporation"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.138:8080",
-        "response_time": "148ms",
+        "response_time": "362ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
@@ -100,7 +93,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.83:8080",
-        "response_time": "46ms",
+        "response_time": "42ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
@@ -114,7 +107,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "260ms",
+        "response_time": "436ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -126,18 +119,18 @@
         "isp": "PACKET-HOST"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "192.9.237.224:3128",
+        "response_time": "489ms",
+        "country_code": "US",
+        "isp": "Oracle Corporation"
+    },
+    {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
         "response_time": "451ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
-    },
-    {
-        "flag": "🇷🇺",
-        "ip_port": "158.160.14.101:8090",
-        "response_time": "258ms",
-        "country_code": "RU",
-        "isp": "Yandex.Cloud LLC"
     },
     {
         "flag": "🇮🇩",
@@ -154,32 +147,18 @@
         "isp": "PT Mitra Lintas Multimedia"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "124.158.153.218:8180",
-        "response_time": "310ms",
-        "country_code": "ID",
-        "isp": "PT iForte Global Internet"
-    },
-    {
-        "flag": "🇱🇰",
-        "ip_port": "192.248.95.1:3128",
-        "response_time": "253ms",
-        "country_code": "LK",
-        "isp": "Lanka Education and Research Network"
+        "flag": "🇹🇷",
+        "ip_port": "194.124.36.106:8080",
+        "response_time": "483ms",
+        "country_code": "TR",
+        "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
     },
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "139ms",
+        "response_time": "477ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.172.70.29:9191",
-        "response_time": "395ms",
-        "country_code": "ID",
-        "isp": "AZNET"
     },
     {
         "flag": "🇮🇩",
@@ -191,9 +170,16 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "147ms",
+        "response_time": "166ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "161.49.176.173:1337",
+        "response_time": "457ms",
+        "country_code": "PH",
+        "isp": "Converge ICT Solution Inc"
     },
     {
         "flag": "🇪🇸",
@@ -210,25 +196,11 @@
         "isp": "Media Commerce Partners S.A"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.215.72.115:55443",
-        "response_time": "590ms",
-        "country_code": "ID",
-        "isp": "Argon Data Network"
-    },
-    {
-        "flag": "🇹🇭",
-        "ip_port": "203.150.128.39:8080",
-        "response_time": "288ms",
-        "country_code": "TH",
-        "isp": "Internet Thailand Company Ltd"
-    },
-    {
-        "flag": "🇪🇬",
-        "ip_port": "41.65.160.173:1981",
-        "response_time": "216ms",
-        "country_code": "EG",
-        "isp": "Etisalat Misr Mobile BB"
+        "flag": "🇸🇬",
+        "ip_port": "145.40.73.102:9443",
+        "response_time": "3ms",
+        "country_code": "SG",
+        "isp": "Packet Host, Inc."
     },
     {
         "flag": "🇨🇴",
@@ -247,7 +219,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "36.94.232.177:999",
-        "response_time": "153ms",
+        "response_time": "65ms",
         "country_code": "ID",
         "isp": "PT. Telekomunikasi Indonesia"
     },
@@ -296,14 +268,14 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "201ms",
+        "response_time": "355ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     },
     {
         "flag": "🇷🇴",
         "ip_port": "37.120.192.154:8080",
-        "response_time": "402ms",
+        "response_time": "284ms",
         "country_code": "RO",
         "isp": "Secure Data Systems SRL"
     }
