@@ -15,15 +15,15 @@
     },
     {
         "flag": "🇨🇦",
-        "ip_port": "72.10.160.172:10919",
-        "response_time": "417ms",
+        "ip_port": "72.10.160.174:2481",
+        "response_time": "305ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "383ms",
+        "response_time": "357ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -33,6 +33,13 @@
         "response_time": "435ms",
         "country_code": "LY",
         "isp": "Rawafed"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "23.122.184.9:8888",
+        "response_time": "477ms",
+        "country_code": "US",
+        "isp": "AT&T Services, Inc."
     },
     {
         "flag": "🇨🇦",
@@ -49,11 +56,11 @@
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇸🇬",
-        "ip_port": "137.116.142.82:80",
-        "response_time": "238ms",
-        "country_code": "SG",
-        "isp": "Microsoft Corporation"
+        "flag": "🇮🇩",
+        "ip_port": "103.53.77.254:28080",
+        "response_time": "90ms",
+        "country_code": "ID",
+        "isp": "INTI"
     },
     {
         "flag": "🇮🇩",
@@ -100,7 +107,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "139.178.67.134:443",
-        "response_time": "213ms",
+        "response_time": "153ms",
         "country_code": "US",
         "isp": "PACKET-HOST"
     },
@@ -121,14 +128,14 @@
     {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "358ms",
+        "response_time": "443ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
     {
         "flag": "🇷🇺",
         "ip_port": "158.160.14.101:8090",
-        "response_time": "385ms",
+        "response_time": "215ms",
         "country_code": "RU",
         "isp": "Yandex.Cloud LLC"
     },
@@ -142,7 +149,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "315ms",
+        "response_time": "496ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -170,16 +177,9 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "94ms",
+        "response_time": "496ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "119.252.167.130:41890",
-        "response_time": "429ms",
-        "country_code": "ID",
-        "isp": "PT Indonesia Comnets Plus"
     },
     {
         "flag": "🇮🇩",
@@ -212,7 +212,7 @@
     {
         "flag": "🇹🇭",
         "ip_port": "203.150.128.39:8080",
-        "response_time": "407ms",
+        "response_time": "142ms",
         "country_code": "TH",
         "isp": "Internet Thailand Company Ltd"
     },
@@ -231,11 +231,18 @@
         "isp": "TOT Public Company Limited"
     },
     {
-        "flag": "🇧🇬",
-        "ip_port": "77.238.79.111:8080",
-        "response_time": "395ms",
-        "country_code": "BG",
-        "isp": "FIBER1"
+        "flag": "🇹🇭",
+        "ip_port": "183.88.219.206:41564",
+        "response_time": "176ms",
+        "country_code": "TH",
+        "isp": "Triple T Internet Company Limited"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "168.138.211.5:8080",
+        "response_time": "290ms",
+        "country_code": "US",
+        "isp": "Oracle Public Cloud"
     },
     {
         "flag": "🇷🇴",
