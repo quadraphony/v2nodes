@@ -2,21 +2,28 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "428ms",
+        "response_time": "326ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "205ms",
+        "response_time": "302ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "72.10.160.172:10919",
+        "response_time": "312ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇪🇬",
         "ip_port": "154.236.177.101:1981",
-        "response_time": "384ms",
+        "response_time": "308ms",
         "country_code": "EG",
         "isp": "Enterprise"
     },
@@ -28,6 +35,13 @@
         "isp": "GloboTech Communications"
     },
     {
+        "flag": "🇵🇭",
+        "ip_port": "180.191.23.149:8082",
+        "response_time": "246ms",
+        "country_code": "PH",
+        "isp": "Globe Telecom"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.254:5555",
         "response_time": "290ms",
@@ -37,7 +51,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "367ms",
+        "response_time": "491ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -56,25 +70,11 @@
         "isp": "PT Atmega Telecomindo Nusantara"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "74.103.66.15:80",
-        "response_time": "499ms",
-        "country_code": "US",
-        "isp": "Verizon Business"
-    },
-    {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "465ms",
+        "response_time": "196ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇸🇬",
-        "ip_port": "137.116.142.82:80",
-        "response_time": "453ms",
-        "country_code": "SG",
-        "isp": "Microsoft Corporation"
     },
     {
         "flag": "🇮🇩",
@@ -86,7 +86,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "334ms",
+        "response_time": "437ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -107,14 +107,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "179ms",
+        "response_time": "460ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "103.178.194.226:8080",
-        "response_time": "420ms",
+        "response_time": "138ms",
         "country_code": "ID",
         "isp": "PT Jaringan Keluarga Bersama"
     },
@@ -155,6 +155,27 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "103.176.96.178:8080",
+        "response_time": "270ms",
+        "country_code": "ID",
+        "isp": "PT Global Sarana Elektronika"
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "123.30.154.38:2008",
+        "response_time": "401ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
+    },
+    {
+        "flag": "🇨🇴",
+        "ip_port": "170.239.207.178:999",
+        "response_time": "267ms",
+        "country_code": "CO",
+        "isp": "FIBERNET"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.76.151.90:8080",
         "response_time": "234ms",
         "country_code": "ID",
@@ -163,16 +184,16 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "213ms",
+        "response_time": "427ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
     {
-        "flag": "🇧🇩",
-        "ip_port": "103.87.212.140:8080",
-        "response_time": "439ms",
-        "country_code": "BD",
-        "isp": "Arifuzzaman Auni"
+        "flag": "🇮🇩",
+        "ip_port": "103.153.247.50:3125",
+        "response_time": "440ms",
+        "country_code": "ID",
+        "isp": "PRIMAHOME"
     },
     {
         "flag": "🇮🇩",
@@ -191,7 +212,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "412ms",
+        "response_time": "220ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -231,6 +252,13 @@
         "isp": "PT. Transhybrid Communication"
     },
     {
+        "flag": "🇧🇷",
+        "ip_port": "177.128.44.126:6006",
+        "response_time": "511ms",
+        "country_code": "BR",
+        "isp": "FLY & LVT"
+    },
+    {
         "flag": "🇨🇴",
         "ip_port": "177.93.45.226:6969",
         "response_time": "226ms",
@@ -240,9 +268,16 @@
     {
         "flag": "🇧🇩",
         "ip_port": "203.112.223.126:8080",
-        "response_time": "202ms",
+        "response_time": "394ms",
         "country_code": "BD",
         "isp": "Bangladesh Telecommunications Company Ltd."
+    },
+    {
+        "flag": "🇹🇭",
+        "ip_port": "159.192.138.170:8080",
+        "response_time": "360ms",
+        "country_code": "TH",
+        "isp": "CAT-BB"
     },
     {
         "flag": "🇺🇸",
@@ -257,6 +292,13 @@
         "response_time": "290ms",
         "country_code": "BG",
         "isp": "FIBER1"
+    },
+    {
+        "flag": "🇹🇭",
+        "ip_port": "183.88.219.206:41564",
+        "response_time": "374ms",
+        "country_code": "TH",
+        "isp": "Triple T Internet Company Limited"
     },
     {
         "flag": "🇮🇳",
