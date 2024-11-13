@@ -1,12 +1,5 @@
 [
     {
-        "flag": "🇺🇸",
-        "ip_port": "67.213.212.53:45556",
-        "response_time": "681ms",
-        "country_code": "US",
-        "isp": "Hosting Services, Inc."
-    },
-    {
         "flag": "🇧🇩",
         "ip_port": "115.127.81.114:1088",
         "response_time": "218ms",
@@ -23,9 +16,16 @@
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "462ms",
+        "response_time": "570ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "143.198.41.48:61820",
+        "response_time": "506ms",
+        "country_code": "CA",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇮🇩",
@@ -37,7 +37,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "583ms",
+        "response_time": "800ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -51,14 +51,21 @@
     {
         "flag": "🇫🇷",
         "ip_port": "51.255.80.151:36217",
-        "response_time": "303ms",
+        "response_time": "524ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇷🇺",
+        "ip_port": "194.190.169.197:3701",
+        "response_time": "586ms",
+        "country_code": "RU",
+        "isp": "Webmaster Agency Ltd"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "468ms",
+        "response_time": "557ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -70,18 +77,18 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "209.159.153.21:31286",
+        "response_time": "541ms",
+        "country_code": "US",
+        "isp": "Interserver, Inc"
+    },
+    {
         "flag": "🇫🇷",
         "ip_port": "212.83.143.97:17347",
         "response_time": "333ms",
         "country_code": "FR",
         "isp": "Online S.A.S."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "66.29.128.244:47900",
-        "response_time": "581ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
@@ -105,16 +112,9 @@
         "isp": "Namecheap, Inc."
     },
     {
-        "flag": "🇦🇺",
-        "ip_port": "185.139.155.155:1976",
-        "response_time": "559ms",
-        "country_code": "AU",
-        "isp": "Internet Vikings International AB"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "66.29.129.52:35630",
-        "response_time": "584ms",
+        "response_time": "208ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -145,6 +145,13 @@
         "response_time": "293ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "167.71.39.152:38343",
+        "response_time": "602ms",
+        "country_code": "DE",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
