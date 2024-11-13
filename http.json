@@ -21,39 +21,39 @@
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇹🇭",
-        "ip_port": "125.26.4.221:8080",
-        "response_time": "406ms",
-        "country_code": "TH",
-        "isp": "TOT Public Company Limited"
-    },
-    {
         "flag": "🇪🇬",
         "ip_port": "154.236.177.101:1981",
-        "response_time": "228ms",
+        "response_time": "299ms",
         "country_code": "EG",
         "isp": "Enterprise"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "439ms",
+        "response_time": "494ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "358ms",
+        "response_time": "365ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "271ms",
+        "response_time": "496ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "115.178.48.138:8080",
+        "response_time": "160ms",
+        "country_code": "ID",
+        "isp": "NOC SIMAYA"
     },
     {
         "flag": "🇮🇩",
@@ -79,7 +79,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "470ms",
+        "response_time": "479ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -93,7 +93,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "338ms",
+        "response_time": "445ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -103,13 +103,6 @@
         "response_time": "164ms",
         "country_code": "US",
         "isp": "PACKET-HOST"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "144.86.187.35:3128",
-        "response_time": "285ms",
-        "country_code": "US",
-        "isp": "Charles River Operation"
     },
     {
         "flag": "🇺🇸",
@@ -141,20 +134,6 @@
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "144.86.187.36:3128",
-        "response_time": "399ms",
-        "country_code": "US",
-        "isp": "Charles River Operation"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.156.17.83:8080",
-        "response_time": "270ms",
-        "country_code": "ID",
-        "isp": "RSTNET"
-    },
-    {
-        "flag": "🇺🇸",
         "ip_port": "192.9.237.224:3128",
         "response_time": "355ms",
         "country_code": "US",
@@ -166,6 +145,13 @@
         "response_time": "344ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.156.74.154:1111",
+        "response_time": "193ms",
+        "country_code": "ID",
+        "isp": "PT Trika Global Media"
     },
     {
         "flag": "🇹🇷",
@@ -184,21 +170,21 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "347ms",
+        "response_time": "250ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
     {
         "flag": "🇨🇿",
         "ip_port": "78.108.109.0:8080",
-        "response_time": "353ms",
+        "response_time": "259ms",
         "country_code": "CZ",
         "isp": "Neutral Free eXchange members - FreeTel alternate"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "491ms",
+        "response_time": "72ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -217,6 +203,13 @@
         "isp": "WiCAM Corporation Ltd"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.156.75.41:8080",
+        "response_time": "169ms",
+        "country_code": "ID",
+        "isp": "PT Trika Global Media"
+    },
+    {
         "flag": "🇸🇬",
         "ip_port": "145.40.73.102:9443",
         "response_time": "88ms",
@@ -229,13 +222,6 @@
         "response_time": "420ms",
         "country_code": "KH",
         "isp": "COGETEL Co"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "139.255.21.74:8080",
-        "response_time": "226ms",
-        "country_code": "ID",
-        "isp": "PT. LINKNET"
     },
     {
         "flag": "🇧🇷",
@@ -257,6 +243,20 @@
         "response_time": "490ms",
         "country_code": "LA",
         "isp": "SLT Network Co., LTD"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "182.253.21.26:46977",
+        "response_time": "312ms",
+        "country_code": "ID",
+        "isp": "Biznet Networks"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "122.50.6.186:8080",
+        "response_time": "496ms",
+        "country_code": "ID",
+        "isp": "PT Mora Telematika Indonesia"
     },
     {
         "flag": "🇧🇬",
@@ -282,7 +282,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "490ms",
+        "response_time": "333ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     }
