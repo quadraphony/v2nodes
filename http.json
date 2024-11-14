@@ -16,7 +16,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "406ms",
+        "response_time": "451ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -51,7 +51,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "325ms",
+        "response_time": "378ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -85,8 +85,15 @@
     },
     {
         "flag": "🇨🇦",
+        "ip_port": "67.43.228.252:10693",
+        "response_time": "359ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "266ms",
+        "response_time": "222ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -98,11 +105,11 @@
         "isp": "Microturbo Telecomunicacoes Ltda-me"
     },
     {
-        "flag": "🇸🇬",
-        "ip_port": "137.116.142.82:80",
-        "response_time": "453ms",
-        "country_code": "SG",
-        "isp": "Microsoft Corporation"
+        "flag": "🇮🇩",
+        "ip_port": "203.174.15.138:8080",
+        "response_time": "250ms",
+        "country_code": "ID",
+        "isp": "PT Orion Cyber Internet"
     },
     {
         "flag": "🇮🇩",
@@ -114,7 +121,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "270ms",
+        "response_time": "285ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -149,7 +156,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "139.178.67.134:443",
-        "response_time": "165ms",
+        "response_time": "256ms",
         "country_code": "US",
         "isp": "PACKET-HOST"
     },
@@ -176,6 +183,13 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "203.142.86.249:88",
+        "response_time": "215ms",
+        "country_code": "ID",
+        "isp": "BIZNET"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.144.102.230:8080",
         "response_time": "177ms",
         "country_code": "ID",
@@ -194,13 +208,6 @@
         "response_time": "386ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.18.47.139:80",
-        "response_time": "62ms",
-        "country_code": "ID",
-        "isp": "PT. Fiber Networks Indonesia"
     },
     {
         "flag": "🇯🇵",
@@ -231,13 +238,6 @@
         "isp": "E2E Networks Limited"
     },
     {
-        "flag": "🇨🇴",
-        "ip_port": "181.57.131.122:8080",
-        "response_time": "476ms",
-        "country_code": "CO",
-        "isp": "Telmex Colombia S.A."
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "36.94.30.238:8080",
         "response_time": "417ms",
@@ -247,23 +247,23 @@
     {
         "flag": "🇮🇩",
         "ip_port": "58.147.186.214:3125",
-        "response_time": "408ms",
+        "response_time": "304ms",
         "country_code": "ID",
         "isp": "PT. Transhybrid Communication"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "252ms",
+        "response_time": "32ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
     {
-        "flag": "🇨🇴",
-        "ip_port": "190.14.224.244:999",
-        "response_time": "289ms",
-        "country_code": "CO",
-        "isp": "Media Commerce Partners S.A"
+        "flag": "🇻🇳",
+        "ip_port": "113.160.241.196:19132",
+        "response_time": "431ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
     },
     {
         "flag": "🇧🇷",
@@ -280,11 +280,11 @@
         "isp": "SOLUSINET"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "24.52.33.75:8080",
-        "response_time": "288ms",
-        "country_code": "US",
-        "isp": "TDS TELECOM"
+        "flag": "🇹🇭",
+        "ip_port": "1.2.252.65:8080",
+        "response_time": "464ms",
+        "country_code": "TH",
+        "isp": "TOT Public Company Limited"
     },
     {
         "flag": "🇮🇩",
@@ -317,7 +317,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "192ms",
+        "response_time": "342ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     }
