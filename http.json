@@ -9,7 +9,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "250ms",
+        "response_time": "276ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -19,6 +19,13 @@
         "response_time": "350ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇪🇬",
+        "ip_port": "154.236.177.101:1981",
+        "response_time": "291ms",
+        "country_code": "EG",
+        "isp": "Enterprise"
     },
     {
         "flag": "🇨🇦",
@@ -37,16 +44,9 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "345ms",
+        "response_time": "275ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.162.16.168:8080",
-        "response_time": "330ms",
-        "country_code": "ID",
-        "isp": "PT Mega Data Perkasa"
     },
     {
         "flag": "🇺🇸",
@@ -58,7 +58,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "446ms",
+        "response_time": "301ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -86,7 +86,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.83:8080",
-        "response_time": "234ms",
+        "response_time": "58ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
@@ -114,23 +114,16 @@
     {
         "flag": "🇮🇳",
         "ip_port": "103.149.194.222:80",
-        "response_time": "274ms",
+        "response_time": "464ms",
         "country_code": "IN",
         "isp": "Kavya Internet Services Pvt Ltd"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "202.154.18.10:8080",
-        "response_time": "493ms",
+        "response_time": "299ms",
         "country_code": "ID",
         "isp": "DIGITNET"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "203.142.86.249:88",
-        "response_time": "394ms",
-        "country_code": "ID",
-        "isp": "BIZNET"
     },
     {
         "flag": "🇨🇭",
@@ -168,6 +161,13 @@
         "isp": "PT. Mega Artha Lintas Data"
     },
     {
+        "flag": "🇮🇳",
+        "ip_port": "164.52.206.180:80",
+        "response_time": "225ms",
+        "country_code": "IN",
+        "isp": "E2E Networks Limited"
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "36.94.30.238:8080",
         "response_time": "499ms",
@@ -177,16 +177,9 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "220ms",
+        "response_time": "354ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "58.147.186.226:3127",
-        "response_time": "470ms",
-        "country_code": "ID",
-        "isp": "PT. Transhybrid Communication"
     },
     {
         "flag": "🇺🇸",
@@ -212,9 +205,16 @@
     {
         "flag": "🇧🇩",
         "ip_port": "203.112.223.126:8080",
-        "response_time": "105ms",
+        "response_time": "399ms",
         "country_code": "BD",
         "isp": "Bangladesh Telecommunications Company Ltd."
+    },
+    {
+        "flag": "🇲🇽",
+        "ip_port": "187.188.169.169:8080",
+        "response_time": "281ms",
+        "country_code": "MX",
+        "isp": "Total Play Telecomunicaciones SA De CV"
     },
     {
         "flag": "🇧🇬",
@@ -240,7 +240,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "214ms",
+        "response_time": "274ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     }
