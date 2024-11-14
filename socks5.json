@@ -1,15 +1,22 @@
 [
     {
+        "flag": "🇵🇱",
+        "ip_port": "178.255.44.60:58968",
+        "response_time": "380ms",
+        "country_code": "PL",
+        "isp": "Artnet Sp. z o.o."
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "386ms",
+        "response_time": "79ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "797ms",
+        "response_time": "442ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -30,14 +37,14 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "726ms",
+        "response_time": "659ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "477ms",
+        "response_time": "773ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -103,12 +110,5 @@
         "response_time": "432ms",
         "country_code": "GB",
         "isp": "Talk Straight Ltd."
-    },
-    {
-        "flag": "🇻🇳",
-        "ip_port": "113.160.188.21:1080",
-        "response_time": "89ms",
-        "country_code": "VN",
-        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
