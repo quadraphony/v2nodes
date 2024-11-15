@@ -9,7 +9,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "310ms",
+        "response_time": "468ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -23,30 +23,30 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "318ms",
+        "response_time": "405ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "50.204.36.138:60808",
-        "response_time": "463ms",
-        "country_code": "US",
-        "isp": "Comcast Cable Communications, LLC"
-    },
-    {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.254:5555",
-        "response_time": "290ms",
+        "response_time": "374ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "371ms",
+        "response_time": "260ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇪🇬",
+        "ip_port": "41.65.0.219:1976",
+        "response_time": "491ms",
+        "country_code": "EG",
+        "isp": "Enterprise"
     },
     {
         "flag": "🇨🇦",
@@ -93,21 +93,28 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "249ms",
+        "response_time": "440ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "390ms",
+        "response_time": "305ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "203.174.15.83:8080",
+        "response_time": "348ms",
+        "country_code": "ID",
+        "isp": "PT Orion Cyber Internet"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "340ms",
+        "response_time": "351ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -119,23 +126,37 @@
         "isp": "Kavya Internet Services Pvt Ltd"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.133.27.143:8080",
+        "response_time": "377ms",
+        "country_code": "ID",
+        "isp": "PT PHATRIA INTI PERSADA"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "144.86.187.40:3128",
-        "response_time": "268ms",
+        "response_time": "380ms",
+        "country_code": "US",
+        "isp": "Charles River Operation"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "144.86.187.34:3128",
+        "response_time": "248ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "144.86.187.59:3128",
-        "response_time": "328ms",
+        "response_time": "455ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "144.86.187.47:3128",
-        "response_time": "175ms",
+        "response_time": "213ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -156,7 +177,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "144.86.187.36:3128",
-        "response_time": "475ms",
+        "response_time": "382ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -173,13 +194,6 @@
         "response_time": "372ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "203.142.86.249:88",
-        "response_time": "163ms",
-        "country_code": "ID",
-        "isp": "BIZNET"
     },
     {
         "flag": "🇮🇩",
@@ -205,9 +219,16 @@
     {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "337ms",
+        "response_time": "463ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.18.47.139:80",
+        "response_time": "218ms",
+        "country_code": "ID",
+        "isp": "PT. Fiber Networks Indonesia"
     },
     {
         "flag": "🇮🇩",
@@ -240,7 +261,7 @@
     {
         "flag": "🇱🇹",
         "ip_port": "88.119.139.237:53281",
-        "response_time": "492ms",
+        "response_time": "423ms",
         "country_code": "LT",
         "isp": "Telia Lietuva"
     },
@@ -266,18 +287,11 @@
         "isp": "AZNET"
     },
     {
-        "flag": "🇵🇭",
-        "ip_port": "152.32.67.243:10101",
-        "response_time": "326ms",
-        "country_code": "PH",
-        "isp": "Converge ICT Solution Inc"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "162.19.7.58:44363",
-        "response_time": "535ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
+        "flag": "🇯🇵",
+        "ip_port": "160.16.109.252:80",
+        "response_time": "465ms",
+        "country_code": "JP",
+        "isp": "SAKURA"
     },
     {
         "flag": "🇮🇩",
@@ -296,7 +310,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "162ms",
+        "response_time": "74ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -320,6 +334,13 @@
         "response_time": "333ms",
         "country_code": "PH",
         "isp": "Converge ICT Solution Inc"
+    },
+    {
+        "flag": "🇧🇷",
+        "ip_port": "186.237.131.122:8080",
+        "response_time": "411ms",
+        "country_code": "BR",
+        "isp": "IFTNET Telecomunicacoes Ltda"
     },
     {
         "flag": "🇪🇸",
@@ -359,7 +380,7 @@
     {
         "flag": "🇧🇬",
         "ip_port": "77.238.79.111:8080",
-        "response_time": "376ms",
+        "response_time": "383ms",
         "country_code": "BG",
         "isp": "FIBER1"
     },
@@ -380,7 +401,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "182ms",
+        "response_time": "184ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     }
