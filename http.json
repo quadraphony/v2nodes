@@ -9,21 +9,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "472ms",
+        "response_time": "414ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.172:10919",
-        "response_time": "492ms",
+        "response_time": "404ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "191ms",
+        "response_time": "440ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -37,21 +37,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "307ms",
+        "response_time": "301ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇪🇬",
         "ip_port": "41.65.0.219:1976",
-        "response_time": "457ms",
+        "response_time": "419ms",
         "country_code": "EG",
         "isp": "Enterprise"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "103.39.49.156:3128",
-        "response_time": "291ms",
+        "response_time": "208ms",
         "country_code": "ID",
         "isp": "PT. Mega Mentari Mandiri"
     },
@@ -65,9 +65,16 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "387ms",
+        "response_time": "380ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "115.178.48.138:8080",
+        "response_time": "240ms",
+        "country_code": "ID",
+        "isp": "NOC SIMAYA"
     },
     {
         "flag": "🇮🇩",
@@ -79,28 +86,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "358ms",
+        "response_time": "446ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "367ms",
+        "response_time": "415ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "203.174.15.83:8080",
-        "response_time": "63ms",
-        "country_code": "ID",
-        "isp": "PT Orion Cyber Internet"
-    },
-    {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "334ms",
+        "response_time": "424ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -147,16 +147,9 @@
         "isp": "PANDAWANET"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "203.128.80.178:8099",
-        "response_time": "449ms",
-        "country_code": "ID",
-        "isp": "Neuviz"
-    },
-    {
         "flag": "🇯🇵",
         "ip_port": "133.186.229.93:3128",
-        "response_time": "133ms",
+        "response_time": "155ms",
         "country_code": "JP",
         "isp": "NHN"
     },
@@ -177,7 +170,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.156.74.154:1111",
-        "response_time": "93ms",
+        "response_time": "174ms",
         "country_code": "ID",
         "isp": "PT Trika Global Media"
     },
@@ -198,14 +191,14 @@
     {
         "flag": "🇺🇸",
         "ip_port": "104.129.194.44:10336",
-        "response_time": "134ms",
+        "response_time": "122ms",
         "country_code": "US",
         "isp": "ZSCALER, INC."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "104.129.194.43:10336",
-        "response_time": "304ms",
+        "response_time": "116ms",
         "country_code": "US",
         "isp": "ZSCALER, INC."
     },
@@ -219,7 +212,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "58.147.186.214:3125",
-        "response_time": "346ms",
+        "response_time": "469ms",
         "country_code": "ID",
         "isp": "PT. Transhybrid Communication"
     },
@@ -243,6 +236,13 @@
         "response_time": "773ms",
         "country_code": "PH",
         "isp": "Converge ICT Solution Inc"
+    },
+    {
+        "flag": "🇪🇸",
+        "ip_port": "77.225.198.220:9812",
+        "response_time": "337ms",
+        "country_code": "ES",
+        "isp": "Comunitel Global"
     },
     {
         "flag": "🇹🇭",
