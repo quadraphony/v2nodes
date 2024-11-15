@@ -2,16 +2,23 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "288ms",
+        "response_time": "363ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "269ms",
+        "response_time": "311ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇪🇬",
+        "ip_port": "154.236.177.101:1981",
+        "response_time": "291ms",
+        "country_code": "EG",
+        "isp": "Enterprise"
     },
     {
         "flag": "🇨🇦",
@@ -30,7 +37,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "274ms",
+        "response_time": "231ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -49,6 +56,13 @@
         "isp": "Rawafed"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.162.16.168:8080",
+        "response_time": "379ms",
+        "country_code": "ID",
+        "isp": "PT Mega Data Perkasa"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.252:10693",
         "response_time": "467ms",
@@ -58,7 +72,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "274ms",
+        "response_time": "290ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -79,7 +93,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.175.224.93:4444",
-        "response_time": "270ms",
+        "response_time": "52ms",
         "country_code": "ID",
         "isp": "MYREPUBLIC"
     },
@@ -93,14 +107,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "317ms",
+        "response_time": "485ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "356ms",
+        "response_time": "343ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -114,7 +128,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "315ms",
+        "response_time": "257ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -149,7 +163,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "144.86.187.35:3128",
-        "response_time": "375ms",
+        "response_time": "354ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -177,7 +191,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "144.86.187.55:3128",
-        "response_time": "321ms",
+        "response_time": "199ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -191,7 +205,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "144.86.187.36:3128",
-        "response_time": "382ms",
+        "response_time": "370ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -240,7 +254,7 @@
     {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "487ms",
+        "response_time": "408ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
@@ -261,9 +275,16 @@
     {
         "flag": "🇺🇸",
         "ip_port": "129.80.58.106:3128",
-        "response_time": "248ms",
+        "response_time": "153ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
+    },
+    {
+        "flag": "🇦🇷",
+        "ip_port": "201.252.56.188:8090",
+        "response_time": "373ms",
+        "country_code": "AR",
+        "isp": "Telecom Argentina S.A."
     },
     {
         "flag": "🇱🇹",
@@ -282,7 +303,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "370ms",
+        "response_time": "455ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -296,7 +317,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "140ms",
+        "response_time": "103ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -385,9 +406,16 @@
         "isp": "FIBER1"
     },
     {
+        "flag": "🇵🇭",
+        "ip_port": "120.29.124.131:8080",
+        "response_time": "500ms",
+        "country_code": "PH",
+        "isp": "ComClark Network & Technology Corp"
+    },
+    {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "228ms",
+        "response_time": "367ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     }
