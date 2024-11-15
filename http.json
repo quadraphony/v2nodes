@@ -16,14 +16,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.172:10919",
-        "response_time": "426ms",
+        "response_time": "252ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "497ms",
+        "response_time": "403ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -37,21 +37,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.254:5555",
-        "response_time": "490ms",
+        "response_time": "406ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "304ms",
+        "response_time": "368ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇪🇬",
         "ip_port": "41.65.0.219:1976",
-        "response_time": "248ms",
+        "response_time": "408ms",
         "country_code": "EG",
         "isp": "Enterprise"
     },
@@ -93,7 +93,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "262ms",
+        "response_time": "429ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -121,14 +121,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "395ms",
+        "response_time": "350ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "388ms",
+        "response_time": "450ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -142,7 +142,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "291ms",
+        "response_time": "460ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -156,23 +156,16 @@
     {
         "flag": "🇺🇸",
         "ip_port": "139.178.67.134:443",
-        "response_time": "191ms",
+        "response_time": "217ms",
         "country_code": "US",
         "isp": "PACKET-HOST"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "192.9.237.224:3128",
-        "response_time": "305ms",
-        "country_code": "US",
-        "isp": "Oracle Corporation"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "103.149.194.222:80",
-        "response_time": "304ms",
-        "country_code": "IN",
-        "isp": "Kavya Internet Services Pvt Ltd"
+        "flag": "🇮🇩",
+        "ip_port": "202.154.19.7:8080",
+        "response_time": "154ms",
+        "country_code": "ID",
+        "isp": "DIGITNET"
     },
     {
         "flag": "🇮🇩",
@@ -198,7 +191,7 @@
     {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "358ms",
+        "response_time": "290ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
@@ -287,11 +280,11 @@
         "isp": "SAKURA"
     },
     {
-        "flag": "🇸🇾",
-        "ip_port": "213.178.250.33:8080",
-        "response_time": "463ms",
-        "country_code": "SY",
-        "isp": "SCS"
+        "flag": "🇮🇩",
+        "ip_port": "103.153.247.50:3125",
+        "response_time": "491ms",
+        "country_code": "ID",
+        "isp": "PRIMAHOME"
     },
     {
         "flag": "🇻🇳",
@@ -310,7 +303,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "393ms",
+        "response_time": "69ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -336,13 +329,6 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇨🇴",
-        "ip_port": "186.83.28.190:999",
-        "response_time": "434ms",
-        "country_code": "CO",
-        "isp": "Telmex Colombia S.A."
-    },
-    {
         "flag": "🇹🇭",
         "ip_port": "203.150.128.98:8080",
         "response_time": "385ms",
@@ -364,25 +350,18 @@
         "isp": "Mob Servicos de Telecomunicacoes Ltda"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.164.116.172:8080",
-        "response_time": "359ms",
-        "country_code": "ID",
-        "isp": "SOLUSINET"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "103.209.88.75:8080",
-        "response_time": "406ms",
-        "country_code": "IN",
-        "isp": "TransMedia Technologies (AP) PVT LTD"
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "103.129.3.246:83",
         "response_time": "474ms",
         "country_code": "IN",
         "isp": "S S Cablenet"
+    },
+    {
+        "flag": "🇨🇴",
+        "ip_port": "177.93.45.226:6969",
+        "response_time": "377ms",
+        "country_code": "CO",
+        "isp": "TV AZTECA SUCURSAL COLOMBIA"
     },
     {
         "flag": "🇮🇩",
@@ -401,9 +380,16 @@
     {
         "flag": "🇹🇭",
         "ip_port": "203.150.113.220:8080",
-        "response_time": "375ms",
+        "response_time": "395ms",
         "country_code": "TH",
         "isp": "INET-IBB"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "202.152.24.50:8080",
+        "response_time": "106ms",
+        "country_code": "ID",
+        "isp": "PT Aplikanusa Lintasarta"
     },
     {
         "flag": "🇮🇩",
@@ -443,7 +429,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "185ms",
+        "response_time": "328ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     }
