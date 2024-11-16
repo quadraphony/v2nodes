@@ -2,14 +2,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "374ms",
+        "response_time": "198ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "463ms",
+        "response_time": "337ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -30,14 +30,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.254:5555",
-        "response_time": "293ms",
+        "response_time": "414ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "374ms",
+        "response_time": "168ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -92,6 +92,13 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "103.53.77.254:28080",
+        "response_time": "328ms",
+        "country_code": "ID",
+        "isp": "INTI"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.189.116.133:8080",
         "response_time": "156ms",
         "country_code": "ID",
@@ -100,14 +107,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "436ms",
+        "response_time": "378ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "380ms",
+        "response_time": "336ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -135,14 +142,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "144.86.187.40:3128",
-        "response_time": "389ms",
-        "country_code": "US",
-        "isp": "Charles River Operation"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "144.86.187.35:3128",
-        "response_time": "487ms",
+        "response_time": "182ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -164,13 +164,6 @@
         "flag": "🇺🇸",
         "ip_port": "144.86.187.59:3128",
         "response_time": "402ms",
-        "country_code": "US",
-        "isp": "Charles River Operation"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "144.86.187.47:3128",
-        "response_time": "350ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -205,7 +198,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "192.9.237.224:3128",
-        "response_time": "495ms",
+        "response_time": "487ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
@@ -232,13 +225,6 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "103.144.102.230:8080",
-        "response_time": "253ms",
-        "country_code": "ID",
-        "isp": "PANDAWANET"
-    },
-    {
-        "flag": "🇮🇩",
         "ip_port": "124.158.153.218:8180",
         "response_time": "125ms",
         "country_code": "ID",
@@ -250,13 +236,6 @@
         "response_time": "428ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "103.174.81.10:80",
-        "response_time": "492ms",
-        "country_code": "IN",
-        "isp": "CtrlS"
     },
     {
         "flag": "🇮🇩",
@@ -275,9 +254,16 @@
     {
         "flag": "🇺🇸",
         "ip_port": "129.80.58.106:3128",
-        "response_time": "164ms",
+        "response_time": "138ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
+    },
+    {
+        "flag": "🇮🇳",
+        "ip_port": "134.209.144.177:80",
+        "response_time": "462ms",
+        "country_code": "IN",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇮🇩",
@@ -285,6 +271,13 @@
         "response_time": "460ms",
         "country_code": "ID",
         "isp": "GMEDIA"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "101.255.167.174:8080",
+        "response_time": "182ms",
+        "country_code": "ID",
+        "isp": "PT Remala Abadi"
     },
     {
         "flag": "🇮🇳",
@@ -299,13 +292,6 @@
         "response_time": "249ms",
         "country_code": "ID",
         "isp": "AZNET"
-    },
-    {
-        "flag": "🇯🇵",
-        "ip_port": "160.16.109.252:80",
-        "response_time": "298ms",
-        "country_code": "JP",
-        "isp": "SAKURA"
     },
     {
         "flag": "🇬🇶",
@@ -345,7 +331,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "54ms",
+        "response_time": "205ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -378,13 +364,6 @@
         "isp": "PT Trika Global Media"
     },
     {
-        "flag": "🇰🇭",
-        "ip_port": "110.235.250.155:8080",
-        "response_time": "88ms",
-        "country_code": "KH",
-        "isp": "COGETEL Co"
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "103.239.147.250:54623",
         "response_time": "109ms",
@@ -399,11 +378,11 @@
         "isp": "Internet Thailand Company Ltd"
     },
     {
-        "flag": "🇨🇴",
-        "ip_port": "177.93.45.226:6969",
-        "response_time": "349ms",
-        "country_code": "CO",
-        "isp": "TV AZTECA SUCURSAL COLOMBIA"
+        "flag": "🇮🇩",
+        "ip_port": "36.94.232.177:999",
+        "response_time": "158ms",
+        "country_code": "ID",
+        "isp": "PT. Telekomunikasi Indonesia"
     },
     {
         "flag": "🇧🇩",
@@ -418,6 +397,13 @@
         "response_time": "292ms",
         "country_code": "BG",
         "isp": "FIBER1"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "156.67.172.185:3128",
+        "response_time": "360ms",
+        "country_code": "DE",
+        "isp": "Deutsche Glasfaser Business GmbH"
     },
     {
         "flag": "🇮🇳",
