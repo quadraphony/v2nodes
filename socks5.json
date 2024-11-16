@@ -23,21 +23,28 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "609ms",
+        "response_time": "494ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇫🇷",
         "ip_port": "51.255.80.151:36217",
-        "response_time": "677ms",
+        "response_time": "725ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "137.220.43.37:10810",
+        "response_time": "295ms",
+        "country_code": "US",
+        "isp": "The Constant Company"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "482ms",
+        "response_time": "472ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -51,14 +58,14 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "170ms",
+        "response_time": "204ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.129.54:14181",
-        "response_time": "370ms",
+        "response_time": "594ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -75,13 +82,6 @@
         "response_time": "565ms",
         "country_code": "US",
         "isp": "GTHost"
-    },
-    {
-        "flag": "🇦🇺",
-        "ip_port": "185.139.155.155:1976",
-        "response_time": "327ms",
-        "country_code": "AU",
-        "isp": "Internet Vikings International AB"
     },
     {
         "flag": "🇺🇸",
@@ -107,7 +107,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "476ms",
+        "response_time": "85ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -131,5 +131,12 @@
         "response_time": "649ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "113.160.188.21:1080",
+        "response_time": "81ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
