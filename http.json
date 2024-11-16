@@ -9,7 +9,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "388ms",
+        "response_time": "389ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -30,14 +30,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "247ms",
+        "response_time": "262ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "67.43.228.252:10693",
+        "response_time": "281ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "358ms",
+        "response_time": "263ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -49,37 +56,65 @@
         "isp": "NOC SIMAYA"
     },
     {
+        "flag": "🇸🇬",
+        "ip_port": "137.116.142.82:80",
+        "response_time": "297ms",
+        "country_code": "SG",
+        "isp": "Microsoft Corporation"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "347ms",
+        "response_time": "451ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "314ms",
+        "response_time": "493ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.83:8080",
-        "response_time": "45ms",
+        "response_time": "64ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "441ms",
+        "response_time": "449ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "139.178.67.134:443",
+        "response_time": "163ms",
+        "country_code": "US",
+        "isp": "PACKET-HOST"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.144.146.40:34343",
+        "response_time": "362ms",
+        "country_code": "ID",
+        "isp": "Lexxa Data"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "192.9.237.224:3128",
+        "response_time": "309ms",
+        "country_code": "US",
+        "isp": "Oracle Corporation"
+    },
+    {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "261ms",
+        "response_time": "389ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
@@ -142,7 +177,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "129.80.58.106:3128",
-        "response_time": "375ms",
+        "response_time": "241ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
@@ -163,7 +198,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "372ms",
+        "response_time": "429ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -177,7 +212,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "388ms",
+        "response_time": "116ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -187,6 +222,13 @@
         "response_time": "316ms",
         "country_code": "CO",
         "isp": "Media Commerce Partners S.A"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.215.72.115:55443",
+        "response_time": "129ms",
+        "country_code": "ID",
+        "isp": "Argon Data Network"
     },
     {
         "flag": "🇹🇭",
@@ -215,12 +257,5 @@
         "response_time": "406ms",
         "country_code": "BD",
         "isp": "Bangladesh Telecommunications Company Ltd."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.70.79.3:8080",
-        "response_time": "460ms",
-        "country_code": "ID",
-        "isp": "Diskominfo Kabupaten Sukoharjo"
     }
 ]
