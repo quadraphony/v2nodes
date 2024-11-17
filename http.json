@@ -2,7 +2,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "386ms",
+        "response_time": "479ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -12,6 +12,13 @@
         "response_time": "440ms",
         "country_code": "TH",
         "isp": "TOT Public Company Limited"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "97.76.251.138:8080",
+        "response_time": "349ms",
+        "country_code": "US",
+        "isp": "Spectrum"
     },
     {
         "flag": "🇧🇩",
@@ -44,28 +51,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "355ms",
+        "response_time": "374ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "23.122.184.9:8888",
-        "response_time": "487ms",
+        "response_time": "208ms",
         "country_code": "US",
         "isp": "AT&T Services, Inc."
     },
     {
         "flag": "🇨🇦",
-        "ip_port": "67.43.228.252:10693",
-        "response_time": "288ms",
-        "country_code": "CA",
-        "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "318ms",
+        "response_time": "317ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -79,7 +79,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "448ms",
+        "response_time": "187ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -93,14 +93,14 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.83:8080",
-        "response_time": "46ms",
+        "response_time": "235ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "390ms",
+        "response_time": "228ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -115,6 +115,13 @@
         "flag": "🇺🇸",
         "ip_port": "144.86.187.40:3128",
         "response_time": "410ms",
+        "country_code": "US",
+        "isp": "Charles River Operation"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "144.86.187.35:3128",
+        "response_time": "326ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -166,6 +173,13 @@
         "response_time": "319ms",
         "country_code": "ID",
         "isp": "Lexxa Data"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "192.9.237.224:3128",
+        "response_time": "199ms",
+        "country_code": "US",
+        "isp": "Oracle Corporation"
     },
     {
         "flag": "🇩🇪",
@@ -226,30 +240,16 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.165.128.171:8080",
-        "response_time": "372ms",
+        "response_time": "199ms",
         "country_code": "ID",
         "isp": "PT iForte Global Internet"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "129.80.58.106:3128",
-        "response_time": "142ms",
+        "response_time": "162ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
-    },
-    {
-        "flag": "🇬🇦",
-        "ip_port": "41.159.154.43:3128",
-        "response_time": "321ms",
-        "country_code": "GA",
-        "isp": "Gabon Telecom Internet Network Autonomous System"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "134.209.144.177:80",
-        "response_time": "219ms",
-        "country_code": "IN",
-        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇦🇷",
@@ -261,7 +261,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "406ms",
+        "response_time": "316ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -289,7 +289,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "174ms",
+        "response_time": "374ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -299,13 +299,6 @@
         "response_time": "384ms",
         "country_code": "AM",
         "isp": "GNC-Alfa CJSC"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "202.137.8.149:8080",
-        "response_time": "485ms",
-        "country_code": "ID",
-        "isp": "LINKNET"
     },
     {
         "flag": "🇲🇽",
@@ -327,6 +320,13 @@
         "response_time": "670ms",
         "country_code": "AR",
         "isp": "AMX Argentina S.A."
+    },
+    {
+        "flag": "🇹🇭",
+        "ip_port": "203.150.128.208:8080",
+        "response_time": "272ms",
+        "country_code": "TH",
+        "isp": "Internet Thailand Company Ltd"
     },
     {
         "flag": "🇮🇩",
