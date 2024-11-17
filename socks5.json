@@ -1,12 +1,5 @@
 [
     {
-        "flag": "🇧🇩",
-        "ip_port": "103.234.27.221:1080",
-        "response_time": "409ms",
-        "country_code": "BD",
-        "isp": "BTS Communications (BD) Ltd"
-    },
-    {
         "flag": "🇻🇳",
         "ip_port": "116.97.240.147:4996",
         "response_time": "402ms",
@@ -21,9 +14,16 @@
         "isp": "Artnet Sp. z o.o."
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.174.178.131:1020",
+        "response_time": "170ms",
+        "country_code": "ID",
+        "isp": "PT Gasatek Bintang Nusantara"
+    },
+    {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "475ms",
+        "response_time": "791ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -58,14 +58,14 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "469ms",
+        "response_time": "531ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "174ms",
+        "response_time": "182ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -75,13 +75,6 @@
         "response_time": "549ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "38.91.107.229:28184",
-        "response_time": "247ms",
-        "country_code": "US",
-        "isp": "GTHost"
     },
     {
         "flag": "🇺🇸",
@@ -98,37 +91,23 @@
         "isp": "Interserver, Inc"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "38.91.107.220:14827",
-        "response_time": "539ms",
-        "country_code": "US",
-        "isp": "GTHost"
-    },
-    {
         "flag": "🇦🇺",
         "ip_port": "185.139.155.155:1976",
-        "response_time": "598ms",
+        "response_time": "458ms",
         "country_code": "AU",
         "isp": "Internet Vikings International AB"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.241:14954",
-        "response_time": "343ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "66.29.129.52:35630",
-        "response_time": "223ms",
+        "response_time": "358ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "174.138.176.75:58822",
-        "response_time": "403ms",
+        "response_time": "424ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
     },
@@ -170,7 +149,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "290ms",
+        "response_time": "408ms",
         "country_code": "US",
         "isp": "OVH US LLC"
     }
