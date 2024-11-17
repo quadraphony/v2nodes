@@ -9,14 +9,14 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "368ms",
+        "response_time": "782ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "737ms",
+        "response_time": "538ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -37,21 +37,28 @@
     {
         "flag": "🇨🇦",
         "ip_port": "184.95.220.42:1080",
-        "response_time": "358ms",
+        "response_time": "614ms",
         "country_code": "CA",
         "isp": "Fibrenoire Inc."
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "149.248.32.107:10810",
+        "response_time": "483ms",
+        "country_code": "US",
+        "isp": "The Constant Company"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "468ms",
+        "response_time": "465ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "189ms",
+        "response_time": "202ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -68,13 +75,6 @@
         "response_time": "315ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "66.23.233.210:23899",
-        "response_time": "252ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
     },
     {
         "flag": "🇦🇺",
@@ -105,23 +105,30 @@
         "isp": "Namecheap, Inc."
     },
     {
-        "flag": "🇸🇬",
-        "ip_port": "188.166.230.38:64768",
-        "response_time": "778ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
+        "flag": "🇺🇸",
+        "ip_port": "192.154.246.96:9000",
+        "response_time": "439ms",
+        "country_code": "US",
+        "isp": "Vivid-hosting LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "623ms",
+        "response_time": "685ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
     {
         "flag": "🇺🇸",
+        "ip_port": "198.199.64.196:61877",
+        "response_time": "586ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "323ms",
+        "response_time": "298ms",
         "country_code": "US",
         "isp": "OVH US LLC"
     }
