@@ -21,25 +21,11 @@
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇹🇭",
-        "ip_port": "125.26.4.221:8080",
-        "response_time": "440ms",
-        "country_code": "TH",
-        "isp": "TOT Public Company Limited"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "97.76.251.138:8080",
         "response_time": "349ms",
         "country_code": "US",
         "isp": "Spectrum"
-    },
-    {
-        "flag": "🇧🇩",
-        "ip_port": "115.127.5.146:8674",
-        "response_time": "164ms",
-        "country_code": "BD",
-        "isp": "bracNet"
     },
     {
         "flag": "🇺🇸",
@@ -58,14 +44,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "214ms",
+        "response_time": "447ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "23.122.184.9:8888",
-        "response_time": "474ms",
+        "response_time": "195ms",
         "country_code": "US",
         "isp": "AT&T Services, Inc."
     },
@@ -121,7 +107,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "290ms",
+        "response_time": "209ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -136,13 +122,6 @@
         "flag": "🇺🇸",
         "ip_port": "144.86.187.35:3128",
         "response_time": "326ms",
-        "country_code": "US",
-        "isp": "Charles River Operation"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "144.86.187.34:3128",
-        "response_time": "258ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -164,13 +143,6 @@
         "flag": "🇺🇸",
         "ip_port": "144.86.187.47:3128",
         "response_time": "246ms",
-        "country_code": "US",
-        "isp": "Charles River Operation"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "144.86.187.55:3128",
-        "response_time": "446ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -203,13 +175,6 @@
         "isp": "Servicios y Asesoria Tecnobba S.A.S. de C.V."
     },
     {
-        "flag": "🇩🇪",
-        "ip_port": "173.249.60.246:14344",
-        "response_time": "381ms",
-        "country_code": "DE",
-        "isp": "Contabo GmbH"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
         "response_time": "468ms",
@@ -217,9 +182,16 @@
         "isp": "BIZNET"
     },
     {
+        "flag": "🇮🇳",
+        "ip_port": "103.176.116.34:83",
+        "response_time": "277ms",
+        "country_code": "IN",
+        "isp": "Gbpl Global Broadband Private Limited"
+    },
+    {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "437ms",
+        "response_time": "477ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
@@ -233,7 +205,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "36.66.111.81:8080",
-        "response_time": "149ms",
+        "response_time": "50ms",
         "country_code": "ID",
         "isp": "PT. Telekomunikasi Indonesia"
     },
@@ -247,7 +219,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "129.80.58.106:3128",
-        "response_time": "147ms",
+        "response_time": "168ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
@@ -273,9 +245,23 @@
         "isp": "Maxindo"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.76.151.90:8080",
+        "response_time": "410ms",
+        "country_code": "ID",
+        "isp": "PT. Java Digital Nusantara"
+    },
+    {
+        "flag": "🇧🇷",
+        "ip_port": "186.215.87.194:10312",
+        "response_time": "427ms",
+        "country_code": "BR",
+        "isp": "TELEFÔNICA BRASIL S.A"
+    },
+    {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "295ms",
+        "response_time": "227ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -303,16 +289,30 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "336ms",
+        "response_time": "291ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
     {
-        "flag": "🇲🇽",
-        "ip_port": "45.189.252.246:999",
-        "response_time": "477ms",
-        "country_code": "MX",
-        "isp": "Tracered SA De CV"
+        "flag": "🇮🇩",
+        "ip_port": "103.215.72.115:55443",
+        "response_time": "408ms",
+        "country_code": "ID",
+        "isp": "Argon Data Network"
+    },
+    {
+        "flag": "🇪🇬",
+        "ip_port": "41.65.160.173:1981",
+        "response_time": "359ms",
+        "country_code": "EG",
+        "isp": "Etisalat Misr Mobile BB"
+    },
+    {
+        "flag": "🇧🇩",
+        "ip_port": "45.125.222.97:36110",
+        "response_time": "177ms",
+        "country_code": "BD",
+        "isp": "SSD-TECH"
     },
     {
         "flag": "🇦🇷",
@@ -327,13 +327,6 @@
         "response_time": "272ms",
         "country_code": "TH",
         "isp": "Internet Thailand Company Ltd"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "36.94.232.177:999",
-        "response_time": "393ms",
-        "country_code": "ID",
-        "isp": "PT. Telekomunikasi Indonesia"
     },
     {
         "flag": "🇧🇬",
@@ -362,13 +355,6 @@
         "response_time": "455ms",
         "country_code": "ID",
         "isp": "PT SOLUSI TRIMEGAH PERSADA"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "125.99.106.250:3128",
-        "response_time": "341ms",
-        "country_code": "IN",
-        "isp": "Hathway IP over Cable Internet Access"
     },
     {
         "flag": "🇷🇴",
