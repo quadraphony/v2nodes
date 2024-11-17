@@ -9,9 +9,16 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "325ms",
+        "response_time": "386ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇹🇭",
+        "ip_port": "125.26.4.221:8080",
+        "response_time": "440ms",
+        "country_code": "TH",
+        "isp": "TOT Public Company Limited"
     },
     {
         "flag": "🇪🇬",
@@ -26,6 +33,13 @@
         "response_time": "439ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇧🇩",
+        "ip_port": "115.127.5.146:8674",
+        "response_time": "164ms",
+        "country_code": "BD",
+        "isp": "bracNet"
     },
     {
         "flag": "🇷🇺",
@@ -44,9 +58,16 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "477ms",
+        "response_time": "325ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "23.122.184.9:8888",
+        "response_time": "442ms",
+        "country_code": "US",
+        "isp": "AT&T Services, Inc."
     },
     {
         "flag": "🇨🇦",
@@ -65,14 +86,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "355ms",
+        "response_time": "448ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "477ms",
+        "response_time": "221ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -86,7 +107,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "425ms",
+        "response_time": "390ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -106,8 +127,22 @@
     },
     {
         "flag": "🇺🇸",
+        "ip_port": "144.86.187.34:3128",
+        "response_time": "258ms",
+        "country_code": "US",
+        "isp": "Charles River Operation"
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "144.86.187.39:3128",
-        "response_time": "242ms",
+        "response_time": "290ms",
+        "country_code": "US",
+        "isp": "Charles River Operation"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "144.86.187.59:3128",
+        "response_time": "207ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -115,6 +150,13 @@
         "flag": "🇺🇸",
         "ip_port": "144.86.187.46:3128",
         "response_time": "172ms",
+        "country_code": "US",
+        "isp": "Charles River Operation"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "144.86.187.55:3128",
+        "response_time": "446ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -135,14 +177,14 @@
     {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "182ms",
+        "response_time": "381ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "218ms",
+        "response_time": "415ms",
         "country_code": "ID",
         "isp": "BIZNET"
     },
@@ -163,7 +205,7 @@
     {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "208ms",
+        "response_time": "429ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
@@ -210,6 +252,13 @@
         "isp": "Mrkr Communications Private Limited"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.165.128.171:8080",
+        "response_time": "372ms",
+        "country_code": "ID",
+        "isp": "PT iForte Global Internet"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "129.80.58.106:3128",
         "response_time": "162ms",
@@ -238,6 +287,13 @@
         "isp": "E2E Networks Limited"
     },
     {
+        "flag": "🇬🇶",
+        "ip_port": "102.164.252.150:8080",
+        "response_time": "472ms",
+        "country_code": "GQ",
+        "isp": "Conexxia GE S.L"
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "103.169.186.151:3125",
         "response_time": "203ms",
@@ -247,7 +303,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "167ms",
+        "response_time": "82ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -257,13 +313,6 @@
         "response_time": "384ms",
         "country_code": "AM",
         "isp": "GNC-Alfa CJSC"
-    },
-    {
-        "flag": "🇰🇭",
-        "ip_port": "119.15.86.30:8080",
-        "response_time": "382ms",
-        "country_code": "KH",
-        "isp": "WiCAM Corporation Ltd"
     },
     {
         "flag": "🇮🇩",
@@ -280,6 +329,13 @@
         "isp": "Tracered SA De CV"
     },
     {
+        "flag": "🇲🇽",
+        "ip_port": "45.189.252.246:999",
+        "response_time": "477ms",
+        "country_code": "MX",
+        "isp": "Tracered SA De CV"
+    },
+    {
         "flag": "🇻🇳",
         "ip_port": "115.74.246.138:8080",
         "response_time": "444ms",
@@ -289,7 +345,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "36.94.232.177:999",
-        "response_time": "70ms",
+        "response_time": "393ms",
         "country_code": "ID",
         "isp": "PT. Telekomunikasi Indonesia"
     },
@@ -345,7 +401,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "251ms",
+        "response_time": "341ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     },
