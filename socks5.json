@@ -30,28 +30,35 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "784ms",
+        "response_time": "376ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "459ms",
+        "response_time": "598ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇫🇷",
         "ip_port": "51.255.80.151:36217",
-        "response_time": "329ms",
+        "response_time": "480ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "67.205.177.122:56826",
+        "response_time": "644ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "771ms",
+        "response_time": "469ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -87,13 +94,6 @@
         "flag": "🇺🇸",
         "ip_port": "209.159.153.22:24452",
         "response_time": "767ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "174.138.176.78:35730",
-        "response_time": "507ms",
         "country_code": "US",
         "isp": "Interserver, Inc"
     },
@@ -140,11 +140,11 @@
         "isp": "Interserver, Inc"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "66.29.129.56:38557",
-        "response_time": "320ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
+        "flag": "🇩🇪",
+        "ip_port": "167.71.39.152:38343",
+        "response_time": "715ms",
+        "country_code": "DE",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇻🇳",
@@ -162,8 +162,8 @@
     },
     {
         "flag": "🇹🇷",
-        "ip_port": "185.86.5.162:8975",
-        "response_time": "733ms",
+        "ip_port": "185.87.121.35:8975",
+        "response_time": "681ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
     }
