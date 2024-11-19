@@ -1,5 +1,12 @@
 [
     {
+        "flag": "🇧🇩",
+        "ip_port": "103.234.27.221:1080",
+        "response_time": "206ms",
+        "country_code": "BD",
+        "isp": "BTS Communications (BD) Ltd"
+    },
+    {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
         "response_time": "651ms",
@@ -16,21 +23,28 @@
     {
         "flag": "🇧🇬",
         "ip_port": "31.211.142.115:8192",
-        "response_time": "647ms",
+        "response_time": "375ms",
         "country_code": "BG",
         "isp": "5KOM"
     },
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "626ms",
+        "response_time": "791ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇷🇺",
+        "ip_port": "185.112.224.151:1080",
+        "response_time": "445ms",
+        "country_code": "RU",
+        "isp": "Orion Telecom LLC"
+    },
+    {
         "flag": "🇫🇷",
         "ip_port": "51.255.80.151:36217",
-        "response_time": "672ms",
+        "response_time": "680ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -43,13 +57,6 @@
     },
     {
         "flag": "🇷🇺",
-        "ip_port": "79.104.34.214:1080",
-        "response_time": "412ms",
-        "country_code": "RU",
-        "isp": "EDN SOVINTEL"
-    },
-    {
-        "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
         "response_time": "466ms",
         "country_code": "RU",
@@ -58,28 +65,21 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "555ms",
+        "response_time": "530ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "212ms",
+        "response_time": "179ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "66.29.129.52:35630",
-        "response_time": "351ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "49ms",
+        "response_time": "208ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -96,12 +96,5 @@
         "response_time": "262ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "185.86.5.162:8975",
-        "response_time": "495ms",
-        "country_code": "TR",
-        "isp": "Ideal Hosting Teknoloji"
     }
 ]
