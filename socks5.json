@@ -7,9 +7,16 @@
         "isp": "BRACNet Limited"
     },
     {
+        "flag": "🇧🇩",
+        "ip_port": "103.234.27.221:1080",
+        "response_time": "101ms",
+        "country_code": "BD",
+        "isp": "BTS Communications (BD) Ltd"
+    },
+    {
         "flag": "🇻🇳",
         "ip_port": "116.97.240.147:4996",
-        "response_time": "387ms",
+        "response_time": "339ms",
         "country_code": "VN",
         "isp": "Viettel Corporation"
     },
@@ -30,14 +37,14 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "692ms",
+        "response_time": "494ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇫🇷",
         "ip_port": "51.255.80.151:36217",
-        "response_time": "724ms",
+        "response_time": "581ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -51,30 +58,23 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "468ms",
+        "response_time": "467ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "186ms",
+        "response_time": "282ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "38.91.106.252:61625",
-        "response_time": "414ms",
-        "country_code": "US",
-        "isp": "GTHost"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "38.91.107.220:14827",
-        "response_time": "481ms",
-        "country_code": "US",
-        "isp": "GTHost"
+        "flag": "🇳🇱",
+        "ip_port": "185.45.194.176:39287",
+        "response_time": "321ms",
+        "country_code": "NL",
+        "isp": "HostSailor"
     },
     {
         "flag": "🇦🇺",
@@ -128,7 +128,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "540ms",
+        "response_time": "465ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -138,5 +138,12 @@
         "response_time": "611ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "113.160.188.21:1080",
+        "response_time": "407ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
