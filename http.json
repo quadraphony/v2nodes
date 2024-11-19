@@ -2,7 +2,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "351ms",
+        "response_time": "340ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -44,14 +44,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "189ms",
+        "response_time": "361ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "103.39.49.156:3128",
-        "response_time": "379ms",
+        "response_time": "94ms",
         "country_code": "ID",
         "isp": "PT. Mega Mentari Mandiri"
     },
@@ -82,13 +82,6 @@
         "response_time": "362ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "115.178.48.138:8080",
-        "response_time": "393ms",
-        "country_code": "ID",
-        "isp": "NOC SIMAYA"
     },
     {
         "flag": "🇮🇩",
@@ -126,6 +119,13 @@
         "isp": "GloboTech Communications"
     },
     {
+        "flag": "🇧🇷",
+        "ip_port": "191.242.177.78:3128",
+        "response_time": "414ms",
+        "country_code": "BR",
+        "isp": "Conect Telecom"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "139.178.67.134:443",
         "response_time": "481ms",
@@ -142,14 +142,14 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "460ms",
+        "response_time": "153ms",
         "country_code": "ID",
         "isp": "BIZNET"
     },
     {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "415ms",
+        "response_time": "348ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
@@ -191,7 +191,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "357ms",
+        "response_time": "430ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -204,13 +204,6 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "121.101.132.66:3125",
-        "response_time": "109ms",
-        "country_code": "ID",
-        "isp": "TERABIT"
-    },
-    {
-        "flag": "🇮🇩",
         "ip_port": "103.153.247.50:3125",
         "response_time": "216ms",
         "country_code": "ID",
@@ -219,16 +212,16 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "603ms",
+        "response_time": "435ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.172.70.27:81",
-        "response_time": "160ms",
-        "country_code": "ID",
-        "isp": "AZNET"
+        "flag": "🇺🇸",
+        "ip_port": "134.122.26.11:80",
+        "response_time": "404ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇨🇴",
@@ -236,13 +229,6 @@
         "response_time": "438ms",
         "country_code": "CO",
         "isp": "Telmex Colombia S.A."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.83.97.238:8080",
-        "response_time": "285ms",
-        "country_code": "ID",
-        "isp": "PT. Foxline Mediadata Indonusa"
     },
     {
         "flag": "🇻🇳",
@@ -259,11 +245,25 @@
         "isp": "PT Trika Global Media"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.119.55.232:10001",
+        "response_time": "435ms",
+        "country_code": "ID",
+        "isp": "PT. Eka Mas Republik"
+    },
+    {
         "flag": "🇸🇬",
         "ip_port": "145.40.73.102:9443",
         "response_time": "7ms",
         "country_code": "SG",
         "isp": "Packet Host, Inc."
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "139.255.21.74:8080",
+        "response_time": "320ms",
+        "country_code": "ID",
+        "isp": "PT. LINKNET"
     },
     {
         "flag": "🇩🇪",
@@ -278,6 +278,13 @@
         "response_time": "443ms",
         "country_code": "CO",
         "isp": "TV AZTECA SUCURSAL COLOMBIA"
+    },
+    {
+        "flag": "🇹🇭",
+        "ip_port": "203.150.128.34:8080",
+        "response_time": "343ms",
+        "country_code": "TH",
+        "isp": "Internet Thailand Company Ltd"
     },
     {
         "flag": "🇨🇴",
@@ -322,6 +329,13 @@
         "isp": "EPM Telecomunicaciones S.A. E.S.P."
     },
     {
+        "flag": "🇧🇬",
+        "ip_port": "77.238.79.111:8080",
+        "response_time": "287ms",
+        "country_code": "BG",
+        "isp": "FIBER1"
+    },
+    {
         "flag": "🇩🇪",
         "ip_port": "156.67.172.185:3128",
         "response_time": "485ms",
@@ -331,7 +345,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "499ms",
+        "response_time": "363ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     }
