@@ -15,6 +15,13 @@
     },
     {
         "flag": "🇨🇦",
+        "ip_port": "72.10.160.172:10919",
+        "response_time": "333ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
         "response_time": "259ms",
         "country_code": "CA",
@@ -37,7 +44,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "245ms",
+        "response_time": "233ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -58,23 +65,9 @@
     {
         "flag": "🇹🇭",
         "ip_port": "159.192.139.178:8080",
-        "response_time": "361ms",
+        "response_time": "184ms",
         "country_code": "TH",
         "isp": "CAT-BB"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.153.136.93:8080",
-        "response_time": "322ms",
-        "country_code": "ID",
-        "isp": "PT Andalas Global Network"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "67.43.228.252:10693",
-        "response_time": "393ms",
-        "country_code": "CA",
-        "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
@@ -114,7 +107,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.83:8080",
-        "response_time": "186ms",
+        "response_time": "230ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
@@ -135,7 +128,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.144.146.40:34343",
-        "response_time": "405ms",
+        "response_time": "175ms",
         "country_code": "ID",
         "isp": "Lexxa Data"
     },
@@ -145,13 +138,6 @@
         "response_time": "388ms",
         "country_code": "ID",
         "isp": "PT Ring Media Nusantara"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "192.9.237.224:3128",
-        "response_time": "318ms",
-        "country_code": "US",
-        "isp": "Oracle Corporation"
     },
     {
         "flag": "🇩🇪",
@@ -170,7 +156,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "470ms",
+        "response_time": "301ms",
         "country_code": "ID",
         "isp": "BIZNET"
     },
@@ -194,6 +180,13 @@
         "response_time": "498ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
+    },
+    {
+        "flag": "🇲🇽",
+        "ip_port": "187.141.184.235:8080",
+        "response_time": "201ms",
+        "country_code": "MX",
+        "isp": "Uninet S.A. de C.V."
     },
     {
         "flag": "🇮🇩",
@@ -224,6 +217,13 @@
         "isp": "PT Cyberindo Aditama"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.81.64.75:8080",
+        "response_time": "422ms",
+        "country_code": "ID",
+        "isp": "QIUNET"
+    },
+    {
         "flag": "🇹🇷",
         "ip_port": "188.132.222.39:8080",
         "response_time": "340ms",
@@ -231,16 +231,9 @@
         "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
     },
     {
-        "flag": "🇮🇳",
-        "ip_port": "164.52.206.180:80",
-        "response_time": "378ms",
-        "country_code": "IN",
-        "isp": "E2E Networks Limited"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "221ms",
+        "response_time": "96ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -294,11 +287,25 @@
         "isp": "PT. Foxline Mediadata Indonusa"
     },
     {
+        "flag": "🇹🇭",
+        "ip_port": "203.150.128.92:8080",
+        "response_time": "478ms",
+        "country_code": "TH",
+        "isp": "Internet Thailand Company Ltd"
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "103.215.72.115:55443",
         "response_time": "195ms",
         "country_code": "ID",
         "isp": "Argon Data Network"
+    },
+    {
+        "flag": "🇮🇳",
+        "ip_port": "43.243.174.26:82",
+        "response_time": "472ms",
+        "country_code": "IN",
+        "isp": "Shah Solutions"
     },
     {
         "flag": "🇺🇸",
@@ -310,14 +317,14 @@
     {
         "flag": "🇪🇬",
         "ip_port": "41.65.160.173:1981",
-        "response_time": "199ms",
+        "response_time": "224ms",
         "country_code": "EG",
         "isp": "Etisalat Misr Mobile BB"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "36.94.232.177:999",
-        "response_time": "140ms",
+        "response_time": "55ms",
         "country_code": "ID",
         "isp": "PT. Telekomunikasi Indonesia"
     },
