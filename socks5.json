@@ -1,8 +1,15 @@
 [
     {
+        "flag": "🇩🇪",
+        "ip_port": "138.201.21.232:24252",
+        "response_time": "518ms",
+        "country_code": "DE",
+        "isp": "Hetzner Online GmbH"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "67.213.212.53:45556",
-        "response_time": "261ms",
+        "response_time": "260ms",
         "country_code": "US",
         "isp": "Hosting Services, Inc."
     },
@@ -23,7 +30,7 @@
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "795ms",
+        "response_time": "585ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
     },
@@ -72,7 +79,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "168ms",
+        "response_time": "194ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -93,16 +100,30 @@
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.241:14954",
-        "response_time": "250ms",
+        "response_time": "660ms",
+        "country_code": "US",
+        "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "66.29.128.242:49385",
+        "response_time": "474ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "66.29.128.245:23251",
-        "response_time": "287ms",
+        "response_time": "550ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.230.38:64768",
+        "response_time": "82ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇦",
@@ -128,7 +149,7 @@
     {
         "flag": "🇹🇷",
         "ip_port": "185.87.121.5:8975",
-        "response_time": "683ms",
+        "response_time": "573ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
     },
