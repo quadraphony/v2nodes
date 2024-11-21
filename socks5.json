@@ -1,24 +1,10 @@
 [
     {
-        "flag": "🇧🇩",
-        "ip_port": "103.180.203.133:8085",
-        "response_time": "94ms",
-        "country_code": "BD",
-        "isp": "Md Ariful Haq"
-    },
-    {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
         "response_time": "642ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
-    },
-    {
-        "flag": "🇬🇧",
-        "ip_port": "178.79.165.164:40324",
-        "response_time": "459ms",
-        "country_code": "GB",
-        "isp": "Linode"
     },
     {
         "flag": "🇮🇩",
@@ -30,7 +16,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "591ms",
+        "response_time": "538ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -56,16 +42,9 @@
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
-        "flag": "🇸🇪",
-        "ip_port": "130.255.160.60:18946",
-        "response_time": "619ms",
-        "country_code": "SE",
-        "isp": "Internet Vikings"
-    },
-    {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "180ms",
+        "response_time": "188ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -79,16 +58,9 @@
     {
         "flag": "🇦🇺",
         "ip_port": "185.139.155.155:1976",
-        "response_time": "727ms",
+        "response_time": "569ms",
         "country_code": "AU",
         "isp": "Internet Vikings International AB"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "162.0.220.219:60521",
-        "response_time": "342ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
@@ -124,5 +96,12 @@
         "response_time": "620ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "113.160.188.21:1080",
+        "response_time": "100ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
