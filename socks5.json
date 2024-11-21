@@ -58,14 +58,14 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "783ms",
+        "response_time": "726ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇫🇷",
         "ip_port": "51.255.80.151:36217",
-        "response_time": "740ms",
+        "response_time": "553ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -79,7 +79,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "736ms",
+        "response_time": "460ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -93,7 +93,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "188ms",
+        "response_time": "138ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -134,13 +134,6 @@
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "162.0.220.216:24891",
-        "response_time": "329ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
-    },
-    {
-        "flag": "🇺🇸",
         "ip_port": "66.29.128.245:23251",
         "response_time": "279ms",
         "country_code": "US",
@@ -155,15 +148,8 @@
     },
     {
         "flag": "🇸🇬",
-        "ip_port": "165.22.98.229:32855",
-        "response_time": "54ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "338ms",
+        "response_time": "380ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -173,6 +159,13 @@
         "response_time": "370ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "167.71.39.152:38343",
+        "response_time": "408ms",
+        "country_code": "DE",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
