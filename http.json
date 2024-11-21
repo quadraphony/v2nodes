@@ -43,17 +43,31 @@
     },
     {
         "flag": "🇨🇦",
+        "ip_port": "67.43.228.254:5555",
+        "response_time": "329ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "495ms",
+        "response_time": "307ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇹🇯",
         "ip_port": "185.105.230.45:3128",
-        "response_time": "377ms",
+        "response_time": "199ms",
         "country_code": "TJ",
         "isp": "JSC TT Mobile"
+    },
+    {
+        "flag": "🇧🇬",
+        "ip_port": "92.247.12.136:9510",
+        "response_time": "399ms",
+        "country_code": "BG",
+        "isp": "A1 Bulgaria EAD"
     },
     {
         "flag": "🇨🇦",
@@ -72,7 +86,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "389ms",
+        "response_time": "217ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -93,14 +107,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "283ms",
+        "response_time": "484ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "483ms",
+        "response_time": "326ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -149,7 +163,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.144.146.40:34343",
-        "response_time": "427ms",
+        "response_time": "190ms",
         "country_code": "ID",
         "isp": "Lexxa Data"
     },
@@ -175,23 +189,9 @@
         "isp": "Contabo GmbH"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "203.128.80.178:8099",
-        "response_time": "342ms",
-        "country_code": "ID",
-        "isp": "Neuviz"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "103.41.90.49:83",
-        "response_time": "372ms",
-        "country_code": "IN",
-        "isp": "Iqtera Communication Pvt Ltd"
-    },
-    {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "477ms",
+        "response_time": "357ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
@@ -204,10 +204,24 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "103.156.74.154:1111",
+        "response_time": "61ms",
+        "country_code": "ID",
+        "isp": "PT Trika Global Media"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.118.124.137:6969",
         "response_time": "290ms",
         "country_code": "ID",
         "isp": "Tele"
+    },
+    {
+        "flag": "🇯🇵",
+        "ip_port": "158.101.93.164:8080",
+        "response_time": "76ms",
+        "country_code": "JP",
+        "isp": "Oracle Corporation"
     },
     {
         "flag": "🇮🇩",
@@ -231,20 +245,6 @@
         "isp": "Mrkr Communications Private Limited"
     },
     {
-        "flag": "🇩🇪",
-        "ip_port": "144.91.81.25:3128",
-        "response_time": "304ms",
-        "country_code": "DE",
-        "isp": "Contabo GmbH"
-    },
-    {
-        "flag": "🇬🇶",
-        "ip_port": "102.164.252.150:8080",
-        "response_time": "380ms",
-        "country_code": "GQ",
-        "isp": "Conexxia GE S.L"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "138.2.64.185:8118",
         "response_time": "173ms",
@@ -261,7 +261,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "250ms",
+        "response_time": "476ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -285,13 +285,6 @@
         "response_time": "365ms",
         "country_code": "PH",
         "isp": "Converge ICT Solution Inc"
-    },
-    {
-        "flag": "🇪🇸",
-        "ip_port": "77.225.198.220:9812",
-        "response_time": "473ms",
-        "country_code": "ES",
-        "isp": "Comunitel Global"
     },
     {
         "flag": "🇮🇩",
@@ -322,23 +315,16 @@
         "isp": "S S Cablenet"
     },
     {
-        "flag": "🇮🇶",
-        "ip_port": "62.201.217.194:8080",
-        "response_time": "205ms",
-        "country_code": "IQ",
-        "isp": "BAG"
-    },
-    {
         "flag": "🇧🇩",
         "ip_port": "203.112.223.126:8080",
-        "response_time": "391ms",
+        "response_time": "108ms",
         "country_code": "BD",
         "isp": "Bangladesh Telecommunications Company Ltd."
     },
     {
         "flag": "🇧🇬",
         "ip_port": "77.238.79.111:8080",
-        "response_time": "427ms",
+        "response_time": "306ms",
         "country_code": "BG",
         "isp": "FIBER1"
     },
