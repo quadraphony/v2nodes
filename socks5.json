@@ -1,5 +1,12 @@
 [
     {
+        "flag": "🇺🇸",
+        "ip_port": "45.79.189.110:28224",
+        "response_time": "583ms",
+        "country_code": "US",
+        "isp": "Akamai Technologies, Inc."
+    },
+    {
         "flag": "🇧🇩",
         "ip_port": "115.127.81.114:1088",
         "response_time": "201ms",
@@ -37,16 +44,23 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "786ms",
+        "response_time": "775ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "760ms",
+        "response_time": "567ms",
         "country_code": "GB",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇷🇺",
+        "ip_port": "194.190.169.197:3701",
+        "response_time": "712ms",
+        "country_code": "RU",
+        "isp": "Webmaster Agency Ltd"
     },
     {
         "flag": "🇨🇳",
@@ -56,16 +70,9 @@
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
-        "flag": "🇳🇱",
-        "ip_port": "165.22.204.32:7497",
-        "response_time": "269ms",
-        "country_code": "NL",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "172ms",
+        "response_time": "191ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -128,16 +135,9 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "693ms",
+        "response_time": "759ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇺🇦",
-        "ip_port": "91.200.115.49:1080",
-        "response_time": "556ms",
-        "country_code": "UA",
-        "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
     {
         "flag": "🇻🇳",
@@ -159,6 +159,20 @@
         "response_time": "633ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "51.83.190.248:19050",
+        "response_time": "513ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "113.160.188.21:1080",
+        "response_time": "178ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
     },
     {
         "flag": "🇩🇪",
