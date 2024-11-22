@@ -1,19 +1,5 @@
 [
     {
-        "flag": "🇩🇪",
-        "ip_port": "138.201.21.232:24252",
-        "response_time": "764ms",
-        "country_code": "DE",
-        "isp": "Hetzner Online GmbH"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "67.213.212.53:45556",
-        "response_time": "294ms",
-        "country_code": "US",
-        "isp": "Hosting Services, Inc."
-    },
-    {
         "flag": "🇧🇩",
         "ip_port": "103.180.203.133:8085",
         "response_time": "97ms",
@@ -23,21 +9,35 @@
     {
         "flag": "🇻🇳",
         "ip_port": "116.97.240.147:4996",
-        "response_time": "246ms",
+        "response_time": "166ms",
         "country_code": "VN",
         "isp": "Viettel Corporation"
     },
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "794ms",
+        "response_time": "433ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
     },
     {
         "flag": "🇬🇧",
+        "ip_port": "178.79.165.164:40324",
+        "response_time": "426ms",
+        "country_code": "GB",
+        "isp": "Linode"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.174.178.131:1020",
+        "response_time": "786ms",
+        "country_code": "ID",
+        "isp": "PT Gasatek Bintang Nusantara"
+    },
+    {
+        "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "364ms",
+        "response_time": "473ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -51,7 +51,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "738ms",
+        "response_time": "598ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -65,9 +65,16 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "180ms",
+        "response_time": "182ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "212.83.142.114:11241",
+        "response_time": "374ms",
+        "country_code": "FR",
+        "isp": "Online S.A.S."
     },
     {
         "flag": "🇨🇦",
@@ -77,16 +84,9 @@
         "isp": "Fibrenoire Inc"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "66.29.128.242:49385",
-        "response_time": "245ms",
-        "country_code": "US",
-        "isp": "Namecheap, Inc."
-    },
-    {
         "flag": "🇸🇬",
-        "ip_port": "167.71.220.29:7497",
-        "response_time": "24ms",
+        "ip_port": "165.22.98.229:32855",
+        "response_time": "104ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -98,17 +98,17 @@
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
     {
-        "flag": "🇹🇷",
-        "ip_port": "185.87.121.5:8975",
-        "response_time": "552ms",
-        "country_code": "TR",
-        "isp": "Ideal Hosting Teknoloji A.S."
-    },
-    {
         "flag": "🇻🇳",
         "ip_port": "113.160.188.21:1080",
         "response_time": "191ms",
         "country_code": "VN",
         "isp": "VietNam Post and Telecom Corporation"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "188.68.52.220:9050",
+        "response_time": "349ms",
+        "country_code": "DE",
+        "isp": "netcup GmbH"
     }
 ]
