@@ -21,25 +21,11 @@
         "isp": "Md Ariful Haq"
     },
     {
-        "flag": "🇻🇳",
-        "ip_port": "116.97.240.147:4996",
-        "response_time": "166ms",
-        "country_code": "VN",
-        "isp": "Viettel Corporation"
-    },
-    {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
         "response_time": "521ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
-    },
-    {
-        "flag": "🇬🇧",
-        "ip_port": "178.79.165.164:40324",
-        "response_time": "426ms",
-        "country_code": "GB",
-        "isp": "Linode"
     },
     {
         "flag": "🇮🇩",
@@ -65,23 +51,37 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "575ms",
+        "response_time": "470ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
+        "flag": "🇸🇪",
+        "ip_port": "130.255.160.60:18946",
+        "response_time": "458ms",
+        "country_code": "SE",
+        "isp": "Internet Vikings"
+    },
+    {
+        "flag": "🇳🇱",
+        "ip_port": "165.22.204.32:7497",
+        "response_time": "262ms",
+        "country_code": "NL",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "191ms",
+        "response_time": "219ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇫🇷",
-        "ip_port": "212.83.142.114:11241",
-        "response_time": "374ms",
+        "ip_port": "51.83.116.7:53614",
+        "response_time": "505ms",
         "country_code": "FR",
-        "isp": "Online S.A.S."
+        "isp": "OVH SAS"
     },
     {
         "flag": "🇦🇺",
@@ -114,14 +114,14 @@
     {
         "flag": "🇺🇸",
         "ip_port": "162.0.220.219:60521",
-        "response_time": "221ms",
+        "response_time": "226ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
     {
         "flag": "🇺🇸",
         "ip_port": "162.0.220.216:24891",
-        "response_time": "249ms",
+        "response_time": "280ms",
         "country_code": "US",
         "isp": "Namecheap, Inc."
     },
@@ -135,7 +135,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "759ms",
+        "response_time": "439ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -156,7 +156,7 @@
     {
         "flag": "🇹🇷",
         "ip_port": "185.86.5.162:8975",
-        "response_time": "633ms",
+        "response_time": "601ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
     },
@@ -173,12 +173,5 @@
         "response_time": "178ms",
         "country_code": "VN",
         "isp": "VietNam Post and Telecom Corporation"
-    },
-    {
-        "flag": "🇩🇪",
-        "ip_port": "188.68.52.220:9050",
-        "response_time": "349ms",
-        "country_code": "DE",
-        "isp": "netcup GmbH"
     }
 ]
