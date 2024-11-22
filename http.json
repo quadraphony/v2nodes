@@ -23,28 +23,28 @@
     {
         "flag": "🇪🇬",
         "ip_port": "154.236.177.101:1981",
-        "response_time": "301ms",
+        "response_time": "199ms",
         "country_code": "EG",
         "isp": "Enterprise"
     },
     {
         "flag": "🇨🇦",
-        "ip_port": "72.10.164.178:3001",
-        "response_time": "344ms",
+        "ip_port": "67.43.228.254:5555",
+        "response_time": "347ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇨🇱",
-        "ip_port": "190.211.250.130:999",
-        "response_time": "423ms",
-        "country_code": "CL",
-        "isp": "Compañia de Comunicaciones Coyhaique Ltda."
+        "flag": "🇨🇦",
+        "ip_port": "72.10.164.178:3001",
+        "response_time": "231ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.252:10693",
-        "response_time": "496ms",
+        "response_time": "462ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -58,7 +58,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "363ms",
+        "response_time": "471ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -86,7 +86,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "258ms",
+        "response_time": "214ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -100,23 +100,16 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.83:8080",
-        "response_time": "41ms",
+        "response_time": "43ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "431ms",
+        "response_time": "349ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "36.91.155.42:8080",
-        "response_time": "470ms",
-        "country_code": "ID",
-        "isp": "PT. Telekomunikasi Indonesia"
     },
     {
         "flag": "🇺🇸",
@@ -128,7 +121,7 @@
     {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "351ms",
+        "response_time": "228ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
@@ -148,10 +141,24 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "103.111.136.110:3125",
+        "response_time": "392ms",
+        "country_code": "ID",
+        "isp": "PT Mitra Lintas Multimedia"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "124.158.153.218:8180",
         "response_time": "172ms",
         "country_code": "ID",
         "isp": "PT iForte Global Internet"
+    },
+    {
+        "flag": "🇨🇭",
+        "ip_port": "185.191.236.162:3128",
+        "response_time": "387ms",
+        "country_code": "CH",
+        "isp": "Grupo Panaglobal 15 S.A"
     },
     {
         "flag": "🇲🇽",
@@ -169,13 +176,6 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "103.156.74.154:1111",
-        "response_time": "171ms",
-        "country_code": "ID",
-        "isp": "PT Trika Global Media"
-    },
-    {
-        "flag": "🇮🇩",
         "ip_port": "114.129.19.139:8080",
         "response_time": "362ms",
         "country_code": "ID",
@@ -187,13 +187,6 @@
         "response_time": "212ms",
         "country_code": "ID",
         "isp": "PT Rubyan Network Solution"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.176.96.178:8080",
-        "response_time": "220ms",
-        "country_code": "ID",
-        "isp": "PT Global Sarana Elektronika"
     },
     {
         "flag": "🇦🇹",
@@ -217,18 +210,18 @@
         "isp": "IP Matrix"
     },
     {
+        "flag": "🇯🇵",
+        "ip_port": "160.16.109.252:80",
+        "response_time": "369ms",
+        "country_code": "JP",
+        "isp": "SAKURA"
+    },
+    {
         "flag": "🇺🇦",
         "ip_port": "185.19.4.22:3128",
         "response_time": "395ms",
         "country_code": "UA",
         "isp": "Triolan"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "203.128.75.196:8080",
-        "response_time": "485ms",
-        "country_code": "ID",
-        "isp": "Neuviz"
     },
     {
         "flag": "🇮🇩",
@@ -247,7 +240,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "299ms",
+        "response_time": "488ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -278,13 +271,6 @@
         "response_time": "485ms",
         "country_code": "TW",
         "isp": "Chunghwa Telecom Co., Ltd."
-    },
-    {
-        "flag": "🇳🇱",
-        "ip_port": "192.121.102.97:8118",
-        "response_time": "305ms",
-        "country_code": "NL",
-        "isp": "Telia Company AB"
     },
     {
         "flag": "🇷🇺",
@@ -324,7 +310,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "182.18.174.196:80",
-        "response_time": "218ms",
+        "response_time": "194ms",
         "country_code": "IN",
         "isp": "CtrlS Datacenters Ltd."
     },
