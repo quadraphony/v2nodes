@@ -23,7 +23,7 @@
     {
         "flag": "🇪🇬",
         "ip_port": "154.236.177.101:1981",
-        "response_time": "239ms",
+        "response_time": "217ms",
         "country_code": "EG",
         "isp": "Enterprise"
     },
@@ -42,25 +42,11 @@
         "isp": "Chunghwa Telecom Co., Ltd."
     },
     {
-        "flag": "🇰🇭",
-        "ip_port": "116.212.140.118:8080",
-        "response_time": "424ms",
-        "country_code": "KH",
-        "isp": "MekongNet"
-    },
-    {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "261ms",
+        "response_time": "294ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.39.49.156:3128",
-        "response_time": "83ms",
-        "country_code": "ID",
-        "isp": "PT. Mega Mentari Mandiri"
     },
     {
         "flag": "🇨🇱",
@@ -79,7 +65,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.48.129.114:3120",
-        "response_time": "159ms",
+        "response_time": "171ms",
         "country_code": "US",
         "isp": "NetActuate, Inc"
     },
@@ -99,10 +85,10 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "139.255.33.242:8080",
-        "response_time": "373ms",
+        "ip_port": "103.126.172.245:8080",
+        "response_time": "233ms",
         "country_code": "ID",
-        "isp": "PT. LINKNET"
+        "isp": "MEGARAP"
     },
     {
         "flag": "🇮🇩",
@@ -175,32 +161,11 @@
         "isp": "Contabo GmbH"
     },
     {
-        "flag": "🇩🇪",
-        "ip_port": "5.189.146.57:80",
-        "response_time": "474ms",
-        "country_code": "DE",
-        "isp": "Contabo GmbH"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "404ms",
+        "response_time": "477ms",
         "country_code": "ID",
         "isp": "BIZNET"
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "188.132.222.46:8080",
-        "response_time": "377ms",
-        "country_code": "TR",
-        "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.155.196.27:8181",
-        "response_time": "190ms",
-        "country_code": "ID",
-        "isp": "JEMBATANDATA"
     },
     {
         "flag": "🇮🇩",
@@ -208,13 +173,6 @@
         "response_time": "249ms",
         "country_code": "ID",
         "isp": "PT SOLNET INDONESIA"
-    },
-    {
-        "flag": "🇦🇷",
-        "ip_port": "131.221.64.62:8090",
-        "response_time": "394ms",
-        "country_code": "AR",
-        "isp": "Level Seven SRL"
     },
     {
         "flag": "🇨🇭",
@@ -232,10 +190,24 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "114.129.19.139:8080",
+        "response_time": "384ms",
+        "country_code": "ID",
+        "isp": "PT Hipernet Indodata"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.176.96.178:8080",
         "response_time": "220ms",
         "country_code": "ID",
         "isp": "PT Global Sarana Elektronika"
+    },
+    {
+        "flag": "🇲🇽",
+        "ip_port": "201.174.175.38:999",
+        "response_time": "493ms",
+        "country_code": "MX",
+        "isp": "IP Matrix"
     },
     {
         "flag": "🇺🇸",
@@ -287,6 +259,13 @@
         "isp": "Oracle Corporation"
     },
     {
+        "flag": "🇬🇧",
+        "ip_port": "80.194.38.106:3333",
+        "response_time": "432ms",
+        "country_code": "GB",
+        "isp": "Virgin Media Limited"
+    },
+    {
         "flag": "🇮🇩",
         "ip_port": "119.110.71.161:63123",
         "response_time": "244ms",
@@ -296,9 +275,16 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "129ms",
+        "response_time": "164ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "161.49.176.173:1337",
+        "response_time": "798ms",
+        "country_code": "PH",
+        "isp": "Converge ICT Solution Inc"
     },
     {
         "flag": "🇮🇩",
@@ -336,25 +322,18 @@
         "isp": "Telia Company AB"
     },
     {
+        "flag": "🇺🇦",
+        "ip_port": "134.249.185.223:41890",
+        "response_time": "496ms",
+        "country_code": "UA",
+        "isp": "Kyivstar UA"
+    },
+    {
         "flag": "🇪🇬",
         "ip_port": "41.65.160.173:1981",
-        "response_time": "329ms",
+        "response_time": "301ms",
         "country_code": "EG",
         "isp": "Etisalat Misr Mobile BB"
-    },
-    {
-        "flag": "🇬🇷",
-        "ip_port": "91.236.74.5:8080",
-        "response_time": "380ms",
-        "country_code": "GR",
-        "isp": "Mechmet CHATIP MEMET trading as SpeedNet"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "36.89.212.251:8080",
-        "response_time": "334ms",
-        "country_code": "ID",
-        "isp": "PT. Telekomunikasi Indonesia"
     },
     {
         "flag": "🇺🇸",
@@ -362,20 +341,6 @@
         "response_time": "242ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "70.186.128.126:8080",
-        "response_time": "184ms",
-        "country_code": "US",
-        "isp": "Cox Communications Inc."
-    },
-    {
-        "flag": "🇨🇴",
-        "ip_port": "190.71.82.182:999",
-        "response_time": "372ms",
-        "country_code": "CO",
-        "isp": "EPM Telecomunicaciones S.A. E.S.P."
     },
     {
         "flag": "🇮🇩",
@@ -397,6 +362,13 @@
         "response_time": "83ms",
         "country_code": "ID",
         "isp": "Biznet Networks"
+    },
+    {
+        "flag": "🇧🇩",
+        "ip_port": "203.112.223.126:8080",
+        "response_time": "100ms",
+        "country_code": "BD",
+        "isp": "Bangladesh Telecommunications Company Ltd."
     },
     {
         "flag": "🇮🇳",
@@ -427,9 +399,16 @@
         "isp": "Deutsche Glasfaser Business GmbH"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "182.253.140.250:8080",
+        "response_time": "168ms",
+        "country_code": "ID",
+        "isp": "Biznet Networks"
+    },
+    {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "340ms",
+        "response_time": "296ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     }
