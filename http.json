@@ -23,9 +23,16 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "337ms",
+        "response_time": "325ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇰🇭",
+        "ip_port": "103.118.46.12:32650",
+        "response_time": "481ms",
+        "country_code": "KH",
+        "isp": "ANGKOR E & C (CAMBODIA) Co., Ltd."
     },
     {
         "flag": "🇹🇯",
@@ -33,6 +40,13 @@
         "response_time": "227ms",
         "country_code": "TJ",
         "isp": "JSC TT Mobile"
+    },
+    {
+        "flag": "🇹🇭",
+        "ip_port": "1.0.171.213:8080",
+        "response_time": "391ms",
+        "country_code": "TH",
+        "isp": "TOT Public Company Limited"
     },
     {
         "flag": "🇧🇩",
@@ -51,7 +65,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "483ms",
+        "response_time": "482ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -142,7 +156,7 @@
     {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "405ms",
+        "response_time": "459ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
@@ -152,13 +166,6 @@
         "response_time": "62ms",
         "country_code": "ID",
         "isp": "PT Mitra Lintas Multimedia"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.155.196.27:8181",
-        "response_time": "347ms",
-        "country_code": "ID",
-        "isp": "JEMBATANDATA"
     },
     {
         "flag": "🇮🇩",
@@ -233,7 +240,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "154ms",
+        "response_time": "261ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -259,13 +266,6 @@
         "isp": "PT. Foxline Mediadata Indonusa"
     },
     {
-        "flag": "🇹🇭",
-        "ip_port": "203.150.128.156:8080",
-        "response_time": "364ms",
-        "country_code": "TH",
-        "isp": "Internet Thailand Company Ltd"
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "59.98.4.70:8080",
         "response_time": "427ms",
@@ -280,23 +280,16 @@
         "isp": "Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP"
     },
     {
-        "flag": "🇵🇭",
-        "ip_port": "124.83.74.218:8080",
-        "response_time": "461ms",
-        "country_code": "PH",
-        "isp": "Philippine Long Distance Telephone Co."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.156.75.41:8080",
+        "flag": "🇧🇷",
+        "ip_port": "201.20.110.35:666",
         "response_time": "484ms",
-        "country_code": "ID",
-        "isp": "PT Trika Global Media"
+        "country_code": "BR",
+        "isp": "Mob Servicos de Telecomunicacoes Ltda"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "145.40.73.102:9443",
-        "response_time": "53ms",
+        "response_time": "42ms",
         "country_code": "SG",
         "isp": "Packet Host, Inc."
     },
@@ -315,9 +308,16 @@
         "isp": "PT. LINKNET"
     },
     {
+        "flag": "🇬🇪",
+        "ip_port": "85.117.56.147:8080",
+        "response_time": "453ms",
+        "country_code": "GE",
+        "isp": "Caucasus Online Ltd."
+    },
+    {
         "flag": "🇪🇬",
         "ip_port": "41.65.160.173:1981",
-        "response_time": "158ms",
+        "response_time": "165ms",
         "country_code": "EG",
         "isp": "Etisalat Misr Mobile BB"
     },
@@ -336,32 +336,11 @@
         "isp": "PT. Telekomunikasi Indonesia"
     },
     {
-        "flag": "🇹🇷",
-        "ip_port": "213.14.32.70:9090",
-        "response_time": "378ms",
-        "country_code": "TR",
-        "isp": "Tellcom Main Network Statement"
-    },
-    {
-        "flag": "🇪🇨",
-        "ip_port": "45.185.162.194:999",
-        "response_time": "452ms",
-        "country_code": "EC",
-        "isp": "Nedetel S.A."
-    },
-    {
         "flag": "🇨🇴",
         "ip_port": "181.49.100.190:8080",
         "response_time": "413ms",
         "country_code": "CO",
         "isp": "Telmex Colombia S.A."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "122.50.6.186:8080",
-        "response_time": "388ms",
-        "country_code": "ID",
-        "isp": "PT Mora Telematika Indonesia"
     },
     {
         "flag": "🇧🇬",
@@ -387,7 +366,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "125.99.106.250:3128",
-        "response_time": "399ms",
+        "response_time": "471ms",
         "country_code": "IN",
         "isp": "Hathway IP over Cable Internet Access"
     },
