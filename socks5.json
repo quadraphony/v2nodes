@@ -21,16 +21,23 @@
         "isp": "BCI Telecommunication & Advanced Technology Company"
     },
     {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.234.144:14605",
+        "response_time": "299ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "766ms",
+        "response_time": "786ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "207ms",
+        "response_time": "189ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -100,14 +107,14 @@
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "54ms",
+        "response_time": "341ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "753ms",
+        "response_time": "125ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -124,5 +131,12 @@
         "response_time": "628ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "113.160.188.21:1080",
+        "response_time": "401ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
