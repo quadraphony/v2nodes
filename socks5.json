@@ -7,13 +7,6 @@
         "isp": "BTS Communications (BD) Ltd"
     },
     {
-        "flag": "🇬🇧",
-        "ip_port": "178.79.165.164:40324",
-        "response_time": "716ms",
-        "country_code": "GB",
-        "isp": "Linode"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
         "response_time": "784ms",
@@ -42,37 +35,37 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇷🇺",
+        "ip_port": "194.190.169.197:3701",
+        "response_time": "698ms",
+        "country_code": "RU",
+        "isp": "Webmaster Agency Ltd"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "767ms",
+        "response_time": "634ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "162ms",
+        "response_time": "181ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "202ms",
+        "response_time": "48ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇻🇳",
-        "ip_port": "113.176.118.150:1080",
-        "response_time": "780ms",
-        "country_code": "VN",
-        "isp": "VNPT"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "349ms",
+        "response_time": "453ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -86,8 +79,15 @@
     {
         "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "466ms",
+        "response_time": "473ms",
         "country_code": "US",
         "isp": "OVH US LLC"
+    },
+    {
+        "flag": "🇷🇺",
+        "ip_port": "80.87.200.140:9050",
+        "response_time": "622ms",
+        "country_code": "RU",
+        "isp": "JSC Server"
     }
 ]
