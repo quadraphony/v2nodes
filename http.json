@@ -2,7 +2,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "270ms",
+        "response_time": "321ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -15,17 +15,17 @@
     },
     {
         "flag": "🇨🇦",
-        "ip_port": "72.10.160.172:10919",
-        "response_time": "265ms",
-        "country_code": "CA",
-        "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
         "response_time": "318ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "112.198.150.11:8082",
+        "response_time": "464ms",
+        "country_code": "PH",
+        "isp": "Globe Telecom"
     },
     {
         "flag": "🇨🇦",
@@ -37,14 +37,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "373ms",
+        "response_time": "305ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "103.39.49.156:3128",
-        "response_time": "77ms",
+        "response_time": "98ms",
         "country_code": "ID",
         "isp": "PT. Mega Mentari Mandiri"
     },
@@ -86,49 +86,35 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "300ms",
+        "response_time": "298ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇸🇬",
-        "ip_port": "137.116.142.82:80",
-        "response_time": "237ms",
-        "country_code": "SG",
-        "isp": "Microsoft Corporation"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.138:8080",
-        "response_time": "351ms",
+        "response_time": "40ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "103.175.224.93:4444",
-        "response_time": "494ms",
+        "response_time": "453ms",
         "country_code": "ID",
         "isp": "MYREPUBLIC"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.189.116.133:8080",
-        "response_time": "202ms",
-        "country_code": "ID",
-        "isp": "PT Callysta Total Solusindo"
-    },
-    {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "428ms",
+        "response_time": "309ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "476ms",
+        "response_time": "334ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -142,7 +128,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "279ms",
+        "response_time": "491ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -155,15 +141,22 @@
     },
     {
         "flag": "🇺🇸",
+        "ip_port": "150.136.4.250:3128",
+        "response_time": "461ms",
+        "country_code": "US",
+        "isp": "Oracle Corporation"
+    },
+    {
+        "flag": "🇺🇸",
         "ip_port": "192.9.237.224:3128",
-        "response_time": "191ms",
+        "response_time": "258ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
     {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "491ms",
+        "response_time": "190ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
@@ -177,7 +170,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "327ms",
+        "response_time": "238ms",
         "country_code": "ID",
         "isp": "BIZNET"
     },
@@ -224,13 +217,6 @@
         "isp": "PT Rubyan Network Solution"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "36.66.111.81:8080",
-        "response_time": "167ms",
-        "country_code": "ID",
-        "isp": "PT. Telekomunikasi Indonesia"
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "103.149.194.30:32650",
         "response_time": "252ms",
@@ -274,6 +260,20 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "203.128.71.92:8080",
+        "response_time": "431ms",
+        "country_code": "ID",
+        "isp": "Neuviz"
+    },
+    {
+        "flag": "🇬🇶",
+        "ip_port": "102.164.252.150:8080",
+        "response_time": "429ms",
+        "country_code": "GQ",
+        "isp": "Conexxia GE S.L"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.194.172.130:8080",
         "response_time": "328ms",
         "country_code": "ID",
@@ -287,9 +287,16 @@
         "isp": "Multicable De Honduras"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.153.247.50:3125",
+        "response_time": "250ms",
+        "country_code": "ID",
+        "isp": "PRIMAHOME"
+    },
+    {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "445ms",
+        "response_time": "234ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -301,18 +308,11 @@
         "isp": "PT Jaring Lintas Utara"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "119.252.167.130:41890",
-        "response_time": "463ms",
-        "country_code": "ID",
-        "isp": "PT Indonesia Comnets Plus"
-    },
-    {
-        "flag": "🇩🇪",
-        "ip_port": "195.201.115.230:8118",
-        "response_time": "270ms",
-        "country_code": "DE",
-        "isp": "Hetzner Online GmbH"
+        "flag": "🇮🇳",
+        "ip_port": "103.248.120.5:8080",
+        "response_time": "484ms",
+        "country_code": "IN",
+        "isp": "Shivansh Infotech pvt Ltd"
     },
     {
         "flag": "🇪🇸",
@@ -322,23 +322,16 @@
         "isp": "Comunitel Global"
     },
     {
-        "flag": "🇨🇴",
-        "ip_port": "190.14.224.244:999",
-        "response_time": "444ms",
-        "country_code": "CO",
-        "isp": "Media Commerce Partners S.A"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "145.40.73.102:9443",
-        "response_time": "46ms",
+        "response_time": "56ms",
         "country_code": "SG",
         "isp": "Packet Host, Inc."
     },
     {
         "flag": "🇪🇬",
         "ip_port": "41.65.160.173:1981",
-        "response_time": "309ms",
+        "response_time": "298ms",
         "country_code": "EG",
         "isp": "Etisalat Misr Mobile BB"
     },
@@ -350,11 +343,11 @@
         "isp": "PT. Telekomunikasi Indonesia"
     },
     {
-        "flag": "🇦🇷",
-        "ip_port": "45.238.220.1:8181",
-        "response_time": "289ms",
-        "country_code": "AR",
-        "isp": "CA VI CU SRL"
+        "flag": "🇩🇪",
+        "ip_port": "206.81.31.215:80",
+        "response_time": "490ms",
+        "country_code": "DE",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇨🇴",
@@ -371,11 +364,11 @@
         "isp": "PT Smart Teknologi Utama"
     },
     {
-        "flag": "🇮🇳",
-        "ip_port": "182.18.174.196:80",
-        "response_time": "370ms",
-        "country_code": "IN",
-        "isp": "CtrlS Datacenters Ltd."
+        "flag": "🇮🇩",
+        "ip_port": "27.123.1.46:3128",
+        "response_time": "368ms",
+        "country_code": "ID",
+        "isp": "PT Tele Globe Global"
     },
     {
         "flag": "🇷🇺",
@@ -392,25 +385,11 @@
         "isp": "CityOnline Services"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "122.50.6.186:8080",
-        "response_time": "298ms",
-        "country_code": "ID",
-        "isp": "PT Mora Telematika Indonesia"
-    },
-    {
         "flag": "🇧🇬",
         "ip_port": "77.238.79.111:8080",
-        "response_time": "260ms",
+        "response_time": "390ms",
         "country_code": "BG",
         "isp": "FIBER1"
-    },
-    {
-        "flag": "🇩🇪",
-        "ip_port": "156.67.172.185:3128",
-        "response_time": "498ms",
-        "country_code": "DE",
-        "isp": "Deutsche Glasfaser Business GmbH"
     },
     {
         "flag": "🇮🇳",
