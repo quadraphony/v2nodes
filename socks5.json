@@ -1,5 +1,12 @@
 [
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.174.178.131:1020",
+        "response_time": "66ms",
+        "country_code": "ID",
+        "isp": "PT Gasatek Bintang Nusantara"
+    },
+    {
         "flag": "🇺🇦",
         "ip_port": "194.44.208.62:80",
         "response_time": "542ms",
@@ -16,23 +23,16 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "467ms",
+        "response_time": "465ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "177ms",
+        "response_time": "191ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "66.23.233.210:23899",
-        "response_time": "310ms",
-        "country_code": "US",
-        "isp": "Interserver, Inc"
     },
     {
         "flag": "🇦🇺",
@@ -44,14 +44,21 @@
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "146ms",
+        "response_time": "388ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.230.38:64768",
+        "response_time": "743ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "465ms",
+        "response_time": "661ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -61,13 +68,6 @@
         "response_time": "726ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "185.87.121.5:8975",
-        "response_time": "561ms",
-        "country_code": "TR",
-        "isp": "Ideal Hosting Teknoloji A.S."
     },
     {
         "flag": "🇹🇷",
@@ -82,12 +82,5 @@
         "response_time": "638ms",
         "country_code": "GB",
         "isp": "Talk Straight Ltd."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "147.135.112.67:3081",
-        "response_time": "333ms",
-        "country_code": "US",
-        "isp": "OVH US LLC"
     }
 ]
