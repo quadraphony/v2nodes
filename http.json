@@ -8,8 +8,8 @@
     },
     {
         "flag": "🇨🇦",
-        "ip_port": "72.10.160.172:10919",
-        "response_time": "417ms",
+        "ip_port": "72.10.160.170:10919",
+        "response_time": "381ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -28,9 +28,16 @@
         "isp": "Chunghwa Telecom Co., Ltd."
     },
     {
+        "flag": "🇵🇭",
+        "ip_port": "222.127.51.132:8082",
+        "response_time": "355ms",
+        "country_code": "PH",
+        "isp": "INNOVE"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "386ms",
+        "response_time": "318ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -50,8 +57,15 @@
     },
     {
         "flag": "🇨🇦",
+        "ip_port": "67.43.228.252:10693",
+        "response_time": "428ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "474ms",
+        "response_time": "246ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -65,7 +79,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "427ms",
+        "response_time": "459ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -86,7 +100,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "302ms",
+        "response_time": "473ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -99,10 +113,10 @@
     },
     {
         "flag": "🇮🇩",
-        "ip_port": "103.144.146.40:34343",
-        "response_time": "499ms",
+        "ip_port": "103.152.93.158:8080",
+        "response_time": "134ms",
         "country_code": "ID",
-        "isp": "Lexxa Data"
+        "isp": "PT. JAYA LINTAS INDONESIA"
     },
     {
         "flag": "🇺🇸",
@@ -110,6 +124,13 @@
         "response_time": "294ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "173.249.60.246:14344",
+        "response_time": "350ms",
+        "country_code": "DE",
+        "isp": "Contabo GmbH"
     },
     {
         "flag": "🇮🇩",
@@ -121,7 +142,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "234ms",
+        "response_time": "118ms",
         "country_code": "ID",
         "isp": "BIZNET"
     },
@@ -168,6 +189,13 @@
         "isp": "AZNET"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "203.128.71.92:8080",
+        "response_time": "385ms",
+        "country_code": "ID",
+        "isp": "Neuviz"
+    },
+    {
         "flag": "🇭🇳",
         "ip_port": "138.0.231.202:999",
         "response_time": "361ms",
@@ -184,16 +212,30 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "403ms",
+        "response_time": "469ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
     {
         "flag": "🇮🇩",
         "ip_port": "203.190.44.81:8090",
-        "response_time": "433ms",
+        "response_time": "384ms",
         "country_code": "ID",
         "isp": "PT Jaring Lintas Utara"
+    },
+    {
+        "flag": "🇮🇳",
+        "ip_port": "103.48.68.35:83",
+        "response_time": "437ms",
+        "country_code": "IN",
+        "isp": "Country Online Services PVT LTD"
+    },
+    {
+        "flag": "🇲🇽",
+        "ip_port": "45.189.252.246:999",
+        "response_time": "272ms",
+        "country_code": "MX",
+        "isp": "Tracered SA De CV"
     },
     {
         "flag": "🇮🇩",
@@ -217,18 +259,18 @@
         "isp": "Argon Data Network"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.215.72.148:8080",
+        "response_time": "385ms",
+        "country_code": "ID",
+        "isp": "Argon Data Network"
+    },
+    {
         "flag": "🇸🇬",
         "ip_port": "145.40.73.102:9443",
         "response_time": "164ms",
         "country_code": "SG",
         "isp": "Packet Host, Inc."
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.164.116.172:8080",
-        "response_time": "366ms",
-        "country_code": "ID",
-        "isp": "SOLUSINET"
     },
     {
         "flag": "🇮🇳",
@@ -254,16 +296,9 @@
     {
         "flag": "🇮🇳",
         "ip_port": "182.18.174.196:80",
-        "response_time": "85ms",
+        "response_time": "172ms",
         "country_code": "IN",
         "isp": "CtrlS Datacenters Ltd."
-    },
-    {
-        "flag": "🇹🇭",
-        "ip_port": "180.180.216.90:8080",
-        "response_time": "796ms",
-        "country_code": "TH",
-        "isp": "TOT Public Company Limited"
     },
     {
         "flag": "🇹🇭",
@@ -275,7 +310,7 @@
     {
         "flag": "🇧🇬",
         "ip_port": "77.238.79.111:8080",
-        "response_time": "277ms",
+        "response_time": "614ms",
         "country_code": "BG",
         "isp": "FIBER1"
     },
@@ -296,7 +331,7 @@
     {
         "flag": "🇷🇴",
         "ip_port": "37.120.192.154:8080",
-        "response_time": "353ms",
+        "response_time": "347ms",
         "country_code": "RO",
         "isp": "Secure Data Systems SRL"
     }
