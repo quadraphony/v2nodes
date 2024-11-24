@@ -2,7 +2,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "166ms",
+        "response_time": "165ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
@@ -35,25 +35,25 @@
         "isp": "EDN SOVINTEL"
     },
     {
-        "flag": "🇷🇺",
-        "ip_port": "194.190.169.197:3701",
-        "response_time": "698ms",
-        "country_code": "RU",
-        "isp": "Webmaster Agency Ltd"
-    },
-    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "764ms",
+        "response_time": "774ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "191ms",
+        "response_time": "177ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "51.83.116.3:60290",
+        "response_time": "263ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
     },
     {
         "flag": "🇨🇦",
@@ -65,14 +65,21 @@
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "144ms",
+        "response_time": "155ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.230.38:64768",
+        "response_time": "226ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "453ms",
+        "response_time": "348ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -82,12 +89,5 @@
         "response_time": "306ms",
         "country_code": "US",
         "isp": "OVH US LLC"
-    },
-    {
-        "flag": "🇷🇺",
-        "ip_port": "80.87.200.140:9050",
-        "response_time": "622ms",
-        "country_code": "RU",
-        "isp": "JSC Server"
     }
 ]
