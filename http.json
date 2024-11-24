@@ -37,16 +37,9 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "318ms",
+        "response_time": "230ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "23.122.184.9:8888",
-        "response_time": "222ms",
-        "country_code": "US",
-        "isp": "AT&T Services, Inc."
     },
     {
         "flag": "🇮🇩",
@@ -79,14 +72,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "459ms",
+        "response_time": "384ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "447ms",
+        "response_time": "472ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -100,7 +93,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "473ms",
+        "response_time": "284ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -121,7 +114,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "192.9.237.224:3128",
-        "response_time": "294ms",
+        "response_time": "459ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
@@ -142,9 +135,16 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "118ms",
+        "response_time": "271ms",
         "country_code": "ID",
         "isp": "BIZNET"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.111.136.110:3125",
+        "response_time": "276ms",
+        "country_code": "ID",
+        "isp": "PT Mitra Lintas Multimedia"
     },
     {
         "flag": "🇨🇭",
@@ -156,14 +156,14 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.156.74.154:1111",
-        "response_time": "186ms",
+        "response_time": "798ms",
         "country_code": "ID",
         "isp": "PT Trika Global Media"
     },
     {
         "flag": "🇮🇳",
         "ip_port": "103.149.194.30:32650",
-        "response_time": "390ms",
+        "response_time": "388ms",
         "country_code": "IN",
         "isp": "Kavya Internet Services Pvt Ltd"
     },
@@ -173,6 +173,13 @@
         "response_time": "196ms",
         "country_code": "ID",
         "isp": "PT iForte Global Internet"
+    },
+    {
+        "flag": "🇮🇳",
+        "ip_port": "134.209.144.177:80",
+        "response_time": "404ms",
+        "country_code": "IN",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇮🇩",
@@ -212,14 +219,14 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "469ms",
+        "response_time": "161ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
     {
         "flag": "🇮🇩",
         "ip_port": "203.190.44.81:8090",
-        "response_time": "384ms",
+        "response_time": "351ms",
         "country_code": "ID",
         "isp": "PT Jaring Lintas Utara"
     },
@@ -236,13 +243,6 @@
         "response_time": "272ms",
         "country_code": "MX",
         "isp": "Tracered SA De CV"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.83.97.238:8080",
-        "response_time": "308ms",
-        "country_code": "ID",
-        "isp": "PT. Foxline Mediadata Indonusa"
     },
     {
         "flag": "🇮🇩",
@@ -273,13 +273,6 @@
         "isp": "Packet Host, Inc."
     },
     {
-        "flag": "🇮🇳",
-        "ip_port": "103.239.147.250:54623",
-        "response_time": "429ms",
-        "country_code": "IN",
-        "isp": "Fiberpipe communications pvt. ltd"
-    },
-    {
         "flag": "🇨🇴",
         "ip_port": "177.93.45.226:6969",
         "response_time": "253ms",
@@ -289,7 +282,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.162.55.2:8080",
-        "response_time": "496ms",
+        "response_time": "360ms",
         "country_code": "ID",
         "isp": "Institut Agama Islam Negeri Madura"
     },
@@ -299,6 +292,13 @@
         "response_time": "172ms",
         "country_code": "IN",
         "isp": "CtrlS Datacenters Ltd."
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "27.123.1.46:3128",
+        "response_time": "380ms",
+        "country_code": "ID",
+        "isp": "PT Tele Globe Global"
     },
     {
         "flag": "🇹🇭",
