@@ -1,17 +1,17 @@
 [
     {
+        "flag": "🇺🇸",
+        "ip_port": "45.79.189.110:28224",
+        "response_time": "543ms",
+        "country_code": "US",
+        "isp": "Akamai Technologies, Inc."
+    },
+    {
         "flag": "🇬🇧",
         "ip_port": "178.79.165.164:40324",
         "response_time": "673ms",
         "country_code": "GB",
         "isp": "Linode"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.174.178.131:1020",
-        "response_time": "788ms",
-        "country_code": "ID",
-        "isp": "PT Gasatek Bintang Nusantara"
     },
     {
         "flag": "🇬🇧",
@@ -51,7 +51,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "768ms",
+        "response_time": "472ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -65,9 +65,16 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "192ms",
+        "response_time": "184ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "209.159.153.21:31286",
+        "response_time": "563ms",
+        "country_code": "US",
+        "isp": "Interserver, Inc"
     },
     {
         "flag": "🇨🇦",
@@ -93,21 +100,14 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "80ms",
+        "response_time": "233ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇺🇦",
-        "ip_port": "91.200.115.49:1080",
-        "response_time": "648ms",
-        "country_code": "UA",
-        "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "668ms",
+        "response_time": "451ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     }
