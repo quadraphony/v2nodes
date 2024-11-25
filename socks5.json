@@ -1,19 +1,5 @@
 [
     {
-        "flag": "🇺🇸",
-        "ip_port": "45.79.189.110:28224",
-        "response_time": "470ms",
-        "country_code": "US",
-        "isp": "Akamai Technologies, Inc."
-    },
-    {
-        "flag": "🇵🇱",
-        "ip_port": "178.255.44.60:58968",
-        "response_time": "481ms",
-        "country_code": "PL",
-        "isp": "Artnet Sp. z o.o."
-    },
-    {
         "flag": "🇬🇧",
         "ip_port": "178.79.165.164:40324",
         "response_time": "673ms",
@@ -28,18 +14,18 @@
         "isp": "PT Gasatek Bintang Nusantara"
     },
     {
-        "flag": "🇱🇺",
-        "ip_port": "104.244.75.78:31534",
-        "response_time": "359ms",
-        "country_code": "LU",
-        "isp": "FranTech Solutions"
-    },
-    {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
         "response_time": "542ms",
         "country_code": "GB",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇷🇺",
+        "ip_port": "185.112.224.151:1080",
+        "response_time": "744ms",
+        "country_code": "RU",
+        "isp": "Orion Telecom LLC"
     },
     {
         "flag": "🇷🇺",
@@ -72,7 +58,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "676ms",
+        "response_time": "471ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -86,9 +72,23 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "190ms",
+        "response_time": "193ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "184.95.235.194:1080",
+        "response_time": "247ms",
+        "country_code": "CA",
+        "isp": "Fibrenoire Inc"
+    },
+    {
+        "flag": "🇦🇺",
+        "ip_port": "185.139.155.155:1976",
+        "response_time": "544ms",
+        "country_code": "AU",
+        "isp": "Internet Vikings International AB"
     },
     {
         "flag": "🇯🇵",
