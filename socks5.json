@@ -7,39 +7,11 @@
         "isp": "Akamai Technologies, Inc."
     },
     {
-        "flag": "🇬🇧",
-        "ip_port": "178.79.165.164:40324",
-        "response_time": "673ms",
-        "country_code": "GB",
-        "isp": "Linode"
-    },
-    {
-        "flag": "🇬🇧",
-        "ip_port": "51.89.21.99:62311",
-        "response_time": "542ms",
-        "country_code": "GB",
-        "isp": "OVH SAS"
-    },
-    {
         "flag": "🇷🇺",
         "ip_port": "185.112.224.151:1080",
         "response_time": "744ms",
         "country_code": "RU",
         "isp": "Orion Telecom LLC"
-    },
-    {
-        "flag": "🇸🇬",
-        "ip_port": "188.166.234.144:14605",
-        "response_time": "272ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "67.205.177.122:56826",
-        "response_time": "586ms",
-        "country_code": "US",
-        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇨🇳",
@@ -49,9 +21,16 @@
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
+        "flag": "🇸🇪",
+        "ip_port": "130.255.160.60:18946",
+        "response_time": "696ms",
+        "country_code": "SE",
+        "isp": "Internet Vikings"
+    },
+    {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "176ms",
+        "response_time": "192ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -75,13 +54,6 @@
         "response_time": "544ms",
         "country_code": "AU",
         "isp": "Internet Vikings International AB"
-    },
-    {
-        "flag": "🇯🇵",
-        "ip_port": "150.230.96.150:19291",
-        "response_time": "331ms",
-        "country_code": "JP",
-        "isp": "Oracle Corporation"
     },
     {
         "flag": "🇸🇬",
@@ -110,5 +82,12 @@
         "response_time": "451ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.87.121.5:8975",
+        "response_time": "541ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji A.S."
     }
 ]
