@@ -1,10 +1,24 @@
 [
     {
         "flag": "🇧🇩",
+        "ip_port": "115.127.81.114:1088",
+        "response_time": "510ms",
+        "country_code": "BD",
+        "isp": "BRACNet Limited"
+    },
+    {
+        "flag": "🇧🇩",
         "ip_port": "103.234.27.221:1080",
         "response_time": "243ms",
         "country_code": "BD",
         "isp": "BTS Communications (BD) Ltd"
+    },
+    {
+        "flag": "🇬🇧",
+        "ip_port": "178.79.165.164:40324",
+        "response_time": "734ms",
+        "country_code": "GB",
+        "isp": "Linode"
     },
     {
         "flag": "🇮🇩",
@@ -16,7 +30,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "712ms",
+        "response_time": "480ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -35,6 +49,20 @@
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇨🇦",
+        "ip_port": "184.95.220.42:1080",
+        "response_time": "257ms",
+        "country_code": "CA",
+        "isp": "Fibrenoire Inc."
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.234.144:14605",
+        "response_time": "314ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇷🇺",
         "ip_port": "178.47.37.40:1080",
         "response_time": "459ms",
@@ -49,6 +77,13 @@
         "isp": "MTS PJSC"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "67.205.177.122:56826",
+        "response_time": "365ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇷🇺",
         "ip_port": "79.104.34.214:1080",
         "response_time": "480ms",
@@ -58,28 +93,28 @@
     {
         "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
-        "response_time": "781ms",
+        "response_time": "624ms",
         "country_code": "RU",
         "isp": "Webmaster Agency Ltd"
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "491ms",
+        "response_time": "468ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "193ms",
+        "response_time": "188ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇫🇷",
         "ip_port": "37.44.238.2:63617",
-        "response_time": "652ms",
+        "response_time": "741ms",
         "country_code": "FR",
         "isp": "Harmony Hosting SARL"
     },
@@ -93,7 +128,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "550ms",
+        "response_time": "543ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -110,13 +145,6 @@
         "response_time": "334ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "185.87.121.35:8975",
-        "response_time": "644ms",
-        "country_code": "TR",
-        "isp": "Ideal Hosting Teknoloji"
     },
     {
         "flag": "🇹🇷",
