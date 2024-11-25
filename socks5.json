@@ -2,21 +2,35 @@
     {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "543ms",
+        "response_time": "717ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.174.178.131:1020",
+        "response_time": "360ms",
+        "country_code": "ID",
+        "isp": "PT Gasatek Bintang Nusantara"
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "184.95.220.42:1080",
+        "response_time": "407ms",
+        "country_code": "CA",
+        "isp": "Fibrenoire Inc."
+    },
+    {
         "flag": "🇷🇺",
-        "ip_port": "185.112.224.151:1080",
-        "response_time": "744ms",
+        "ip_port": "194.190.169.197:3701",
+        "response_time": "539ms",
         "country_code": "RU",
-        "isp": "Orion Telecom LLC"
+        "isp": "Webmaster Agency Ltd"
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "472ms",
+        "response_time": "767ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -30,7 +44,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "192ms",
+        "response_time": "166ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -42,23 +56,9 @@
         "isp": "Interserver, Inc"
     },
     {
-        "flag": "🇨🇦",
-        "ip_port": "184.95.235.194:1080",
-        "response_time": "247ms",
-        "country_code": "CA",
-        "isp": "Fibrenoire Inc"
-    },
-    {
-        "flag": "🇦🇺",
-        "ip_port": "185.139.155.155:1976",
-        "response_time": "544ms",
-        "country_code": "AU",
-        "isp": "Internet Vikings International AB"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "111ms",
+        "response_time": "41ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -79,7 +79,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "451ms",
+        "response_time": "638ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -89,5 +89,12 @@
         "response_time": "541ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.86.5.162:8975",
+        "response_time": "421ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
     }
 ]
