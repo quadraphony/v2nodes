@@ -2,7 +2,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "370ms",
+        "response_time": "212ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -37,7 +37,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "465ms",
+        "response_time": "492ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -54,6 +54,13 @@
         "response_time": "483ms",
         "country_code": "ZA",
         "isp": "Maintainer Liquid Telecommunications Operations Limited"
+    },
+    {
+        "flag": "🇹🇼",
+        "ip_port": "125.229.149.169:65110",
+        "response_time": "385ms",
+        "country_code": "TW",
+        "isp": "Chunghwa Telecom Co., Ltd."
     },
     {
         "flag": "🇹🇭",
@@ -98,25 +105,11 @@
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "199.48.129.114:3120",
-        "response_time": "164ms",
-        "country_code": "US",
-        "isp": "NetActuate, Inc"
-    },
-    {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "274ms",
+        "response_time": "216ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇧🇷",
-        "ip_port": "179.42.72.186:85",
-        "response_time": "471ms",
-        "country_code": "BR",
-        "isp": "Giga Sul Telecom"
     },
     {
         "flag": "🇮🇩",
@@ -135,7 +128,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "264ms",
+        "response_time": "464ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -156,7 +149,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "340ms",
+        "response_time": "425ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -211,6 +204,13 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "103.144.102.230:8080",
+        "response_time": "461ms",
+        "country_code": "ID",
+        "isp": "PANDAWANET"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.155.196.27:8181",
         "response_time": "473ms",
         "country_code": "ID",
@@ -252,32 +252,11 @@
         "isp": "CtrlS"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "36.66.111.81:8080",
-        "response_time": "62ms",
-        "country_code": "ID",
-        "isp": "PT. Telekomunikasi Indonesia"
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "103.160.207.49:32650",
         "response_time": "455ms",
         "country_code": "IN",
         "isp": "Moradabad Internet Services Private Limited"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "103.181.168.218:8080",
-        "response_time": "381ms",
-        "country_code": "IN",
-        "isp": "Mrkr Communications Private Limited"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "175.106.11.172:8080",
-        "response_time": "322ms",
-        "country_code": "ID",
-        "isp": "Quantum Dist POP KK"
     },
     {
         "flag": "🇮🇩",
@@ -292,6 +271,13 @@
         "response_time": "297ms",
         "country_code": "ID",
         "isp": ""
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "203.128.75.194:8080",
+        "response_time": "345ms",
+        "country_code": "ID",
+        "isp": "Neuviz"
     },
     {
         "flag": "🇧🇩",
@@ -317,7 +303,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "140ms",
+        "response_time": "222ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -352,7 +338,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "145.40.73.102:9443",
-        "response_time": "134ms",
+        "response_time": "106ms",
         "country_code": "SG",
         "isp": "Packet Host, Inc."
     },
@@ -387,7 +373,7 @@
     {
         "flag": "🇷🇺",
         "ip_port": "95.174.102.131:53281",
-        "response_time": "346ms",
+        "response_time": "408ms",
         "country_code": "RU",
         "isp": "our short network"
     },
@@ -397,13 +383,6 @@
         "response_time": "312ms",
         "country_code": "US",
         "isp": "Cox Communications Inc."
-    },
-    {
-        "flag": "🇦🇷",
-        "ip_port": "181.114.224.37:8080",
-        "response_time": "471ms",
-        "country_code": "AR",
-        "isp": "CyberWave S.A."
     },
     {
         "flag": "🇮🇳",
@@ -469,6 +448,13 @@
         "isp": "FIBER1"
     },
     {
+        "flag": "🇹🇭",
+        "ip_port": "61.19.145.66:8080",
+        "response_time": "257ms",
+        "country_code": "TH",
+        "isp": "CAT Telecom Public Company Limited"
+    },
+    {
         "flag": "🇩🇪",
         "ip_port": "156.67.172.185:3128",
         "response_time": "357ms",
@@ -481,6 +467,13 @@
         "response_time": "376ms",
         "country_code": "ID",
         "isp": "Biznet Networks"
+    },
+    {
+        "flag": "🇹🇼",
+        "ip_port": "118.163.13.200:8080",
+        "response_time": "251ms",
+        "country_code": "TW",
+        "isp": "Chunghwa Telecom Co., Ltd."
     },
     {
         "flag": "🇮🇳",
