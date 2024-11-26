@@ -2,7 +2,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "241ms",
+        "response_time": "796ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -37,7 +37,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.234.144:14605",
-        "response_time": "426ms",
+        "response_time": "386ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -49,9 +49,16 @@
         "isp": "MTS PJSC"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "67.205.177.122:56826",
+        "response_time": "351ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇻🇳",
         "ip_port": "202.92.6.70:54580",
-        "response_time": "74ms",
+        "response_time": "360ms",
         "country_code": "VN",
         "isp": "INET"
     },
@@ -72,7 +79,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "184ms",
+        "response_time": "177ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -93,14 +100,14 @@
     {
         "flag": "🇳🇱",
         "ip_port": "178.159.42.76:14300",
-        "response_time": "780ms",
+        "response_time": "497ms",
         "country_code": "NL",
         "isp": "Zomro B.V."
     },
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "37ms",
+        "response_time": "54ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -133,6 +140,13 @@
         "isp": "VNPT"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "199.204.248.155:33922",
+        "response_time": "391ms",
+        "country_code": "US",
+        "isp": "Jumpline Inc"
+    },
+    {
         "flag": "🇹🇷",
         "ip_port": "185.87.121.35:8975",
         "response_time": "693ms",
@@ -140,17 +154,10 @@
         "isp": "Ideal Hosting Teknoloji"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "147.135.112.67:3081",
-        "response_time": "293ms",
-        "country_code": "US",
-        "isp": "OVH US LLC"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "51.83.190.248:19050",
-        "response_time": "394ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
+        "flag": "🇬🇧",
+        "ip_port": "81.143.236.200:443",
+        "response_time": "676ms",
+        "country_code": "GB",
+        "isp": "BT Public Internet Service"
     }
 ]
