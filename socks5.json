@@ -2,7 +2,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "390ms",
+        "response_time": "183ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -36,6 +36,13 @@
     },
     {
         "flag": "🇷🇺",
+        "ip_port": "185.112.224.151:1080",
+        "response_time": "430ms",
+        "country_code": "RU",
+        "isp": "Orion Telecom LLC"
+    },
+    {
+        "flag": "🇷🇺",
         "ip_port": "89.148.195.249:1080",
         "response_time": "646ms",
         "country_code": "RU",
@@ -51,7 +58,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "797ms",
+        "response_time": "471ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -65,16 +72,9 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "184ms",
+        "response_time": "180ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "37.44.238.2:63617",
-        "response_time": "743ms",
-        "country_code": "FR",
-        "isp": "Harmony Hosting SARL"
     },
     {
         "flag": "🇺🇦",
@@ -93,7 +93,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "68ms",
+        "response_time": "487ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -103,5 +103,12 @@
         "response_time": "40ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "147.135.112.67:3081",
+        "response_time": "293ms",
+        "country_code": "US",
+        "isp": "OVH US LLC"
     }
 ]
