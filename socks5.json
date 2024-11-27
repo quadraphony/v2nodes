@@ -2,9 +2,16 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "796ms",
+        "response_time": "780ms",
         "country_code": "SG",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇧🇩",
+        "ip_port": "115.127.81.114:1088",
+        "response_time": "207ms",
+        "country_code": "BD",
+        "isp": "BRACNet Limited"
     },
     {
         "flag": "🇧🇩",
@@ -37,16 +44,16 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "752ms",
+        "response_time": "712ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇸🇬",
-        "ip_port": "188.166.234.144:14605",
-        "response_time": "386ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
+        "flag": "🇵🇸",
+        "ip_port": "93.184.4.254:1080",
+        "response_time": "405ms",
+        "country_code": "PS",
+        "isp": "BCI Telecommunication & Advanced Technology Company"
     },
     {
         "flag": "🇺🇸",
@@ -56,16 +63,9 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇻🇳",
-        "ip_port": "202.92.6.70:54580",
-        "response_time": "360ms",
-        "country_code": "VN",
-        "isp": "INET"
-    },
-    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "465ms",
+        "response_time": "766ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -84,16 +84,23 @@
         "isp": "Namecheap, Inc."
     },
     {
-        "flag": "🇳🇱",
-        "ip_port": "178.159.42.76:14300",
-        "response_time": "497ms",
-        "country_code": "NL",
-        "isp": "Zomro B.V."
+        "flag": "🇯🇵",
+        "ip_port": "150.230.96.150:19291",
+        "response_time": "603ms",
+        "country_code": "JP",
+        "isp": "Oracle Corporation"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "27ms",
+        "response_time": "415ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.230.38:64768",
+        "response_time": "421ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -103,12 +110,5 @@
         "response_time": "314ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
-    },
-    {
-        "flag": "🇬🇧",
-        "ip_port": "81.143.236.200:443",
-        "response_time": "676ms",
-        "country_code": "GB",
-        "isp": "BT Public Internet Service"
     }
 ]
