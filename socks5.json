@@ -21,18 +21,18 @@
         "isp": "BTS Communications (BD) Ltd"
     },
     {
-        "flag": "🇵🇱",
-        "ip_port": "178.255.44.60:58968",
-        "response_time": "769ms",
-        "country_code": "PL",
-        "isp": "Artnet Sp. z o.o."
-    },
-    {
         "flag": "🇬🇧",
         "ip_port": "178.79.165.164:40324",
         "response_time": "646ms",
         "country_code": "GB",
         "isp": "Linode"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.174.178.131:1020",
+        "response_time": "170ms",
+        "country_code": "ID",
+        "isp": "PT Gasatek Bintang Nusantara"
     },
     {
         "flag": "🇷🇺",
@@ -51,7 +51,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "242ms",
+        "response_time": "696ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -79,14 +79,14 @@
     {
         "flag": "🇸🇪",
         "ip_port": "130.255.160.60:18946",
-        "response_time": "480ms",
+        "response_time": "647ms",
         "country_code": "SE",
         "isp": "Internet Vikings"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "177ms",
+        "response_time": "171ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -138,5 +138,12 @@
         "response_time": "591ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇬🇧",
+        "ip_port": "81.143.236.200:443",
+        "response_time": "526ms",
+        "country_code": "GB",
+        "isp": "BT Public Internet Service"
     }
 ]
