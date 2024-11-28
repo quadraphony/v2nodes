@@ -65,9 +65,16 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "578ms",
+        "response_time": "345ms",
         "country_code": "GB",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇰🇷",
+        "ip_port": "146.56.101.184:21681",
+        "response_time": "772ms",
+        "country_code": "KR",
+        "isp": "Oracle Corporation"
     },
     {
         "flag": "🇺🇦",
@@ -75,6 +82,13 @@
         "response_time": "302ms",
         "country_code": "UA",
         "isp": "UARNET-LL"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.234.144:14605",
+        "response_time": "539ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇷🇺",
@@ -86,21 +100,21 @@
     {
         "flag": "🇻🇳",
         "ip_port": "202.92.6.70:54580",
-        "response_time": "340ms",
+        "response_time": "287ms",
         "country_code": "VN",
         "isp": "INET"
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "467ms",
+        "response_time": "474ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "174ms",
+        "response_time": "201ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -140,16 +154,9 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇸🇬",
-        "ip_port": "188.166.230.38:64768",
-        "response_time": "558ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "605ms",
+        "response_time": "651ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
