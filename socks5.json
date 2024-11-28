@@ -16,9 +16,16 @@
     {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "323ms",
+        "response_time": "438ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "37.187.73.7:15229",
+        "response_time": "743ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
     },
     {
         "flag": "🇵🇱",
@@ -51,7 +58,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "471ms",
+        "response_time": "362ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -65,7 +72,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.234.144:14605",
-        "response_time": "448ms",
+        "response_time": "365ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -84,13 +91,6 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇻🇳",
-        "ip_port": "202.92.6.70:54580",
-        "response_time": "287ms",
-        "country_code": "VN",
-        "isp": "INET"
-    },
-    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
         "response_time": "467ms",
@@ -107,7 +107,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "175ms",
+        "response_time": "196ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -135,7 +135,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "165.22.98.229:32855",
-        "response_time": "89ms",
+        "response_time": "137ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
