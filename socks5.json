@@ -1,8 +1,15 @@
 [
     {
+        "flag": "🇸🇬",
+        "ip_port": "51.79.177.70:25435",
+        "response_time": "784ms",
+        "country_code": "SG",
+        "isp": "OVH SAS"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "591ms",
+        "response_time": "321ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
@@ -16,14 +23,14 @@
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "764ms",
+        "response_time": "730ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
     },
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "68ms",
+        "response_time": "69ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
@@ -37,7 +44,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "142.93.150.134:43093",
-        "response_time": "284ms",
+        "response_time": "696ms",
         "country_code": "CA",
         "isp": "DigitalOcean, LLC"
     },
@@ -47,13 +54,6 @@
         "response_time": "334ms",
         "country_code": "RU",
         "isp": "RTK"
-    },
-    {
-        "flag": "🇸🇬",
-        "ip_port": "188.166.234.144:14605",
-        "response_time": "209ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇷🇺",
@@ -72,7 +72,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "769ms",
+        "response_time": "490ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -86,9 +86,23 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "178ms",
+        "response_time": "170ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "51.79.248.208:14720",
+        "response_time": "269ms",
+        "country_code": "SG",
+        "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇦🇺",
+        "ip_port": "185.139.155.155:1976",
+        "response_time": "618ms",
+        "country_code": "AU",
+        "isp": "Internet Vikings International AB"
     },
     {
         "flag": "🇳🇱",
@@ -114,7 +128,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "741ms",
+        "response_time": "476ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
