@@ -2,7 +2,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "133ms",
+        "response_time": "400ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -10,13 +10,6 @@
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
         "response_time": "321ms",
-        "country_code": "US",
-        "isp": "Akamai Technologies, Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "69.164.206.8:1747",
-        "response_time": "220ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
@@ -49,9 +42,30 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇰🇷",
+        "ip_port": "146.56.101.184:21681",
+        "response_time": "460ms",
+        "country_code": "KR",
+        "isp": "Oracle Corporation"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.234.144:14605",
+        "response_time": "102ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇺🇦",
+        "ip_port": "195.66.156.196:1080",
+        "response_time": "643ms",
+        "country_code": "UA",
+        "isp": "PP Info-Center"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "470ms",
+        "response_time": "469ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -65,7 +79,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "269ms",
+        "response_time": "47ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -77,10 +91,10 @@
         "isp": "Internet Vikings International AB"
     },
     {
-        "flag": "🇩🇪",
-        "ip_port": "167.71.39.152:38343",
-        "response_time": "313ms",
-        "country_code": "DE",
+        "flag": "🇸🇬",
+        "ip_port": "188.166.230.38:64768",
+        "response_time": "223ms",
+        "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
@@ -107,15 +121,8 @@
     {
         "flag": "🇹🇷",
         "ip_port": "185.87.121.5:8975",
-        "response_time": "526ms",
+        "response_time": "431ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "185.86.5.162:8975",
-        "response_time": "635ms",
-        "country_code": "TR",
-        "isp": "Ideal Hosting Teknoloji"
     }
 ]
