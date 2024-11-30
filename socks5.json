@@ -58,7 +58,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.234.144:14605",
-        "response_time": "286ms",
+        "response_time": "33ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -72,21 +72,28 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "768ms",
+        "response_time": "459ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
+        "flag": "🇬🇧",
+        "ip_port": "51.155.10.0:8000",
+        "response_time": "638ms",
+        "country_code": "GB",
+        "isp": "Zen Internet Ltd"
+    },
+    {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "194ms",
+        "response_time": "183ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "126ms",
+        "response_time": "325ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -126,13 +133,6 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇩🇪",
-        "ip_port": "167.71.39.152:38343",
-        "response_time": "736ms",
-        "country_code": "DE",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇿🇦",
         "ip_port": "102.36.127.249:1080",
         "response_time": "606ms",
@@ -145,6 +145,13 @@
         "response_time": "319ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.87.121.5:8975",
+        "response_time": "722ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji A.S."
     },
     {
         "flag": "🇹🇷",
