@@ -2,7 +2,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "127ms",
+        "response_time": "35ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -23,7 +23,7 @@
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "330ms",
+        "response_time": "592ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
     },
@@ -37,9 +37,16 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "456ms",
+        "response_time": "441ms",
         "country_code": "GB",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "142.93.150.134:43093",
+        "response_time": "244ms",
+        "country_code": "CA",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇦",
@@ -58,42 +65,35 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "493ms",
+        "response_time": "228ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇷🇺",
-        "ip_port": "194.190.169.197:3701",
-        "response_time": "333ms",
-        "country_code": "RU",
-        "isp": "Webmaster Agency Ltd"
-    },
-    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "471ms",
+        "response_time": "768ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "179ms",
+        "response_time": "194ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "349ms",
+        "response_time": "126ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇺🇦",
         "ip_port": "185.25.119.98:43725",
-        "response_time": "413ms",
+        "response_time": "251ms",
         "country_code": "UA",
         "isp": "Hosting Ukraine LTD"
     },
@@ -131,6 +131,13 @@
         "response_time": "736ms",
         "country_code": "DE",
         "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇿🇦",
+        "ip_port": "102.36.127.249:1080",
+        "response_time": "606ms",
+        "country_code": "ZA",
+        "isp": "Clear Access (Pty) Ltd"
     },
     {
         "flag": "🇺🇸",
