@@ -1,8 +1,22 @@
 [
     {
+        "flag": "🇸🇬",
+        "ip_port": "51.79.177.70:25435",
+        "response_time": "284ms",
+        "country_code": "SG",
+        "isp": "OVH SAS"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "466ms",
+        "response_time": "263ms",
+        "country_code": "US",
+        "isp": "Akamai Technologies, Inc."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "69.164.206.8:1747",
+        "response_time": "323ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
@@ -30,16 +44,9 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "645ms",
+        "response_time": "438ms",
         "country_code": "GB",
         "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇺🇦",
-        "ip_port": "194.44.208.62:80",
-        "response_time": "587ms",
-        "country_code": "UA",
-        "isp": "UARNET-LL"
     },
     {
         "flag": "🇨🇦",
@@ -58,14 +65,14 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "469ms",
+        "response_time": "769ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "169ms",
+        "response_time": "181ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -77,9 +84,16 @@
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇺🇦",
+        "ip_port": "185.25.119.98:43725",
+        "response_time": "452ms",
+        "country_code": "UA",
+        "isp": "Hosting Ukraine LTD"
+    },
+    {
         "flag": "🇳🇱",
         "ip_port": "178.159.42.76:14300",
-        "response_time": "459ms",
+        "response_time": "694ms",
         "country_code": "NL",
         "isp": "Zomro B.V."
     },
