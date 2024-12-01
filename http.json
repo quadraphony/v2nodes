@@ -2,7 +2,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "327ms",
+        "response_time": "296ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -15,15 +15,22 @@
     },
     {
         "flag": "🇨🇦",
+        "ip_port": "72.10.160.174:2481",
+        "response_time": "238ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
         "ip_port": "67.43.228.254:5555",
-        "response_time": "335ms",
+        "response_time": "334ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "229ms",
+        "response_time": "350ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -37,7 +44,7 @@
     {
         "flag": "🇮🇳",
         "ip_port": "103.160.207.53:32650",
-        "response_time": "438ms",
+        "response_time": "342ms",
         "country_code": "IN",
         "isp": "Moradabad Internet Services Private Limited"
     },
@@ -49,16 +56,23 @@
         "isp": "AT&T Services, Inc."
     },
     {
+        "flag": "🇮🇳",
+        "ip_port": "103.106.195.41:32650",
+        "response_time": "437ms",
+        "country_code": "IN",
+        "isp": "Elyzium Consulting"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "225ms",
+        "response_time": "216ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.138:8080",
-        "response_time": "44ms",
+        "response_time": "353ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
@@ -72,21 +86,21 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "332ms",
+        "response_time": "317ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "203.174.15.83:8080",
-        "response_time": "145ms",
+        "response_time": "60ms",
         "country_code": "ID",
         "isp": "PT Orion Cyber Internet"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "311ms",
+        "response_time": "388ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -163,7 +177,7 @@
     {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "476ms",
+        "response_time": "437ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
@@ -189,6 +203,13 @@
         "isp": "CtrlS"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "36.66.111.81:8080",
+        "response_time": "167ms",
+        "country_code": "ID",
+        "isp": "PT. Telekomunikasi Indonesia"
+    },
+    {
         "flag": "🇧🇷",
         "ip_port": "189.85.82.38:3128",
         "response_time": "452ms",
@@ -198,7 +219,7 @@
     {
         "flag": "🇫🇷",
         "ip_port": "51.158.169.52:29976",
-        "response_time": "142ms",
+        "response_time": "117ms",
         "country_code": "FR",
         "isp": "SCALEWAY"
     },
@@ -212,9 +233,16 @@
     {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "377ms",
+        "response_time": "342ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "188.132.222.10:8080",
+        "response_time": "430ms",
+        "country_code": "TR",
+        "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
     },
     {
         "flag": "🇮🇩",
@@ -240,14 +268,14 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "212ms",
+        "response_time": "103ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
     {
         "flag": "🇹🇭",
         "ip_port": "203.150.128.26:8080",
-        "response_time": "88ms",
+        "response_time": "69ms",
         "country_code": "TH",
         "isp": "Internet Thailand Company Ltd"
     },
@@ -287,18 +315,25 @@
         "isp": "PT Maxindo Mitra Solusi"
     },
     {
-        "flag": "🇹🇭",
-        "ip_port": "203.150.113.90:57322",
-        "response_time": "357ms",
-        "country_code": "TH",
-        "isp": "Internet Thailand Company Ltd."
-    },
-    {
         "flag": "🇪🇬",
         "ip_port": "41.65.160.173:1981",
         "response_time": "309ms",
         "country_code": "EG",
         "isp": "Etisalat Misr Mobile BB"
+    },
+    {
+        "flag": "🇬🇷",
+        "ip_port": "91.236.74.5:8080",
+        "response_time": "474ms",
+        "country_code": "GR",
+        "isp": "Mechmet CHATIP MEMET trading as SpeedNet"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "103.162.55.2:8080",
+        "response_time": "464ms",
+        "country_code": "ID",
+        "isp": "Institut Agama Islam Negeri Madura"
     },
     {
         "flag": "🇮🇩",
@@ -322,18 +357,18 @@
         "isp": "Bangladesh Telecommunications Company Ltd."
     },
     {
-        "flag": "🇹🇷",
-        "ip_port": "213.14.32.68:9090",
-        "response_time": "327ms",
-        "country_code": "TR",
-        "isp": "Tellcom Main Network Statement"
+        "flag": "🇺🇸",
+        "ip_port": "98.154.21.253:3128",
+        "response_time": "468ms",
+        "country_code": "US",
+        "isp": "Charter Communications Inc"
     },
     {
-        "flag": "🇹🇷",
-        "ip_port": "213.14.32.73:9090",
-        "response_time": "322ms",
-        "country_code": "TR",
-        "isp": "Tellcom Main Network Statement"
+        "flag": "🇨🇴",
+        "ip_port": "181.129.183.19:53281",
+        "response_time": "436ms",
+        "country_code": "CO",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P."
     },
     {
         "flag": "🇧🇬",
@@ -355,5 +390,12 @@
         "response_time": "280ms",
         "country_code": "US",
         "isp": "Oracle Public Cloud"
+    },
+    {
+        "flag": "🇷🇴",
+        "ip_port": "37.120.192.154:8080",
+        "response_time": "487ms",
+        "country_code": "RO",
+        "isp": "Secure Data Systems SRL"
     }
 ]
