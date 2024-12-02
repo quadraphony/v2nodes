@@ -30,14 +30,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.254:5555",
-        "response_time": "322ms",
+        "response_time": "225ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "465ms",
+        "response_time": "366ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -47,13 +47,6 @@
         "response_time": "207ms",
         "country_code": "ID",
         "isp": "PT. Mega Mentari Mandiri"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.135.26.165:8080",
-        "response_time": "496ms",
-        "country_code": "ID",
-        "isp": "PT Maxindo Mitra Solusi"
     },
     {
         "flag": "🇪🇬",
@@ -71,8 +64,15 @@
     },
     {
         "flag": "🇨🇦",
+        "ip_port": "67.43.228.252:10693",
+        "response_time": "227ms",
+        "country_code": "CA",
+        "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "337ms",
+        "response_time": "379ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -100,7 +100,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "356ms",
+        "response_time": "284ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -121,14 +121,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "362ms",
+        "response_time": "284ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "144.86.187.45:3128",
-        "response_time": "425ms",
+        "ip_port": "144.86.187.59:3128",
+        "response_time": "186ms",
         "country_code": "US",
         "isp": "Charles River Operation"
     },
@@ -175,11 +175,11 @@
         "isp": "DIGITNET"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "192.9.237.224:3128",
-        "response_time": "252ms",
-        "country_code": "US",
-        "isp": "Oracle Corporation"
+        "flag": "🇮🇩",
+        "ip_port": "103.162.63.198:8181",
+        "response_time": "206ms",
+        "country_code": "ID",
+        "isp": "PT Ring Media Nusantara"
     },
     {
         "flag": "🇩🇪",
@@ -198,9 +198,16 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "228ms",
+        "response_time": "176ms",
         "country_code": "ID",
         "isp": "BIZNET"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "202.154.191.234:9933",
+        "response_time": "289ms",
+        "country_code": "ID",
+        "isp": "PT SOLNET INDONESIA"
     },
     {
         "flag": "🇨🇭",
@@ -219,30 +226,23 @@
     {
         "flag": "🇮🇩",
         "ip_port": "36.66.111.81:8080",
-        "response_time": "162ms",
+        "response_time": "64ms",
         "country_code": "ID",
         "isp": "PT. Telekomunikasi Indonesia"
     },
     {
-        "flag": "🇦🇹",
-        "ip_port": "81.223.55.43:8080",
-        "response_time": "347ms",
-        "country_code": "AT",
-        "isp": "T-Mobile Austria GmbH"
+        "flag": "🇮🇩",
+        "ip_port": "103.111.207.138:80",
+        "response_time": "281ms",
+        "country_code": "ID",
+        "isp": "PT Cyberindo Aditama"
     },
     {
         "flag": "🇫🇷",
         "ip_port": "51.158.169.52:29976",
-        "response_time": "137ms",
+        "response_time": "325ms",
         "country_code": "FR",
         "isp": "SCALEWAY"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "103.172.70.139:9191",
-        "response_time": "141ms",
-        "country_code": "ID",
-        "isp": "AZNET"
     },
     {
         "flag": "🇯🇵",
@@ -254,7 +254,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "192.241.145.178:3128",
-        "response_time": "197ms",
+        "response_time": "413ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -282,9 +282,16 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "338ms",
+        "response_time": "253ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+        "flag": "🇹🇭",
+        "ip_port": "203.150.128.26:8080",
+        "response_time": "331ms",
+        "country_code": "TH",
+        "isp": "Internet Thailand Company Ltd"
     },
     {
         "flag": "🇧🇷",
@@ -330,24 +337,10 @@
     },
     {
         "flag": "🇺🇸",
-        "ip_port": "24.52.33.75:8080",
-        "response_time": "340ms",
-        "country_code": "US",
-        "isp": "TDS TELECOM"
-    },
-    {
-        "flag": "🇺🇸",
         "ip_port": "66.211.155.34:8080",
         "response_time": "490ms",
         "country_code": "US",
         "isp": "FirstLight Fiber"
-    },
-    {
-        "flag": "🇧🇩",
-        "ip_port": "45.125.222.97:36110",
-        "response_time": "208ms",
-        "country_code": "BD",
-        "isp": "SSD-TECH"
     },
     {
         "flag": "🇭🇷",
