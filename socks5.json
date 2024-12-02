@@ -2,7 +2,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "708ms",
+        "response_time": "394ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -30,14 +30,14 @@
     {
         "flag": "🇪🇸",
         "ip_port": "178.33.162.89:59490",
-        "response_time": "482ms",
+        "response_time": "502ms",
         "country_code": "ES",
         "isp": "OVH ISP"
     },
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "169ms",
+        "response_time": "382ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
@@ -51,7 +51,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "783ms",
+        "response_time": "597ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -61,13 +61,6 @@
         "response_time": "732ms",
         "country_code": "CA",
         "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "184.95.220.42:1080",
-        "response_time": "440ms",
-        "country_code": "CA",
-        "isp": "Fibrenoire Inc."
     },
     {
         "flag": "🇨🇦",
@@ -86,9 +79,16 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "407ms",
+        "response_time": "449ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "202.92.6.70:54580",
+        "response_time": "362ms",
+        "country_code": "VN",
+        "isp": "INET"
     },
     {
         "flag": "🇨🇳",
@@ -100,7 +100,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "272ms",
+        "response_time": "190ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -114,7 +114,7 @@
     {
         "flag": "🇺🇦",
         "ip_port": "185.25.119.98:43725",
-        "response_time": "308ms",
+        "response_time": "514ms",
         "country_code": "UA",
         "isp": "Hosting Ukraine LTD"
     },
@@ -128,28 +128,35 @@
     {
         "flag": "🇳🇱",
         "ip_port": "178.159.42.76:14300",
-        "response_time": "681ms",
+        "response_time": "439ms",
         "country_code": "NL",
         "isp": "Zomro B.V."
     },
     {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "412ms",
+        "response_time": "600ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "199.204.248.155:33922",
+        "response_time": "679ms",
+        "country_code": "US",
+        "isp": "Jumpline Inc"
+    },
+    {
         "flag": "🇹🇷",
         "ip_port": "185.87.121.5:8975",
-        "response_time": "416ms",
+        "response_time": "438ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
     },
     {
         "flag": "🇹🇷",
         "ip_port": "185.86.5.162:8975",
-        "response_time": "536ms",
+        "response_time": "394ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
     }
