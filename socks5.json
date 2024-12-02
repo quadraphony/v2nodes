@@ -2,21 +2,21 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "111ms",
+        "response_time": "182ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "283ms",
+        "response_time": "569ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
     {
         "flag": "🇫🇷",
         "ip_port": "37.187.73.7:15229",
-        "response_time": "661ms",
+        "response_time": "443ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -30,7 +30,7 @@
     {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "441ms",
+        "response_time": "289ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
     },
@@ -42,9 +42,16 @@
         "isp": "PT Gasatek Bintang Nusantara"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "68.183.118.66:28548",
+        "response_time": "669ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "467ms",
+        "response_time": "445ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -56,6 +63,13 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇺🇦",
+        "ip_port": "194.44.208.62:80",
+        "response_time": "670ms",
+        "country_code": "UA",
+        "isp": "UARNET-LL"
+    },
+    {
         "flag": "🇸🇬",
         "ip_port": "188.166.234.144:14605",
         "response_time": "381ms",
@@ -65,7 +79,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "414ms",
+        "response_time": "323ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -79,7 +93,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "470ms",
+        "response_time": "570ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -93,14 +107,14 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "180ms",
+        "response_time": "195ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "43ms",
+        "response_time": "210ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -114,21 +128,28 @@
     {
         "flag": "🇺🇦",
         "ip_port": "185.25.119.98:43725",
-        "response_time": "465ms",
+        "response_time": "283ms",
         "country_code": "UA",
         "isp": "Hosting Ukraine LTD"
     },
     {
+        "flag": "🇦🇺",
+        "ip_port": "185.139.155.155:1976",
+        "response_time": "349ms",
+        "country_code": "AU",
+        "isp": "Internet Vikings International AB"
+    },
+    {
         "flag": "🇳🇱",
         "ip_port": "178.159.42.76:14300",
-        "response_time": "239ms",
+        "response_time": "586ms",
         "country_code": "NL",
         "isp": "Zomro B.V."
     },
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "601ms",
+        "response_time": "618ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -149,15 +170,8 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "310ms",
+        "response_time": "624ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
-    },
-    {
-        "flag": "🇯🇵",
-        "ip_port": "47.245.56.108:18181",
-        "response_time": "119ms",
-        "country_code": "JP",
-        "isp": "Alibaba.com LLC"
     }
 ]
