@@ -2,7 +2,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "382ms",
+        "response_time": "462ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -23,7 +23,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
-        "response_time": "432ms",
+        "response_time": "430ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -37,7 +37,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "359ms",
+        "response_time": "449ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -65,14 +65,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "289ms",
+        "response_time": "329ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "382ms",
+        "response_time": "484ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -135,7 +135,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "192.9.237.224:3128",
-        "response_time": "300ms",
+        "response_time": "333ms",
         "country_code": "US",
         "isp": "Oracle Corporation"
     },
@@ -156,7 +156,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "167ms",
+        "response_time": "218ms",
         "country_code": "ID",
         "isp": "BIZNET"
     },
@@ -205,7 +205,7 @@
     {
         "flag": "🇫🇷",
         "ip_port": "51.158.169.52:29976",
-        "response_time": "131ms",
+        "response_time": "119ms",
         "country_code": "FR",
         "isp": "SCALEWAY"
     },
@@ -217,16 +217,9 @@
         "isp": "Maxindo"
     },
     {
-        "flag": "🇹🇷",
-        "ip_port": "212.252.66.209:8080",
-        "response_time": "494ms",
-        "country_code": "TR",
-        "isp": "Superonline Iletisim Hizmetleri A.S."
-    },
-    {
         "flag": "🇮🇳",
         "ip_port": "164.52.206.180:80",
-        "response_time": "333ms",
+        "response_time": "366ms",
         "country_code": "IN",
         "isp": "E2E Networks Limited"
     },
@@ -261,7 +254,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "454ms",
+        "response_time": "387ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -296,7 +289,7 @@
     {
         "flag": "🇪🇸",
         "ip_port": "77.225.198.220:9812",
-        "response_time": "388ms",
+        "response_time": "307ms",
         "country_code": "ES",
         "isp": "Comunitel Global"
     },
@@ -324,9 +317,16 @@
     {
         "flag": "🇪🇬",
         "ip_port": "41.65.160.173:1981",
-        "response_time": "216ms",
+        "response_time": "199ms",
         "country_code": "EG",
         "isp": "Etisalat Misr Mobile BB"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "213.14.32.70:9090",
+        "response_time": "268ms",
+        "country_code": "TR",
+        "isp": "Tellcom Main Network Statement"
     },
     {
         "flag": "🇮🇩",
@@ -350,6 +350,13 @@
         "isp": "FIBER1"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "182.253.140.250:8080",
+        "response_time": "186ms",
+        "country_code": "ID",
+        "isp": "Biznet Networks"
+    },
+    {
         "flag": "🇦🇺",
         "ip_port": "61.29.96.146:80",
         "response_time": "136ms",
@@ -362,12 +369,5 @@
         "response_time": "788ms",
         "country_code": "TH",
         "isp": "Triple T Internet Company Limited"
-    },
-    {
-        "flag": "🇷🇴",
-        "ip_port": "37.120.192.154:8080",
-        "response_time": "431ms",
-        "country_code": "RO",
-        "isp": "Secure Data Systems SRL"
     }
 ]
