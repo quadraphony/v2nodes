@@ -2,30 +2,37 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "214ms",
+        "response_time": "171ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "706ms",
+        "response_time": "492ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
     {
         "flag": "🇫🇷",
         "ip_port": "37.187.73.7:15229",
-        "response_time": "431ms",
+        "response_time": "363ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "69.164.206.8:1747",
-        "response_time": "285ms",
+        "response_time": "370ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
+    },
+    {
+        "flag": "🇪🇸",
+        "ip_port": "178.33.162.89:59490",
+        "response_time": "453ms",
+        "country_code": "ES",
+        "isp": "OVH ISP"
     },
     {
         "flag": "🇮🇩",
@@ -37,42 +44,35 @@
     {
         "flag": "🇺🇸",
         "ip_port": "68.183.118.66:28548",
-        "response_time": "704ms",
+        "response_time": "514ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇱🇺",
-        "ip_port": "104.244.75.78:31534",
-        "response_time": "550ms",
-        "country_code": "LU",
-        "isp": "FranTech Solutions"
-    },
-    {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "322ms",
+        "response_time": "333ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "142.93.150.134:43093",
-        "response_time": "677ms",
+        "response_time": "430ms",
         "country_code": "CA",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.234.144:14605",
-        "response_time": "297ms",
+        "response_time": "303ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "394ms",
+        "response_time": "260ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -93,7 +93,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "162ms",
+        "response_time": "189ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -107,14 +107,14 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "74ms",
+        "response_time": "223ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇺🇦",
         "ip_port": "185.25.119.98:43725",
-        "response_time": "343ms",
+        "response_time": "488ms",
         "country_code": "UA",
         "isp": "Hosting Ukraine LTD"
     },
@@ -126,9 +126,16 @@
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇦🇺",
+        "ip_port": "185.139.155.155:1976",
+        "response_time": "759ms",
+        "country_code": "AU",
+        "isp": "Internet Vikings International AB"
+    },
+    {
         "flag": "🇳🇱",
         "ip_port": "178.159.42.76:14300",
-        "response_time": "221ms",
+        "response_time": "342ms",
         "country_code": "NL",
         "isp": "Zomro B.V."
     },
@@ -142,7 +149,7 @@
     {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "565ms",
+        "response_time": "298ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
@@ -152,6 +159,13 @@
         "response_time": "712ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.87.121.35:8975",
+        "response_time": "548ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
     },
     {
         "flag": "🇹🇷",
