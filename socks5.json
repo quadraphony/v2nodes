@@ -2,7 +2,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "422ms",
+        "response_time": "263ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -70,13 +70,6 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "67.205.177.122:56826",
-        "response_time": "631ms",
-        "country_code": "US",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇻🇳",
         "ip_port": "202.92.6.70:54580",
         "response_time": "590ms",
@@ -86,14 +79,14 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "622ms",
+        "response_time": "519ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "187ms",
+        "response_time": "179ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -147,9 +140,16 @@
         "isp": "VNPT"
     },
     {
+        "flag": "🇮🇳",
+        "ip_port": "139.59.93.221:27247",
+        "response_time": "336ms",
+        "country_code": "IN",
+        "isp": "DIGITALOCEAN"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "477ms",
+        "response_time": "406ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -166,5 +166,12 @@
         "response_time": "260ms",
         "country_code": "US",
         "isp": "OVH US LLC"
+    },
+    {
+        "flag": "🇩🇪",
+        "ip_port": "188.68.52.220:9050",
+        "response_time": "387ms",
+        "country_code": "DE",
+        "isp": "netcup GmbH"
     }
 ]
