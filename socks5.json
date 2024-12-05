@@ -14,16 +14,9 @@
         "isp": "BTS Communications (BD) Ltd"
     },
     {
-        "flag": "🇫🇷",
-        "ip_port": "37.187.73.7:15229",
-        "response_time": "367ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
-    },
-    {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "537ms",
+        "response_time": "521ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
     },
@@ -33,6 +26,13 @@
         "response_time": "377ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "68.183.118.66:28548",
+        "response_time": "613ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇱🇺",
@@ -65,7 +65,7 @@
     {
         "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
-        "response_time": "314ms",
+        "response_time": "383ms",
         "country_code": "RU",
         "isp": "Webmaster Agency Ltd"
     },
@@ -86,14 +86,14 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "194ms",
+        "response_time": "203ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "368ms",
+        "response_time": "602ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -159,12 +159,5 @@
         "response_time": "582ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "178.33.111.210:6252",
-        "response_time": "575ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
     }
 ]
