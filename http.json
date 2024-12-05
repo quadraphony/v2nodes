@@ -21,6 +21,13 @@
         "isp": "Enterprise"
     },
     {
+        "flag": "🇮🇳",
+        "ip_port": "182.78.42.112:83",
+        "response_time": "410ms",
+        "country_code": "IN",
+        "isp": "Bharti Airtel"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.174:2481",
         "response_time": "282ms",
@@ -37,9 +44,16 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "319ms",
+        "response_time": "360ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "58.69.125.145:8081",
+        "response_time": "418ms",
+        "country_code": "PH",
+        "isp": "Philippine Long Distance Telephone Co."
     },
     {
         "flag": "🇨🇦",
@@ -51,7 +65,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "285ms",
+        "response_time": "487ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -72,7 +86,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.236.20:5103",
-        "response_time": "291ms",
+        "response_time": "393ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -84,16 +98,9 @@
         "isp": "GloboTech Communications"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "203.174.15.83:8080",
-        "response_time": "65ms",
-        "country_code": "ID",
-        "isp": "PT Orion Cyber Internet"
-    },
-    {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "368ms",
+        "response_time": "319ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -121,7 +128,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "203.142.86.249:88",
-        "response_time": "351ms",
+        "response_time": "150ms",
         "country_code": "ID",
         "isp": "BIZNET"
     },
@@ -135,7 +142,7 @@
     {
         "flag": "🇨🇭",
         "ip_port": "185.191.236.162:3128",
-        "response_time": "307ms",
+        "response_time": "435ms",
         "country_code": "CH",
         "isp": "Grupo Panaglobal 15 S.A"
     },
@@ -161,13 +168,6 @@
         "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.176.96.178:8080",
-        "response_time": "44ms",
-        "country_code": "ID",
-        "isp": "PT Global Sarana Elektronika"
-    },
-    {
         "flag": "🇱🇹",
         "ip_port": "88.119.139.237:53281",
         "response_time": "382ms",
@@ -189,11 +189,11 @@
         "isp": "SCALEWAY"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "66.70.235.23:8080",
-        "response_time": "449ms",
-        "country_code": "US",
-        "isp": "OVH Hosting"
+        "flag": "🇮🇩",
+        "ip_port": "103.172.70.139:9191",
+        "response_time": "144ms",
+        "country_code": "ID",
+        "isp": "AZNET"
     },
     {
         "flag": "🇬🇶",
@@ -211,6 +211,13 @@
     },
     {
         "flag": "🇮🇩",
+        "ip_port": "203.190.117.137:8071",
+        "response_time": "372ms",
+        "country_code": "ID",
+        "isp": "PT Union Routelink Communication"
+    },
+    {
+        "flag": "🇮🇩",
         "ip_port": "103.120.175.243:9191",
         "response_time": "363ms",
         "country_code": "ID",
@@ -219,9 +226,16 @@
     {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "242ms",
+        "response_time": "177ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+        "flag": "🇵🇭",
+        "ip_port": "161.49.176.173:1337",
+        "response_time": "374ms",
+        "country_code": "PH",
+        "isp": "Converge ICT Solution Inc"
     },
     {
         "flag": "🇮🇩",
@@ -229,13 +243,6 @@
         "response_time": "349ms",
         "country_code": "ID",
         "isp": "PT Wistel Teknologi Solusi"
-    },
-    {
-        "flag": "🇨🇴",
-        "ip_port": "186.83.28.190:999",
-        "response_time": "421ms",
-        "country_code": "CO",
-        "isp": "Telmex Colombia S.A."
     },
     {
         "flag": "🇲🇽",
@@ -285,6 +292,13 @@
         "response_time": "440ms",
         "country_code": "TH",
         "isp": "TRUEBB"
+    },
+    {
+        "flag": "🇧🇩",
+        "ip_port": "203.112.223.126:8080",
+        "response_time": "393ms",
+        "country_code": "BD",
+        "isp": "Bangladesh Telecommunications Company Ltd."
     },
     {
         "flag": "🇧🇬",
