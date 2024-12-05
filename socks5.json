@@ -2,8 +2,15 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "192ms",
+        "response_time": "123ms",
         "country_code": "SG",
+        "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "37.187.73.7:15229",
+        "response_time": "492ms",
+        "country_code": "FR",
         "isp": "OVH SAS"
     },
     {
@@ -42,16 +49,23 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "67.205.177.122:56826",
+        "response_time": "415ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "468ms",
+        "response_time": "470ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "190ms",
+        "response_time": "195ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -61,13 +75,6 @@
         "response_time": "223ms",
         "country_code": "SG",
         "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇺🇦",
-        "ip_port": "185.25.119.98:43725",
-        "response_time": "753ms",
-        "country_code": "UA",
-        "isp": "Hosting Ukraine LTD"
     },
     {
         "flag": "🇳🇱",
@@ -84,16 +91,16 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇻🇳",
-        "ip_port": "113.176.118.150:1080",
-        "response_time": "799ms",
-        "country_code": "VN",
-        "isp": "VNPT"
+        "flag": "🇮🇳",
+        "ip_port": "139.59.93.221:27247",
+        "response_time": "349ms",
+        "country_code": "IN",
+        "isp": "DIGITALOCEAN"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "671ms",
+        "response_time": "596ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -114,7 +121,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "467ms",
+        "response_time": "777ms",
         "country_code": "US",
         "isp": "OVH US LLC"
     }
