@@ -28,13 +28,6 @@
         "isp": "Artnet Sp. z o.o."
     },
     {
-        "flag": "🇪🇸",
-        "ip_port": "178.33.162.89:59490",
-        "response_time": "746ms",
-        "country_code": "ES",
-        "isp": "OVH ISP"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
         "response_time": "165ms",
@@ -86,23 +79,16 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "167ms",
+        "response_time": "169ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "322ms",
+        "response_time": "664ms",
         "country_code": "SG",
         "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇺🇦",
-        "ip_port": "185.25.119.98:43725",
-        "response_time": "562ms",
-        "country_code": "UA",
-        "isp": "Hosting Ukraine LTD"
     },
     {
         "flag": "🇨🇦",
@@ -135,7 +121,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "502ms",
+        "response_time": "320ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -145,6 +131,13 @@
         "response_time": "546ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.87.121.5:8975",
+        "response_time": "542ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji A.S."
     },
     {
         "flag": "🇹🇷",
@@ -163,8 +156,15 @@
     {
         "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "784ms",
+        "response_time": "713ms",
         "country_code": "US",
         "isp": "OVH US LLC"
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "113.160.188.21:1080",
+        "response_time": "140ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
