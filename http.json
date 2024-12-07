@@ -2,14 +2,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.250:14395",
-        "response_time": "320ms",
+        "response_time": "284ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.170:10919",
-        "response_time": "499ms",
+        "response_time": "282ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -29,15 +29,8 @@
     },
     {
         "flag": "🇨🇦",
-        "ip_port": "67.43.228.254:5555",
-        "response_time": "397ms",
-        "country_code": "CA",
-        "isp": "GloboTech Communications"
-    },
-    {
-        "flag": "🇨🇦",
         "ip_port": "72.10.164.178:3001",
-        "response_time": "374ms",
+        "response_time": "289ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -47,13 +40,6 @@
         "response_time": "193ms",
         "country_code": "ID",
         "isp": "PT. Mega Mentari Mandiri"
-    },
-    {
-        "flag": "🇮🇩",
-        "ip_port": "192.145.228.226:8082",
-        "response_time": "275ms",
-        "country_code": "ID",
-        "isp": "PT Mandala Lintas Nusa"
     },
     {
         "flag": "🇺🇸",
@@ -72,7 +58,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "72.10.160.90:19101",
-        "response_time": "325ms",
+        "response_time": "307ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -107,7 +93,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.228.253:3767",
-        "response_time": "293ms",
+        "response_time": "321ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -121,7 +107,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "67.43.227.227:26373",
-        "response_time": "231ms",
+        "response_time": "457ms",
         "country_code": "CA",
         "isp": "GloboTech Communications"
     },
@@ -140,18 +126,18 @@
         "isp": "PT iForte Global Internet"
     },
     {
-        "flag": "🇮🇳",
-        "ip_port": "103.149.194.222:80",
-        "response_time": "232ms",
-        "country_code": "IN",
-        "isp": "Kavya Internet Services Pvt Ltd"
-    },
-    {
         "flag": "🇩🇪",
         "ip_port": "173.249.60.246:14344",
-        "response_time": "318ms",
+        "response_time": "307ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
+    },
+    {
+        "flag": "🇷🇺",
+        "ip_port": "62.183.96.194:8080",
+        "response_time": "388ms",
+        "country_code": "RU",
+        "isp": "Southen Telecommunication Maintainer"
     },
     {
         "flag": "🇨🇭",
@@ -175,13 +161,6 @@
         "isp": "PT Pusaka Kreasi Mandiri"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.154.230.82:5678",
-        "response_time": "66ms",
-        "country_code": "ID",
-        "isp": "DIGITNET"
-    },
-    {
         "flag": "🇫🇷",
         "ip_port": "51.158.169.52:29976",
         "response_time": "125ms",
@@ -203,16 +182,9 @@
         "isp": "PT. Telekomunikasi Indonesia"
     },
     {
-        "flag": "🇮🇳",
-        "ip_port": "103.125.154.233:8080",
-        "response_time": "431ms",
-        "country_code": "IN",
-        "isp": "Live Fibernet"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "8.219.97.248:80",
-        "response_time": "378ms",
+        "response_time": "421ms",
         "country_code": "SG",
         "isp": "Alibaba (US) Technology Co., Ltd."
     },
@@ -273,10 +245,38 @@
         "isp": "S S Cablenet"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.156.17.35:8181",
+        "response_time": "292ms",
+        "country_code": "ID",
+        "isp": "PT Smart Teknologi Utama"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "36.94.232.177:999",
+        "response_time": "124ms",
+        "country_code": "ID",
+        "isp": "PT. Telekomunikasi Indonesia"
+    },
+    {
+        "flag": "🇨🇴",
+        "ip_port": "181.129.183.19:53281",
+        "response_time": "496ms",
+        "country_code": "CO",
+        "isp": "EPM Telecomunicaciones S.A. E.S.P."
+    },
+    {
         "flag": "🇹🇭",
         "ip_port": "171.103.58.122:8080",
         "response_time": "52ms",
         "country_code": "TH",
         "isp": "True Internet Co., Ltd."
+    },
+    {
+        "flag": "🇷🇴",
+        "ip_port": "37.120.192.154:8080",
+        "response_time": "450ms",
+        "country_code": "RO",
+        "isp": "Secure Data Systems SRL"
     }
 ]
