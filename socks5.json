@@ -14,16 +14,9 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇻🇳",
-        "ip_port": "116.97.240.147:4996",
-        "response_time": "106ms",
-        "country_code": "VN",
-        "isp": "Viettel Corporation"
-    },
-    {
         "flag": "🇵🇱",
         "ip_port": "178.255.44.60:58968",
-        "response_time": "710ms",
+        "response_time": "530ms",
         "country_code": "PL",
         "isp": "Artnet Sp. z o.o."
     },
@@ -44,9 +37,16 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "711ms",
+        "response_time": "590ms",
         "country_code": "GB",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇷🇺",
+        "ip_port": "185.112.224.151:1080",
+        "response_time": "402ms",
+        "country_code": "RU",
+        "isp": "Orion Telecom LLC"
     },
     {
         "flag": "🇨🇦",
@@ -63,13 +63,6 @@
         "isp": "UARNET-LL"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "67.205.177.122:56826",
-        "response_time": "469ms",
-        "country_code": "US",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
         "response_time": "461ms",
@@ -79,7 +72,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "639ms",
+        "response_time": "768ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -93,7 +86,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "165ms",
+        "response_time": "179ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -114,7 +107,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "488ms",
+        "response_time": "355ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -131,6 +124,13 @@
         "response_time": "596ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇯🇵",
+        "ip_port": "47.245.56.108:18181",
+        "response_time": "540ms",
+        "country_code": "JP",
+        "isp": "Alibaba.com LLC"
     },
     {
         "flag": "🇺🇸",
