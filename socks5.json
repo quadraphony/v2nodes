@@ -1,12 +1,5 @@
 [
     {
-        "flag": "🇩🇪",
-        "ip_port": "161.97.129.202:9060",
-        "response_time": "583ms",
-        "country_code": "DE",
-        "isp": "Contabo GmbH"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
         "response_time": "102ms",
@@ -14,16 +7,23 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.174.178.131:1020",
-        "response_time": "68ms",
-        "country_code": "ID",
-        "isp": "PT Gasatek Bintang Nusantara"
+        "flag": "🇵🇱",
+        "ip_port": "178.255.44.60:58968",
+        "response_time": "462ms",
+        "country_code": "PL",
+        "isp": "Artnet Sp. z o.o."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "68.183.118.66:28548",
+        "response_time": "496ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "618ms",
+        "response_time": "481ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -49,13 +49,6 @@
         "isp": "GoDaddy.com, LLC"
     },
     {
-        "flag": "🇨🇦",
-        "ip_port": "134.122.43.203:56442",
-        "response_time": "780ms",
-        "country_code": "CA",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "157.230.191.76:6486",
         "response_time": "772ms",
@@ -65,21 +58,21 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "655ms",
+        "response_time": "597ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇩🇪",
         "ip_port": "5.189.159.215:7497",
-        "response_time": "227ms",
+        "response_time": "255ms",
         "country_code": "DE",
         "isp": "Contabo GmbH"
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "464ms",
+        "response_time": "468ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -93,7 +86,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "212ms",
+        "response_time": "155ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -105,11 +98,11 @@
         "isp": "Harmony Hosting SARL"
     },
     {
-        "flag": "🇸🇬",
-        "ip_port": "188.166.230.38:64768",
-        "response_time": "674ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
+        "flag": "🇳🇱",
+        "ip_port": "178.159.42.76:14300",
+        "response_time": "555ms",
+        "country_code": "NL",
+        "isp": "Zomro B.V."
     },
     {
         "flag": "🇮🇳",
@@ -121,7 +114,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "641ms",
+        "response_time": "444ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -142,8 +135,15 @@
     {
         "flag": "🇹🇷",
         "ip_port": "185.86.5.162:8975",
-        "response_time": "406ms",
+        "response_time": "424ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇯🇵",
+        "ip_port": "47.245.56.108:18181",
+        "response_time": "158ms",
+        "country_code": "JP",
+        "isp": "Alibaba.com LLC"
     }
 ]
