@@ -9,9 +9,16 @@
     {
         "flag": "🇫🇷",
         "ip_port": "37.187.73.7:15229",
-        "response_time": "429ms",
+        "response_time": "418ms",
         "country_code": "FR",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇪🇸",
+        "ip_port": "178.33.162.89:59490",
+        "response_time": "580ms",
+        "country_code": "ES",
+        "isp": "OVH ISP"
     },
     {
         "flag": "🇮🇩",
@@ -28,18 +35,18 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇨🇦",
+        "ip_port": "142.93.150.134:43093",
+        "response_time": "523ms",
+        "country_code": "CA",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇰🇷",
         "ip_port": "146.56.101.184:21681",
         "response_time": "495ms",
         "country_code": "KR",
         "isp": "Oracle Corporation"
-    },
-    {
-        "flag": "🇱🇹",
-        "ip_port": "213.252.245.221:8015",
-        "response_time": "327ms",
-        "country_code": "LT",
-        "isp": "BACLOUD-BITE"
     },
     {
         "flag": "🇺🇦",
@@ -49,30 +56,23 @@
         "isp": "PP Info-Center"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "67.205.177.122:56826",
-        "response_time": "775ms",
-        "country_code": "US",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "468ms",
+        "response_time": "476ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "194ms",
+        "response_time": "300ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "603ms",
+        "response_time": "69ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -100,14 +100,14 @@
     {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "251ms",
+        "response_time": "646ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "442ms",
+        "response_time": "311ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -121,15 +121,8 @@
     {
         "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "605ms",
+        "response_time": "739ms",
         "country_code": "US",
         "isp": "OVH US LLC"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "51.83.190.248:19050",
-        "response_time": "723ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
     }
 ]
