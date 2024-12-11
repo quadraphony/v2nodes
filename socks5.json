@@ -9,7 +9,7 @@
     {
         "flag": "🇫🇷",
         "ip_port": "37.187.73.7:15229",
-        "response_time": "653ms",
+        "response_time": "675ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -19,13 +19,6 @@
         "response_time": "176ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
-    },
-    {
-        "flag": "🇷🇺",
-        "ip_port": "185.112.224.151:1080",
-        "response_time": "443ms",
-        "country_code": "RU",
-        "isp": "Orion Telecom LLC"
     },
     {
         "flag": "🇺🇸",
@@ -44,7 +37,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "467ms",
+        "response_time": "468ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -77,6 +70,13 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇺🇦",
+        "ip_port": "176.37.21.46:5678",
+        "response_time": "473ms",
+        "country_code": "UA",
+        "isp": "Lanet Network"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
         "response_time": "725ms",
@@ -93,9 +93,16 @@
     {
         "flag": "🇹🇷",
         "ip_port": "185.87.121.5:8975",
-        "response_time": "796ms",
+        "response_time": "480ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.86.5.162:8975",
+        "response_time": "487ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
     },
     {
         "flag": "🇬🇧",
@@ -107,7 +114,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "599ms",
+        "response_time": "733ms",
         "country_code": "US",
         "isp": "OVH US LLC"
     }
