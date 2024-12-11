@@ -28,6 +28,20 @@
         "isp": "OVH ISP"
     },
     {
+        "flag": "🇮🇩",
+        "ip_port": "103.174.178.131:1020",
+        "response_time": "61ms",
+        "country_code": "ID",
+        "isp": "PT Gasatek Bintang Nusantara"
+    },
+    {
+        "flag": "🇱🇺",
+        "ip_port": "104.244.75.78:31534",
+        "response_time": "480ms",
+        "country_code": "LU",
+        "isp": "FranTech Solutions"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "64.202.184.129:5951",
         "response_time": "646ms",
@@ -37,7 +51,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "767ms",
+        "response_time": "471ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -51,7 +65,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "307ms",
+        "response_time": "274ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -65,7 +79,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "389ms",
+        "response_time": "409ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -75,6 +89,13 @@
         "response_time": "477ms",
         "country_code": "CA",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇦🇺",
+        "ip_port": "185.139.155.155:1976",
+        "response_time": "682ms",
+        "country_code": "AU",
+        "isp": "Internet Vikings International AB"
     },
     {
         "flag": "🇳🇱",
@@ -98,6 +119,13 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇻🇳",
+        "ip_port": "113.176.118.150:1080",
+        "response_time": "119ms",
+        "country_code": "VN",
+        "isp": "VNPT"
+    },
+    {
         "flag": "🇮🇳",
         "ip_port": "139.59.93.221:27247",
         "response_time": "631ms",
@@ -107,7 +135,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "428ms",
+        "response_time": "681ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -128,8 +156,15 @@
     {
         "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "736ms",
+        "response_time": "689ms",
         "country_code": "US",
         "isp": "OVH US LLC"
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "113.160.188.21:1080",
+        "response_time": "426ms",
+        "country_code": "VN",
+        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
