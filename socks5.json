@@ -21,11 +21,25 @@
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇺🇸",
+        "ip_port": "45.79.189.110:28224",
+        "response_time": "288ms",
+        "country_code": "US",
+        "isp": "Akamai Technologies, Inc."
+    },
+    {
         "flag": "🇫🇷",
         "ip_port": "37.187.73.7:15229",
         "response_time": "764ms",
         "country_code": "FR",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇬🇧",
+        "ip_port": "178.79.165.164:40324",
+        "response_time": "777ms",
+        "country_code": "GB",
+        "isp": "Linode"
     },
     {
         "flag": "🇪🇸",
@@ -44,7 +58,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "68.183.118.66:28548",
-        "response_time": "750ms",
+        "response_time": "290ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -63,25 +77,11 @@
         "isp": "UARNET-LL"
     },
     {
-        "flag": "🇵🇸",
-        "ip_port": "93.184.4.254:1080",
-        "response_time": "496ms",
-        "country_code": "PS",
-        "isp": "BCI Telecommunication & Advanced Technology Company"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "64.202.184.129:5951",
-        "response_time": "394ms",
+        "response_time": "217ms",
         "country_code": "US",
         "isp": "GoDaddy.com, LLC"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "134.122.43.203:56442",
-        "response_time": "560ms",
-        "country_code": "CA",
-        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇸🇬",
@@ -107,7 +107,7 @@
     {
         "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
-        "response_time": "364ms",
+        "response_time": "581ms",
         "country_code": "RU",
         "isp": "Webmaster Agency Ltd"
     },
@@ -121,14 +121,14 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "193ms",
+        "response_time": "192ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "653ms",
+        "response_time": "193ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -142,7 +142,7 @@
     {
         "flag": "🇳🇱",
         "ip_port": "178.159.42.76:14300",
-        "response_time": "464ms",
+        "response_time": "477ms",
         "country_code": "NL",
         "isp": "Zomro B.V."
     },
@@ -170,8 +170,15 @@
     {
         "flag": "🇺🇸",
         "ip_port": "147.135.112.67:3081",
-        "response_time": "539ms",
+        "response_time": "290ms",
         "country_code": "US",
         "isp": "OVH US LLC"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "51.83.190.248:19050",
+        "response_time": "438ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
     }
 ]
