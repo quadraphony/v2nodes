@@ -23,16 +23,9 @@
     {
         "flag": "🇺🇸",
         "ip_port": "68.183.118.66:28548",
-        "response_time": "509ms",
+        "response_time": "646ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "64.202.184.129:5951",
-        "response_time": "195ms",
-        "country_code": "US",
-        "isp": "GoDaddy.com, LLC"
     },
     {
         "flag": "🇸🇬",
@@ -49,13 +42,6 @@
         "isp": "DigitalOcean, LLC"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "67.205.177.122:56826",
-        "response_time": "612ms",
-        "country_code": "US",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
         "response_time": "375ms",
@@ -65,7 +51,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "469ms",
+        "response_time": "465ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -79,9 +65,16 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "181ms",
+        "response_time": "183ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "37.44.238.2:63617",
+        "response_time": "531ms",
+        "country_code": "FR",
+        "isp": "Harmony Hosting SARL"
     },
     {
         "flag": "🇸🇬",
@@ -99,6 +92,13 @@
     },
     {
         "flag": "🇺🇦",
+        "ip_port": "31.41.90.142:1080",
+        "response_time": "445ms",
+        "country_code": "UA",
+        "isp": "New Information Systems PP"
+    },
+    {
+        "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
         "response_time": "368ms",
         "country_code": "UA",
@@ -107,7 +107,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "375ms",
+        "response_time": "712ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -124,5 +124,12 @@
         "response_time": "788ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "202.6.233.59:7878",
+        "response_time": "581ms",
+        "country_code": "ID",
+        "isp": "PT Padi Internet"
     }
 ]
