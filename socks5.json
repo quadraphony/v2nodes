@@ -21,13 +21,6 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇧🇷",
-        "ip_port": "187.63.9.62:63253",
-        "response_time": "721ms",
-        "country_code": "BR",
-        "isp": "Gigalink de Nova Friburgo Soluções em Rede Multimi"
-    },
-    {
         "flag": "🇺🇸",
         "ip_port": "68.183.118.66:28548",
         "response_time": "231ms",
@@ -93,7 +86,7 @@
     {
         "flag": "🇷🇺",
         "ip_port": "194.190.169.197:3701",
-        "response_time": "441ms",
+        "response_time": "402ms",
         "country_code": "RU",
         "isp": "Webmaster Agency Ltd"
     },
@@ -107,7 +100,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "776ms",
+        "response_time": "468ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -121,7 +114,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "203ms",
+        "response_time": "165ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -135,15 +128,8 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "757ms",
+        "response_time": "310ms",
         "country_code": "SG",
-        "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "51.79.51.174:10328",
-        "response_time": "757ms",
-        "country_code": "CA",
         "isp": "OVH SAS"
     },
     {
@@ -169,9 +155,23 @@
     },
     {
         "flag": "🇹🇷",
+        "ip_port": "185.87.121.35:8975",
+        "response_time": "483ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇹🇷",
         "ip_port": "185.87.121.5:8975",
         "response_time": "764ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.86.5.162:8975",
+        "response_time": "537ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
     }
 ]
