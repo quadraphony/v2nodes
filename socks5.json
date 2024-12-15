@@ -1,5 +1,12 @@
 [
     {
+        "flag": "🇩🇪",
+        "ip_port": "161.97.129.202:9060",
+        "response_time": "504ms",
+        "country_code": "DE",
+        "isp": "Contabo GmbH"
+    },
+    {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
         "response_time": "396ms",
@@ -12,13 +19,6 @@
         "response_time": "469ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "37.187.73.7:15229",
-        "response_time": "454ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
     },
     {
         "flag": "🇻🇳",
@@ -37,9 +37,16 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "381ms",
+        "response_time": "377ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "68.183.118.66:28548",
+        "response_time": "625ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇬🇧",
@@ -68,13 +75,6 @@
         "response_time": "590ms",
         "country_code": "CA",
         "isp": "Fibrenoire Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "64.202.184.129:5951",
-        "response_time": "579ms",
-        "country_code": "US",
-        "isp": "GoDaddy.com, LLC"
     },
     {
         "flag": "🇸🇬",
@@ -121,7 +121,7 @@
     {
         "flag": "🇫🇷",
         "ip_port": "37.44.238.2:63617",
-        "response_time": "794ms",
+        "response_time": "478ms",
         "country_code": "FR",
         "isp": "Harmony Hosting SARL"
     },
@@ -138,13 +138,6 @@
         "response_time": "664ms",
         "country_code": "CA",
         "isp": "Fibrenoire Inc"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "51.79.51.174:10328",
-        "response_time": "568ms",
-        "country_code": "CA",
-        "isp": "OVH SAS"
     },
     {
         "flag": "🇦🇺",
@@ -170,7 +163,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "372ms",
+        "response_time": "351ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
