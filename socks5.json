@@ -16,14 +16,14 @@
     {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "398ms",
+        "response_time": "437ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
     {
         "flag": "🇫🇷",
         "ip_port": "37.187.73.7:15229",
-        "response_time": "509ms",
+        "response_time": "564ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -44,14 +44,14 @@
     {
         "flag": "🇺🇸",
         "ip_port": "68.183.118.66:28548",
-        "response_time": "660ms",
+        "response_time": "543ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "632ms",
+        "response_time": "642ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -72,14 +72,14 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.234.144:14605",
-        "response_time": "325ms",
+        "response_time": "367ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "157.230.191.76:6486",
-        "response_time": "451ms",
+        "response_time": "709ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -107,7 +107,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "291ms",
+        "response_time": "190ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -133,23 +133,16 @@
         "isp": "Fibrenoire Inc"
     },
     {
-        "flag": "🇦🇺",
-        "ip_port": "185.139.155.155:1976",
-        "response_time": "717ms",
-        "country_code": "AU",
-        "isp": "Internet Vikings International AB"
-    },
-    {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "652ms",
+        "response_time": "372ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "606ms",
+        "response_time": "507ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -163,8 +156,22 @@
     {
         "flag": "🇹🇷",
         "ip_port": "185.86.5.162:8975",
-        "response_time": "441ms",
+        "response_time": "419ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇮🇩",
+        "ip_port": "202.6.233.59:7878",
+        "response_time": "215ms",
+        "country_code": "ID",
+        "isp": "PT Padi Internet"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "51.83.190.248:19050",
+        "response_time": "606ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
     }
 ]
