@@ -16,7 +16,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "421ms",
+        "response_time": "265ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
@@ -49,6 +49,13 @@
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇷🇺",
+        "ip_port": "185.112.224.151:1080",
+        "response_time": "431ms",
+        "country_code": "RU",
+        "isp": "Orion Telecom LLC"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "142.93.150.134:43093",
         "response_time": "514ms",
@@ -70,9 +77,16 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇻🇳",
+        "ip_port": "202.92.6.70:54580",
+        "response_time": "654ms",
+        "country_code": "VN",
+        "isp": "INET"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "468ms",
+        "response_time": "498ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -86,16 +100,30 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "205ms",
+        "response_time": "300ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
+        "flag": "🇫🇷",
+        "ip_port": "37.44.238.2:63617",
+        "response_time": "794ms",
+        "country_code": "FR",
+        "isp": "Harmony Hosting SARL"
+    },
+    {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "611ms",
+        "response_time": "174ms",
         "country_code": "SG",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "184.95.235.194:1080",
+        "response_time": "664ms",
+        "country_code": "CA",
+        "isp": "Fibrenoire Inc"
     },
     {
         "flag": "🇨🇦",
@@ -119,6 +147,13 @@
         "isp": "Zomro B.V."
     },
     {
+        "flag": "🇺🇦",
+        "ip_port": "91.200.115.49:1080",
+        "response_time": "592ms",
+        "country_code": "UA",
+        "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
+    },
+    {
         "flag": "🇻🇳",
         "ip_port": "113.176.118.150:1080",
         "response_time": "118ms",
@@ -131,6 +166,13 @@
         "response_time": "579ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.87.121.35:8975",
+        "response_time": "630ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
     },
     {
         "flag": "🇹🇷",
