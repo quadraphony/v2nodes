@@ -9,7 +9,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "166ms",
+        "response_time": "147ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -23,9 +23,16 @@
     {
         "flag": "🇫🇷",
         "ip_port": "37.187.73.7:15229",
-        "response_time": "790ms",
+        "response_time": "665ms",
         "country_code": "FR",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇧🇷",
+        "ip_port": "187.63.9.62:63253",
+        "response_time": "557ms",
+        "country_code": "BR",
+        "isp": "Gigalink de Nova Friburgo Soluções em Rede Multimi"
     },
     {
         "flag": "🇮🇩",
@@ -44,7 +51,7 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "616ms",
+        "response_time": "503ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
@@ -68,6 +75,13 @@
         "response_time": "613ms",
         "country_code": "US",
         "isp": "GoDaddy.com, LLC"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.234.144:14605",
+        "response_time": "227ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
@@ -103,13 +117,6 @@
         "response_time": "755ms",
         "country_code": "KR",
         "isp": "Oracle Corporation"
-    },
-    {
-        "flag": "🇳🇱",
-        "ip_port": "165.22.204.32:7497",
-        "response_time": "245ms",
-        "country_code": "NL",
-        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇰🇷",
@@ -173,5 +180,12 @@
         "response_time": "609ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇳🇱",
+        "ip_port": "31.220.43.141:16181",
+        "response_time": "740ms",
+        "country_code": "NL",
+        "isp": "HostHatch"
     }
 ]
