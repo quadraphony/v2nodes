@@ -28,16 +28,9 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇧🇷",
-        "ip_port": "187.63.9.62:63253",
-        "response_time": "437ms",
-        "country_code": "BR",
-        "isp": "Gigalink de Nova Friburgo Soluções em Rede Multimi"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "377ms",
+        "response_time": "387ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
@@ -56,20 +49,6 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇨🇦",
-        "ip_port": "142.93.150.134:43093",
-        "response_time": "572ms",
-        "country_code": "CA",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇲🇩",
-        "ip_port": "5.56.124.176:8192",
-        "response_time": "326ms",
-        "country_code": "MD",
-        "isp": "JSC \"Moldtelecom\" S.A"
-    },
-    {
         "flag": "🇱🇹",
         "ip_port": "213.252.245.221:8015",
         "response_time": "735ms",
@@ -79,28 +58,28 @@
     {
         "flag": "🇻🇳",
         "ip_port": "202.92.6.70:54580",
-        "response_time": "607ms",
+        "response_time": "498ms",
         "country_code": "VN",
         "isp": "INET"
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "770ms",
+        "response_time": "465ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇷🇺",
         "ip_port": "89.19.177.197:1080",
-        "response_time": "416ms",
+        "response_time": "323ms",
         "country_code": "RU",
         "isp": "OJSC Comcor"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "305ms",
+        "response_time": "204ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -114,9 +93,16 @@
     {
         "flag": "🇨🇦",
         "ip_port": "51.79.51.174:10328",
-        "response_time": "307ms",
+        "response_time": "426ms",
         "country_code": "CA",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇻🇳",
+        "ip_port": "113.176.118.150:1080",
+        "response_time": "313ms",
+        "country_code": "VN",
+        "isp": "VNPT"
     },
     {
         "flag": "🇿🇦",
@@ -138,5 +124,12 @@
         "response_time": "504ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇹🇷",
+        "ip_port": "185.87.121.5:8975",
+        "response_time": "586ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji A.S."
     }
 ]
