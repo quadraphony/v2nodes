@@ -30,14 +30,14 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "96ms",
+        "response_time": "791ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "68.183.118.66:28548",
-        "response_time": "477ms",
+        "response_time": "618ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -63,9 +63,23 @@
         "isp": "GoDaddy.com, LLC"
     },
     {
+        "flag": "🇿🇦",
+        "ip_port": "102.36.127.53:1080",
+        "response_time": "614ms",
+        "country_code": "ZA",
+        "isp": "Clear Access (Pty) Ltd"
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "67.205.177.122:56826",
+        "response_time": "557ms",
+        "country_code": "US",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "465ms",
+        "response_time": "462ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -79,7 +93,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "191ms",
+        "response_time": "173ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -131,12 +145,5 @@
         "response_time": "669ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
-    },
-    {
-        "flag": "🇯🇵",
-        "ip_port": "47.245.56.108:18181",
-        "response_time": "300ms",
-        "country_code": "JP",
-        "isp": "Alibaba.com LLC"
     }
 ]
