@@ -1,12 +1,5 @@
 [
     {
-        "flag": "🇩🇪",
-        "ip_port": "161.97.129.202:9060",
-        "response_time": "404ms",
-        "country_code": "DE",
-        "isp": "Contabo GmbH"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
         "response_time": "149ms",
@@ -58,14 +51,14 @@
     {
         "flag": "🇨🇦",
         "ip_port": "142.93.150.134:43093",
-        "response_time": "594ms",
+        "response_time": "728ms",
         "country_code": "CA",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇲🇩",
         "ip_port": "5.56.124.176:8192",
-        "response_time": "417ms",
+        "response_time": "402ms",
         "country_code": "MD",
         "isp": "JSC \"Moldtelecom\" S.A"
     },
@@ -114,7 +107,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "483ms",
+        "response_time": "463ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -128,7 +121,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "188ms",
+        "response_time": "172ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -155,8 +148,15 @@
     },
     {
         "flag": "🇹🇷",
+        "ip_port": "185.87.121.35:8975",
+        "response_time": "559ms",
+        "country_code": "TR",
+        "isp": "Ideal Hosting Teknoloji"
+    },
+    {
+        "flag": "🇹🇷",
         "ip_port": "185.87.121.5:8975",
-        "response_time": "543ms",
+        "response_time": "636ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
     },
