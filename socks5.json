@@ -9,7 +9,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "45.79.189.110:28224",
-        "response_time": "318ms",
+        "response_time": "641ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
     },
@@ -30,16 +30,30 @@
     {
         "flag": "🇺🇸",
         "ip_port": "68.183.118.66:28548",
-        "response_time": "388ms",
+        "response_time": "691ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇺🇦",
+        "ip_port": "194.44.208.62:80",
+        "response_time": "404ms",
+        "country_code": "UA",
+        "isp": "UARNET-LL"
+    },
+    {
         "flag": "🇨🇦",
-        "ip_port": "134.122.43.203:56442",
-        "response_time": "788ms",
+        "ip_port": "184.95.220.42:1080",
+        "response_time": "575ms",
         "country_code": "CA",
-        "isp": "DigitalOcean, LLC"
+        "isp": "Fibrenoire Inc."
+    },
+    {
+        "flag": "🇺🇸",
+        "ip_port": "64.202.184.129:5951",
+        "response_time": "414ms",
+        "country_code": "US",
+        "isp": "GoDaddy.com, LLC"
     },
     {
         "flag": "🇺🇸",
@@ -58,14 +72,14 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "461ms",
+        "response_time": "462ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "177ms",
+        "response_time": "172ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -74,13 +88,6 @@
         "ip_port": "51.79.248.208:14720",
         "response_time": "507ms",
         "country_code": "SG",
-        "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "51.79.51.174:10328",
-        "response_time": "797ms",
-        "country_code": "CA",
         "isp": "OVH SAS"
     },
     {
@@ -110,5 +117,12 @@
         "response_time": "495ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "51.83.190.248:19050",
+        "response_time": "362ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
     }
 ]
