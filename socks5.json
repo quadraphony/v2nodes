@@ -2,7 +2,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
-        "response_time": "213ms",
+        "response_time": "124ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -19,6 +19,13 @@
         "response_time": "609ms",
         "country_code": "FR",
         "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇪🇸",
+        "ip_port": "178.33.162.89:59490",
+        "response_time": "721ms",
+        "country_code": "ES",
+        "isp": "OVH ISP"
     },
     {
         "flag": "🇺🇸",
@@ -42,13 +49,6 @@
         "isp": "Orion Telecom LLC"
     },
     {
-        "flag": "🇨🇦",
-        "ip_port": "134.122.43.203:56442",
-        "response_time": "558ms",
-        "country_code": "CA",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "188.166.234.144:14605",
         "response_time": "348ms",
@@ -65,29 +65,36 @@
     {
         "flag": "🇻🇳",
         "ip_port": "202.92.6.70:54580",
-        "response_time": "270ms",
+        "response_time": "601ms",
         "country_code": "VN",
         "isp": "INET"
     },
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "653ms",
+        "response_time": "723ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "182ms",
+        "response_time": "179ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "188ms",
+        "response_time": "447ms",
         "country_code": "SG",
+        "isp": "OVH SAS"
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "51.79.51.174:10328",
+        "response_time": "684ms",
+        "country_code": "CA",
         "isp": "OVH SAS"
     },
     {
