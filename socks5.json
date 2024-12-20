@@ -30,7 +30,7 @@
     {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
-        "response_time": "61ms",
+        "response_time": "798ms",
         "country_code": "ID",
         "isp": "PT Gasatek Bintang Nusantara"
     },
@@ -42,6 +42,13 @@
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇵🇸",
+        "ip_port": "93.184.4.254:1080",
+        "response_time": "604ms",
+        "country_code": "PS",
+        "isp": "BCI Telecommunication & Advanced Technology Company"
+    },
+    {
         "flag": "🇨🇦",
         "ip_port": "134.122.43.203:56442",
         "response_time": "560ms",
@@ -51,7 +58,7 @@
     {
         "flag": "🇻🇳",
         "ip_port": "202.92.6.70:54580",
-        "response_time": "368ms",
+        "response_time": "379ms",
         "country_code": "VN",
         "isp": "INET"
     },
@@ -65,7 +72,7 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "198ms",
+        "response_time": "192ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -79,7 +86,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "334ms",
+        "response_time": "304ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -93,30 +100,9 @@
     {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "557ms",
+        "response_time": "247ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
-    },
-    {
-        "flag": "🇮🇳",
-        "ip_port": "139.59.93.221:27247",
-        "response_time": "638ms",
-        "country_code": "IN",
-        "isp": "DIGITALOCEAN"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "159.203.95.96:9026",
-        "response_time": "481ms",
-        "country_code": "US",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇺🇦",
-        "ip_port": "176.37.21.46:5678",
-        "response_time": "430ms",
-        "country_code": "UA",
-        "isp": "Lanet Network"
     },
     {
         "flag": "🇺🇸",
@@ -124,12 +110,5 @@
         "response_time": "678ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
-    },
-    {
-        "flag": "🇻🇳",
-        "ip_port": "113.160.188.21:1080",
-        "response_time": "94ms",
-        "country_code": "VN",
-        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
