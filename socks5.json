@@ -7,20 +7,6 @@
         "isp": "Spectrum NET"
     },
     {
-        "flag": "🇺🇸",
-        "ip_port": "198.23.143.24:6969",
-        "response_time": "632ms",
-        "country_code": "US",
-        "isp": "ColoCrossing"
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "45.79.189.110:28224",
-        "response_time": "715ms",
-        "country_code": "US",
-        "isp": "Akamai Technologies, Inc."
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
         "response_time": "773ms",
@@ -30,16 +16,23 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "578ms",
+        "response_time": "722ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇷🇺",
         "ip_port": "185.112.224.151:1080",
-        "response_time": "343ms",
+        "response_time": "386ms",
         "country_code": "RU",
         "isp": "Orion Telecom LLC"
+    },
+    {
+        "flag": "🇸🇬",
+        "ip_port": "188.166.234.144:14605",
+        "response_time": "256ms",
+        "country_code": "SG",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇸",
@@ -65,7 +58,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "790ms",
+        "response_time": "582ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -77,9 +70,16 @@
         "isp": "Zen Internet Ltd"
     },
     {
+        "flag": "🇸🇪",
+        "ip_port": "130.255.160.60:18946",
+        "response_time": "433ms",
+        "country_code": "SE",
+        "isp": "Internet Vikings"
+    },
+    {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "262ms",
+        "response_time": "186ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
@@ -93,7 +93,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "387ms",
+        "response_time": "253ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -107,7 +107,7 @@
     {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "274ms",
+        "response_time": "572ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
@@ -121,7 +121,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "489ms",
+        "response_time": "389ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
