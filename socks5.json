@@ -28,13 +28,6 @@
         "isp": "Md Ariful Haq"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.174.178.131:1020",
-        "response_time": "373ms",
-        "country_code": "ID",
-        "isp": "PT Gasatek Bintang Nusantara"
-    },
-    {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
         "response_time": "657ms",
@@ -58,7 +51,7 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "510ms",
+        "response_time": "768ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
@@ -70,6 +63,13 @@
         "isp": "Internet Vikings"
     },
     {
+        "flag": "🇳🇱",
+        "ip_port": "165.22.204.32:7497",
+        "response_time": "250ms",
+        "country_code": "NL",
+        "isp": "DigitalOcean, LLC"
+    },
+    {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
         "response_time": "174ms",
@@ -79,15 +79,8 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "540ms",
+        "response_time": "691ms",
         "country_code": "SG",
-        "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "51.79.51.174:10328",
-        "response_time": "492ms",
-        "country_code": "CA",
         "isp": "OVH SAS"
     },
     {
@@ -124,12 +117,5 @@
         "response_time": "620ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
-    },
-    {
-        "flag": "🇹🇷",
-        "ip_port": "185.86.5.162:8975",
-        "response_time": "623ms",
-        "country_code": "TR",
-        "isp": "Ideal Hosting Teknoloji"
     }
 ]
