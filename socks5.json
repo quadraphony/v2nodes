@@ -21,6 +21,13 @@
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇧🇩",
+        "ip_port": "103.180.203.133:8085",
+        "response_time": "108ms",
+        "country_code": "BD",
+        "isp": "Md Ariful Haq"
+    },
+    {
         "flag": "🇪🇸",
         "ip_port": "178.33.162.89:59490",
         "response_time": "735ms",
@@ -28,16 +35,9 @@
         "isp": "OVH ISP"
     },
     {
-        "flag": "🇮🇩",
-        "ip_port": "103.174.178.131:1020",
-        "response_time": "61ms",
-        "country_code": "ID",
-        "isp": "PT Gasatek Bintang Nusantara"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "188.166.234.144:14605",
-        "response_time": "248ms",
+        "response_time": "335ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
@@ -58,9 +58,16 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "201ms",
+        "response_time": "279ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
+    },
+    {
+        "flag": "🇫🇷",
+        "ip_port": "37.44.238.2:63617",
+        "response_time": "748ms",
+        "country_code": "FR",
+        "isp": "Harmony Hosting SARL"
     },
     {
         "flag": "🇸🇬",
@@ -86,7 +93,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "208ms",
+        "response_time": "477ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
