@@ -37,16 +37,23 @@
     {
         "flag": "🇷🇺",
         "ip_port": "94.73.251.19:1080",
-        "response_time": "708ms",
+        "response_time": "727ms",
         "country_code": "RU",
         "isp": "Orion Telecom LLC"
     },
     {
         "flag": "🇷🇺",
         "ip_port": "85.143.254.38:1080",
-        "response_time": "286ms",
+        "response_time": "300ms",
         "country_code": "RU",
         "isp": "Comfortel Ltd."
+    },
+    {
+        "flag": "🇨🇦",
+        "ip_port": "134.122.43.203:56442",
+        "response_time": "794ms",
+        "country_code": "CA",
+        "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇸🇬",
@@ -58,28 +65,21 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "793ms",
+        "response_time": "635ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "203ms",
+        "response_time": "197ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
-        "flag": "🇫🇷",
-        "ip_port": "37.44.238.2:63617",
-        "response_time": "586ms",
-        "country_code": "FR",
-        "isp": "Harmony Hosting SARL"
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "502ms",
+        "response_time": "764ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -98,13 +98,6 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇳🇱",
-        "ip_port": "178.159.42.76:14300",
-        "response_time": "704ms",
-        "country_code": "NL",
-        "isp": "Zomro B.V."
-    },
-    {
         "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
         "response_time": "439ms",
@@ -121,7 +114,7 @@
     {
         "flag": "🇹🇷",
         "ip_port": "185.87.121.35:8975",
-        "response_time": "633ms",
+        "response_time": "561ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
     },
