@@ -21,11 +21,25 @@
         "isp": "OVH SAS"
     },
     {
+        "flag": "🇫🇷",
+        "ip_port": "37.187.73.7:15229",
+        "response_time": "734ms",
+        "country_code": "FR",
+        "isp": "OVH SAS"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "69.164.206.8:1747",
-        "response_time": "509ms",
+        "response_time": "788ms",
         "country_code": "US",
         "isp": "Akamai Technologies, Inc."
+    },
+    {
+        "flag": "🇨🇴",
+        "ip_port": "181.48.80.212:29412",
+        "response_time": "528ms",
+        "country_code": "CO",
+        "isp": "Telmex Colombia S.A."
     },
     {
         "flag": "🇪🇸",
@@ -49,13 +63,6 @@
         "isp": "OVH SAS"
     },
     {
-        "flag": "🇷🇺",
-        "ip_port": "94.73.251.19:1080",
-        "response_time": "543ms",
-        "country_code": "RU",
-        "isp": "Orion Telecom LLC"
-    },
-    {
         "flag": "🇺🇦",
         "ip_port": "194.44.208.62:80",
         "response_time": "338ms",
@@ -68,13 +75,6 @@
         "response_time": "666ms",
         "country_code": "RU",
         "isp": "OJSC Telecom-Service"
-    },
-    {
-        "flag": "🇨🇦",
-        "ip_port": "184.95.220.42:1080",
-        "response_time": "584ms",
-        "country_code": "CA",
-        "isp": "Fibrenoire Inc."
     },
     {
         "flag": "🇺🇸",
@@ -114,21 +114,21 @@
     {
         "flag": "🇨🇳",
         "ip_port": "117.74.65.207:5441",
-        "response_time": "467ms",
+        "response_time": "469ms",
         "country_code": "CN",
         "isp": "CNC Group CHINA169 Hebei Province Network"
     },
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "188ms",
+        "response_time": "271ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇻🇳",
         "ip_port": "103.153.254.95:32323",
-        "response_time": "186ms",
+        "response_time": "234ms",
         "country_code": "VN",
         "isp": "VINAHOST-HN"
     },
@@ -142,7 +142,7 @@
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "621ms",
+        "response_time": "458ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
@@ -156,7 +156,7 @@
     {
         "flag": "🇨🇦",
         "ip_port": "51.79.51.174:10328",
-        "response_time": "469ms",
+        "response_time": "545ms",
         "country_code": "CA",
         "isp": "OVH SAS"
     },
@@ -189,6 +189,13 @@
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
     {
+        "flag": "🇿🇦",
+        "ip_port": "102.36.127.249:1080",
+        "response_time": "547ms",
+        "country_code": "ZA",
+        "isp": "Clear Access (Pty) Ltd"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "185.209.177.12:38404",
         "response_time": "267ms",
@@ -198,7 +205,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "199.204.248.155:33922",
-        "response_time": "313ms",
+        "response_time": "743ms",
         "country_code": "US",
         "isp": "Jumpline Inc"
     },
@@ -212,7 +219,7 @@
     {
         "flag": "🇹🇷",
         "ip_port": "185.87.121.5:8975",
-        "response_time": "450ms",
+        "response_time": "474ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji A.S."
     },
