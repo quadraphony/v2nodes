@@ -1,5 +1,12 @@
 [
     {
+        "flag": "🇷🇺",
+        "ip_port": "87.117.11.57:1080",
+        "response_time": "496ms",
+        "country_code": "RU",
+        "isp": "Macroregional South"
+    },
+    {
         "flag": "🇸🇬",
         "ip_port": "51.79.177.70:25435",
         "response_time": "222ms",
@@ -9,7 +16,7 @@
     {
         "flag": "🇫🇷",
         "ip_port": "37.187.73.7:15229",
-        "response_time": "658ms",
+        "response_time": "596ms",
         "country_code": "FR",
         "isp": "OVH SAS"
     },
@@ -21,13 +28,6 @@
         "isp": "Viettel Corporation"
     },
     {
-        "flag": "🇪🇸",
-        "ip_port": "178.33.162.89:59490",
-        "response_time": "494ms",
-        "country_code": "ES",
-        "isp": "OVH ISP"
-    },
-    {
         "flag": "🇮🇩",
         "ip_port": "103.174.178.131:1020",
         "response_time": "172ms",
@@ -37,16 +37,16 @@
     {
         "flag": "🇬🇧",
         "ip_port": "51.89.21.99:62311",
-        "response_time": "714ms",
+        "response_time": "725ms",
         "country_code": "GB",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇷🇺",
-        "ip_port": "85.143.254.38:1080",
-        "response_time": "406ms",
+        "ip_port": "94.73.251.19:1080",
+        "response_time": "794ms",
         "country_code": "RU",
-        "isp": "Comfortel Ltd."
+        "isp": "Orion Telecom LLC"
     },
     {
         "flag": "🇷🇺",
@@ -58,16 +58,9 @@
     {
         "flag": "🇺🇦",
         "ip_port": "194.44.208.62:80",
-        "response_time": "396ms",
+        "response_time": "306ms",
         "country_code": "UA",
         "isp": "UARNET-LL"
-    },
-    {
-        "flag": "🇷🇺",
-        "ip_port": "185.23.81.5:1080",
-        "response_time": "422ms",
-        "country_code": "RU",
-        "isp": "OJSC Telecom-Service"
     },
     {
         "flag": "🇸🇬",
@@ -75,13 +68,6 @@
         "response_time": "70ms",
         "country_code": "SG",
         "isp": "Akamai Technologies, Inc."
-    },
-    {
-        "flag": "🇺🇸",
-        "ip_port": "64.202.184.129:5951",
-        "response_time": "480ms",
-        "country_code": "US",
-        "isp": "GoDaddy.com, LLC"
     },
     {
         "flag": "🇫🇷",
@@ -98,6 +84,13 @@
         "isp": "DigitalOcean, LLC"
     },
     {
+        "flag": "🇬🇧",
+        "ip_port": "51.195.218.144:22294",
+        "response_time": "561ms",
+        "country_code": "GB",
+        "isp": "OVH SAS"
+    },
+    {
         "flag": "🇺🇸",
         "ip_port": "157.230.191.76:6486",
         "response_time": "560ms",
@@ -107,7 +100,7 @@
     {
         "flag": "🇺🇸",
         "ip_port": "67.205.177.122:56826",
-        "response_time": "478ms",
+        "response_time": "618ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -135,28 +128,28 @@
     {
         "flag": "🇰🇷",
         "ip_port": "183.111.180.80:80",
-        "response_time": "308ms",
+        "response_time": "176ms",
         "country_code": "KR",
         "isp": "Korea Telecom"
     },
     {
         "flag": "🇫🇷",
         "ip_port": "37.44.238.2:63617",
-        "response_time": "606ms",
+        "response_time": "613ms",
         "country_code": "FR",
         "isp": "Harmony Hosting SARL"
     },
     {
         "flag": "🇸🇬",
         "ip_port": "51.79.248.208:14720",
-        "response_time": "552ms",
+        "response_time": "571ms",
         "country_code": "SG",
         "isp": "OVH SAS"
     },
     {
         "flag": "🇺🇸",
         "ip_port": "143.198.229.56:60265",
-        "response_time": "494ms",
+        "response_time": "584ms",
         "country_code": "US",
         "isp": "DigitalOcean, LLC"
     },
@@ -169,22 +162,15 @@
     },
     {
         "flag": "🇸🇬",
-        "ip_port": "167.71.220.29:7497",
-        "response_time": "25ms",
-        "country_code": "SG",
-        "isp": "DigitalOcean, LLC"
-    },
-    {
-        "flag": "🇸🇬",
         "ip_port": "188.166.230.38:64768",
-        "response_time": "182ms",
+        "response_time": "277ms",
         "country_code": "SG",
         "isp": "DigitalOcean, LLC"
     },
     {
         "flag": "🇺🇦",
         "ip_port": "91.200.115.49:1080",
-        "response_time": "261ms",
+        "response_time": "361ms",
         "country_code": "UA",
         "isp": "Joint Ukrainian American Enterprise \"Telecommunications Resource Center\" ltd"
     },
@@ -194,13 +180,6 @@
         "response_time": "324ms",
         "country_code": "IN",
         "isp": "DIGITALOCEAN"
-    },
-    {
-        "flag": "🇺🇦",
-        "ip_port": "176.37.21.46:5678",
-        "response_time": "160ms",
-        "country_code": "UA",
-        "isp": "Lanet Network"
     },
     {
         "flag": "🇹🇷",
@@ -222,19 +201,5 @@
         "response_time": "502ms",
         "country_code": "TR",
         "isp": "Ideal Hosting Teknoloji"
-    },
-    {
-        "flag": "🇫🇷",
-        "ip_port": "51.83.190.248:19050",
-        "response_time": "758ms",
-        "country_code": "FR",
-        "isp": "OVH SAS"
-    },
-    {
-        "flag": "🇻🇳",
-        "ip_port": "113.160.188.21:1080",
-        "response_time": "126ms",
-        "country_code": "VN",
-        "isp": "VietNam Post and Telecom Corporation"
     }
 ]
